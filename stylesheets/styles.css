@@ -1,0 +1,54 @@
+
+.netsec {
+    color: lime;
+}
+
+.nk {
+    color: red;
+}
+
+.agent {
+    color: orange;
+}
+
+.w3c {
+    color: magenta;
+}
+
+.paragon {
+    color: cyan;
+}
+
+[data-md-color-scheme="custom"] {
+  --md-primary-fg-color:               black;
+  --md-primary-fg-color--light:        black;
+  --md-primary-fg-color--dark:         black;
+  --md-primary-bg-color:               white;
+  --md-primary-bg-color--light:        white;
+
+  --md-accent-fg-color:                white;
+  --md-accent-fg-color--transparent:   white;
+  --md-accent-bg-color:                black;
+  --md-accent-bg-color--light:         black;
+
+  --md-default-fg-color:               white;
+  --md-default-fg-color--light:        white;
+  --md-default-fg-color--lighter:      white;
+  --md-default-fg-color--lightest:     black;
+  --md-default-bg-color:               black;
+  --md-default-bg-color--light:        black;
+  --md-default-bg-color--lighter:      black;
+  --md-default-bg-color--lightest:     black;
+
+  --md-code-fg-color:                  white;
+  --md-code-bg-color:                  black;
+
+  --md-typeset-color:                  white;
+  --md-typeset-a-color:                white;
+
+  --md-footer-fg-color:                white;
+  --md-footer-fg-color--light:         white;
+  --md-footer-fg-color--lighter:       white;
+  --md-footer-bg-color:                black;
+  --md-footer-bg-color--dark:          black;
+}
