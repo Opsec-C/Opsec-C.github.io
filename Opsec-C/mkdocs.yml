@@ -13,11 +13,11 @@ validation:
 theme:
   name: material
   font:
-    code: VT323
+    text: Courier New
   palette:
     scheme: custom
     primary: custom
-    ascent: custom
+    accent: custom
 nav:
     - Home: index.md
     - Opsecs:

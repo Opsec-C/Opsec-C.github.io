@@ -1,3 +1,24 @@
+
+.netsec {
+    color: lime;
+}
+
+.nk {
+    color: red;
+}
+
+.agent {
+    color: orange;
+}
+
+.w3c {
+    color: magenta;
+}
+
+.paragon {
+    color: cyan;
+}
+
 [data-md-color-scheme="custom"] {
   --md-primary-fg-color:               black;
   --md-primary-fg-color--light:        black;
