@@ -1,3 +1,36 @@
 site_name: Opsec C
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+extra_css:
+  - stylesheets/styles.css
+validation:
+  omitted_files: ignore
+  absolute_links: ignore
+  unrecognized_links: ignore
+  not_found: ignore
 theme:
-    name: simple-blog
+  name: material
+  font:
+    code: VT323
+  palette:
+    scheme: custom
+    primary: custom
+    ascent: custom
+nav:
+    - Home: index.md
+    - Opsecs:
+        - Opsec C: opsecs/opsecC.md
+        - Opsec R: opsecs/opsecR.md
+    - General Rules: opsecs/tips.md
+    - Role List: opsecs/rolelist.md
+    - Roles:
+        - Netsec:
+            - Netsec Special:
+                - Operation Leader: opsecs/rolelist.md
+            - Netsec Special:
+                - Operation Leader: opsecs/rolelist.md
+        - Agent:
+            - Netsec Special:
+                - Operation Leader: opsecs/rolelist.md

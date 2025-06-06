@@ -1,0 +1,31 @@
+
+- Any faction can have wiretap, alter logs, ISP, rollback, wipe, encrypt logs, frame, arrest, murder, 0-day, and more. No matter how “against” or “for” Netsec an ability is, the ability can be in any role. Be creative!
+- You can use disorganized murder, desperate measures, and any time gated ability from the first day.
+- Plea deal does NOT exist mechanically from Agents. You start from your faction (or are converted through your own choices).
+- Almost every role has the ability to unskilled attack and/or hack, including field ops roles.
+- Cameras on any role do NOT get seen by other roles with cameras.
+- Escort and Fake Escort can only select the same target every other day.
+- Cover Your Tracks leaves a notification that the target was unarrestable.
+- ISP/Jam Network can be used to block DDOS, rollbacks, and other abilities.
+- DDOS is globally announced again.
+- Review Connection Logs also makes you immune to Jam Network for tomorrow.
+- Impersonate allows you to rename your operative to allow for a 50% chance to target either operative. Troll Operative allows you to change another operative’s name.
+- Ask the Right Question gives the operative’s hack chance too.
+- Doxx works similarly to default Untrusted.
+- Midnight Meet is designed to have prosopagnosia on by default (cannot see who met), but many people disliked this, so this may not be the case.
+- Review Specialization checks subclass.
+- Speech Analysis checks if operatives can win together.
+- For the Cause hunts moles and checks win conditions.
+- Wiretap either checks operative matching or plea deal offers.
+- Review TCP determines if you hacked or not.
+- Frame, cover, and ability pool can be selected by the player rather than forced randomly.
+- Voting can be silent, shown, or forced.
+- There are abilities that can use Broadcast that aren’t Operation Leader.
+- There are abilities to manually upload intel for others to download.
+- Agents can be arrested when framed. Yep.
+- Root does not instantly lose or win the game.
+- The Operation Leader may not be Netsec aligned.
+- The Agent Leader is now an offensive subclass role.
+- There are many other changes, but these are the critical ones.
+
+<br>
