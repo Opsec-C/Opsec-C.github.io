@@ -27,10 +27,45 @@ nav:
     - Role List: opsecs/rolelist.md
     - Roles:
         - Netsec:
+            - Netsec:
             - Netsec Special:
-                - Operation Leader: opsecs/rolelist.md
-            - Netsec Special:
-                - Operation Leader: opsecs/rolelist.md
+            - Netsec Field Operations:
+            - Netsec Investigative:
+            - Netsec Offensive:
+            - Netsec Utility:
+            - Netsec Social:
+        - Neutral:
+            - Neutral:
+            - Neutral Special:
+            - Neutral Field Operations:
+            - Neutral Investigative:
+            - Neutral Offensive:
+            - Neutral Utility:
+            - Neutral Social:
+            - Neutral Killing:
         - Agent:
-            - Netsec Special:
-                - Operation Leader: opsecs/rolelist.md
+            - Core Agent Special:
+            - Core Agent Field Operations:
+            - Core Agent Investigative:
+            - Core Agent Offensive:
+            - Core Agent Utility:
+            - Core Agent Social:
+            - Mole Agent Field Operations:
+            - Mole Agent Investigative:
+            - Mole Agent Offensive:
+            - Mole Agent Utility:
+            - Mole Agent Social:
+        - W3C:
+            - W3C Special:
+            - W3C Field Operations:
+            - W3C Investigative:
+            - W3C Offensive:
+            - W3C Utility:
+            - W3C Social:
+        - Paragon:
+            - Paragon Special:
+            - Paragon Field Operations:
+            - Paragon Investigative:
+            - Paragon Offensive:
+            - Paragon Utility:
+            - Paragon Social:
