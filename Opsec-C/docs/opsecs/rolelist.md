@@ -1,0 +1,218 @@
+- <span class="netsec">Netsec:</span>
+    - [<span class="netsec">Netsec</span>](netsec/netsec)
+    - <span class="netsec">Netsec Special:</span>
+        - [<span class="netsec">Operation Leader</span>](netsec/NetsecSpecial/OperationLeader)
+        - [<span class="netsec">Former Agent Leader</span>](netsec/NetsecSpecial/FormerAgentLeader)
+        - [<span class="netsec">Hack God</span>](netsec/NetsecSpecial/HackGod)
+        - [<span class="netsec">Infamous Cybercriminal</span>](netsec/NetsecSpecial/InfamousCybercriminal)
+        - [<span class="netsec">Old Friend</span>](netsec/NetsecSpecial/OldFriend)
+    - <span class="netsec">Netsec Field Operations:</span>
+        - [<span class="netsec">Enforcer</span></span>](netsec/NetsecFieldOps/Enforcer)
+        - [<span class="netsec">CCTV Specialist</span></span>](netsec/NetsecFieldOps/CCTVSpecialist)
+        - [<span class="netsec">Rookie Hacker</span></span>](netsec/NetsecFieldOps/RookieHacker)
+        - [<span class="netsec">Improvised Hacker</span></span>](netsec/NetsecFieldOps/ImprovisedHacker)
+        - [<span class="netsec">Nightclub Guard</span></span>](netsec/NetsecFieldOps/NightclubGuard)
+        - [<span class="netsec">Hardware Hacker</span></span>](netsec/NetsecFieldOps/HardwareHacker)
+        - [<span class="netsec">Entertainer</span></span>](netsec/NetsecFieldOps/Entertainer)
+        - [<span class="netsec">Getaway Driver</span></span>](netsec/NetsecFieldOps/GetawayDriver)
+        - [<span class="netsec">Arms Dealer</span></span>](netsec/NetsecFieldOps/ArmsDealer)
+    - <span class="netsec">Netsec Investigative:</span>
+        - [<span class="netsec">Analyst</span>](netsec/NetsecInvest/Analyst)
+        - [<span class="netsec">Social Engineer</span>](netsec/NetsecInvest/SocialEngineer)
+        - [<span class="netsec">Computer Technician</span>](netsec/NetsecInvest/ComputerTechnician)
+        - [<span class="netsec">Inside Man (Detective)</span>](netsec/NetsecInvest/InsideManDetective)
+        - [<span class="netsec">Dark Web Contact</span>](netsec/NetsecInvest/DarkWebContact)
+        - [<span class="netsec">Natural Linguist</span>](netsec/NetsecInvest/NaturalLinguist)
+        - [<span class="netsec">Computer Vision Engineer</span>](netsec/NetsecInvest/ComputerVisionEngineer)
+        - [<span class="netsec">Technical Project Manager</span>](netsec/NetsecInvest/TechnicalProjectManager)
+        - [<span class="netsec">Search Engine Optimizer</span>](netsec/NetsecInvest/SearchEngineOptimizer)
+        - [<span class="netsec">AI Generalist</span>](netsec/NetsecInvest/AIGeneralist)
+    - <span class="netsec">Netsec Offensive:</span>
+        - [<span class="netsec">Network Specialist</span>](netsec/NetsecOffensive/NetworkSpecialist)
+        - [<span class="netsec">Blackhat</span>](netsec/NetsecOffensive/Blackhat)
+        - [<span class="netsec">Prodigy</span>](netsec/NetsecOffensive/Prodigy)
+        - [<span class="netsec">Laptop Specialist</span>](netsec/NetsecOffensive/LaptopSpecialist)
+        - [<span class="netsec">Server Specialist</span>](netsec/NetsecOffensive/ServerSpecialist)
+        - [<span class="netsec">Steadfast Student</span>](netsec/NetsecOffensive/SteadfastStudent)
+        - [<span class="netsec">Network Architect</span>](netsec/NetsecOffensive/NetworkArchitect)
+        - [<span class="netsec">Inside Man (Software Engineer)</span>](netsec/NetsecOffensive/InsideManSoftwareEngineer)
+        - [<span class="netsec">Graph Theorist</span>](netsec/NetsecOffensive/GraphTheorist)
+        - [<span class="netsec">Reverse Cryptographer</span>](netsec/NetsecOffensive/ReverseCryptographer)
+    - <span class="netsec">Netsec Utility:</span>
+        - [<span class="netsec">Inside Man (Assistant)</span>](netsec/NetsecUtility/InsideManAssistant)
+        - [<span class="netsec">Hacking Instructor</span>](netsec/NetsecUtility/HackingInstructor)
+        - [<span class="netsec">Spearphisher</span>](netsec/NetsecUtility/Spearphisher)
+        - [<span class="netsec">Loan Shark</span>](netsec/NetsecUtility/LoanShark)
+        - [<span class="netsec">Propagandist</span>](netsec/NetsecUtility/Propagandist)
+        - [<span class="netsec">Maintenance Man</span>](netsec/NetsecUtility/MaintenanceMan)
+        - [<span class="netsec">Malware Programmer</span>](netsec/NetsecUtility/MalwareProgrammer)
+        - [<span class="netsec">Sympathetic Reporter</span>](netsec/NetsecUtility/SympatheticReporter)
+        - [<span class="netsec">Drug Dealer</span>](netsec/NetsecUtility/DrugDealer)
+        - [<span class="netsec">Criminal Coroner</span>](netsec/NetsecUtility/CriminalCoroner)
+    - <span class="netsec">Netsec Social:</span>
+        - [<span class="netsec">Disgraced Loyalist</span>](netsec/NetsecSocial/DisgracedLoyalist)
+        - [<span class="netsec">Double Agent</span>](netsec/NetsecSocial/DoubleAgent)
+        - [<span class="netsec">Hacking Advocate</span>](netsec/NetsecSocial/HackingAdvocate)
+        - [<span class="netsec">Technical Recruiter</span>](netsec/NetsecSocial/TechnicalRecruiter)
+        - [<span class="netsec">Silenced Investigator</span>](netsec/NetsecSocial/SilencedInvestigator)
+        - [<span class="netsec">Rookie Assassin</span>](netsec/NetsecSocial/RookieAssassin)
+        - [<span class="netsec">Social Media Manager</span>](netsec/NetsecSocial/SocialMediaManager)
+        - [<span class="netsec">NFT Scammer</span>](netsec/NetsecSocial/NFTScammer)
+        - [<span class="netsec">Vibe Coder</span>](netsec/NetsecSocial/VibeCoder)
+- Neutral:
+    - Neutral:
+        - [Neutral](neutral/neutral)
+        - [Neutral Killing](neutral/nk)
+    - Neutral Special:
+        - [Neutral Leader](neutral/NeutralSpecial/NeutralLeader)
+        - [Gambling Leader](neutral/NeutralSpecial/GamblingLeader)
+        - [Cheeseburger Technician](neutral/NeutralSpecial/CheeseburgerTechnician)
+        - [Sociopath](neutral/NeutralSpecial/Sociopath)
+        - [Resentful Criminal](neutral/NeutralSpecial/ResentfulCriminal)
+        - [The Employer](neutral/NeutralSpecial/TheEmployer)
+    - Neutral Field Operations:
+        - [Loose Cannon](neutral/NeutralFieldOps/LooseCannon)
+        - [Bounty Hunter](neutral/NeutralFieldOps/BountyHunter)
+        - [Criminal Freelancer](neutral/NeutralFieldOps/CriminalFreelancer)
+        - [Insane Officer](neutral/NeutralFieldOps/InsaneOfficer)
+        - [Former Bodyguard](neutral/NeutralFieldOps/FormerBodyguard)
+        - [Contracted Headhunter](neutral/NeutralFieldOps/ContractedHeadhunter)
+    - Neutral Investigative:
+        - [Journalist](neutral/NeutralInvest/Journalist)
+        - [Double Crosser](neutral/NeutralInvest/DoubleCrosser)
+        - [Shamed Journalist](neutral/NeutralInvest/ShamedJournalist)
+        - [Amateur Investigator](neutral/NeutralInvest/AmateurInvestigator)
+        - [Private Investigator](neutral/NeutralInvest/PrivateInvestigator)
+        - [Repressed Refugee](neutral/NeutralInvest/RepressedRefugee)
+        - [Vengeful Assassin](neutral/NeutralInvest/VengefulAssassin)
+    - Neutral Offensive:
+        - [Script Kiddie](neutral/NeutralOffensive/ScriptKiddie)
+        - [Panicked Blabbermouth](neutral/NeutralOffensive/PanickedBlabbermouth)
+        - [Rival Hacker](neutral/NeutralOffensive/RivalHacker)
+        - [Hacknet Hacker](neutral/NeutralOffensive/HacknetHacker)
+        - [Connection Specialist](neutral/NeutralOffensive/ConnectionSpecialist)
+        - [Discord Manager](neutral/NeutralOffensive/DiscordManager)
+    - Neutral Utility:
+        - [W.P.P. Member](neutral/NeutralUtility/WPPMember)
+        - [Insane Drug Dealer](neutral/NeutralUtility/InsaneDrugDealer)
+        - [Retired Hacker](neutral/NeutralUtility/RetiredHacker)
+        - [Disconnected Paragon Operative](neutral/NeutralUtility/DisconnectedParagonOperative)
+        - [Abandoned Agent](neutral/NeutralUtility/AbandonedAgent)
+        - [Political Campaigner](neutral/NeutralUtility/PoliticalCampaigner)
+    - Neutral Social:
+        - [Corrupt Detective](neutral/NeutralSocial/CorruptDetective)
+        - [Waxmart Manager](neutral/NeutralSocial/WaxmartManager)
+        - [Corrupt Lawyer](neutral/NeutralSocial/CorruptLawyer)
+        - [Reminiscing Amnesiac](neutral/NeutralSocial/ReminiscingAmnesiac)
+        - [King of Trolls](neutral/NeutralSocial/KingOfTrolls)
+        - [Wildcard](neutral/NeutralSocial/Wildcard)
+        - [Drunken Agent](neutral/NeutralSocial/DrunkenAgent)
+    - <span class="nk">Neutral Killing:</span>
+        - [<span class="nk">Sociopath Leader</span>](neutral/NeutralKilling/SociopathLeader)
+        - [<span class="nk">Rogue Mastermind</span>](neutral/NeutralKilling/RogueMastermind)
+        - [<span class="nk">F/A-18 Super Hornet Pilot</span>](neutral/NeutralKilling/FA18SuperHornetPilot)
+        - [<span class="nk">Psychopath</span>](neutral/NeutralKilling/Psychopath)
+        - [<span class="nk">Bombardier</span>](neutral/NeutralKilling/Bombadier)
+        - [<span class="nk">Rogue Assassin</span>](neutral/NeutralKilling/RogueAssassin)
+        - [<span class="nk">Underground Ring Fighter</span>](neutral/NeutralKilling/UndergroundRingFighter)
+        - [<span class="nk">Italian Mafia</span>](neutral/NeutralKilling/ItalianMafia)
+- <span class="agent">Agent:</span>
+    - [<span class="agent">Agent</span>](agent/agent)
+    - <span class="agent">Core Agent Special:</span>
+        - [<span class="agent">Blackmailed Leader</span>](agent/CoreAgentSpecial/BlackmailedLeader)
+        - [<span class="agent">Runaway Snitch</span>](agent/CoreAgentSpecial/RunawaySnitch)
+        - [<span class="agent">Founder of Agent</span>](agent/CoreAgentSpecial/FounderOfAgent)
+    - <span class="agent">Core Agent Field Operations:</span>
+        - [<span class="agent">Field Agent</span>](agent/CoreAgentFieldOps/FieldAgent)
+        - [<span class="agent">Determined Deputy</span>](agent/CoreAgentFieldOps/DeterminedDeputy)
+        - [<span class="agent">Drone Operator</span>](agent/CoreAgentFieldOps/DroneOperator)
+        - [<span class="agent">Police Chief</span>](agent/CoreAgentFieldOps/PoliceChief)
+        - [<span class="agent">K-9 Unit</span>](agent/CoreAgentFieldOps/K9Unit)
+        - [<span class="agent">Police Car Driver</span>](agent/CoreAgentFieldOps/PoliceCarDriver)
+    - <span class="agent">Core Agent Investigative:</span>
+        - [<span class="agent">Forensic Specialist</span>](agent/CoreAgentInvest/ForensicSpecialist)
+        - [<span class="agent">Cybercrime Investigator</span>](agent/CoreAgentInvest/CybercrimeInvestigator)
+        - [<span class="agent">Rookie Informant</span>](agent/CoreAgentInvest/RookieInformant)
+        - [<span class="agent">Helicopter Operator</span>](agent/CoreAgentInvest/HelicopterOperator)
+        - [<span class="agent">Narcotics Officer</span>](agent/CoreAgentInvest/NarcoticsOfficer)
+    - <span class="agent">Core Agent Offensive:</span>
+        - [<span class="agent">Agent Leader</span>](agent/CoreAgentOffensive/AgentLeader)
+        - [<span class="agent">Cipher Lord</span>](agent/CoreAgentOffensive/CipherLord)
+        - [<span class="agent">Robocop</span>](agent/CoreAgentOffensive/Robocop)
+        - [<span class="agent">Expert Whitehat</span>](agent/CoreAgentOffensive/ExpertWhitehat)
+    - <span class="agent">Core Agent Utility:</span>
+        - [<span class="agent">Criminal Psychologist</span>](agent/CoreAgentUtility/CriminalPsychologist)
+        - [<span class="agent">Commissary Officer</span>](agent/CoreAgentUtility/CommissaryOfficer)
+        - [<span class="agent">Master Manipulator</span>](agent/CoreAgentUtility/MasterManipulator)
+        - [<span class="agent">Jail Warden</span>](agent/CoreAgentUtility/JailWarden)
+        - [<span class="agent">Animal Tamer</span>](agent/CoreAgentUtility/AnimalTamer)
+    - <span class="agent">Core Agent Social:</span>
+        - [<span class="agent">District Attorney</span>](agent/CoreAgentSocial/DistrictAttorney)
+        - [<span class="agent">Vigilante Decipherer</span>](agent/CoreAgentSocial/VigilanteDecipherer)
+        - [<span class="agent">Elusive Framer</span>](agent/CoreAgentSocial/ElusiveFramer)
+        - [<span class="agent">Persuaded News Reporter</span>](agent/CoreAgentSocial/PersuadedNewsReporter)
+    - <span class="agent">Mole Agent Field Operations:</span>
+        - [<span class="agent">Agent Enforcer</span>](agent/MoleAgentFieldOps/AgentEnforcer)
+        - [<span class="agent">Agent CCTV Specialist</span>](agent/MoleAgentFieldOps/AgentCCTVSpecialist)
+        - [<span class="agent">Agent Hardware Hacker</span>](agent/MoleAgentFieldOps/AgentHardwareHacker)
+        - [<span class="agent">Specialist</span>](agent/MoleAgentFieldOps/Specialist)
+    - <span class="agent">Mole Agent Investigative:</span>
+        - [<span class="agent">Agent Data Scientist</span>](agent/MoleAgentInvest/AgentDataScientist)
+        - [<span class="agent">Agent Social Engineer</span>](agent/MoleAgentInvest/AgentSocialEngineer)
+        - [<span class="agent">Agent Ethical Hacker</span>](agent/MoleAgentInvest/AgentEthicalHacker)
+        - [<span class="agent">Initiator</span>](agent/MoleAgentInvest/Initiator)
+    - <span class="agent">Mole Agent Offensive:</span>
+        - [<span class="agent">Whitehat</span>](agent/MoleAgentOffensive/Whitehat)
+        - [<span class="agent">Agent Network Specialist</span>](agent/MoleAgentOffensive/AgentNetworkSpecialist)
+        - [<span class="agent">Agent Network Architect</span>](agent/MoleAgentOffensive/AgentNetworkArchitect)
+        - [<span class="agent">Operator</span>](agent/MoleAgentOffensive/Operator)
+    - <span class="agent">Mole Agent Utility:</span>
+        - [<span class="agent">Agent Company Man</span>](agent/MoleAgentUtility/AgentCompanyMan)
+        - [<span class="agent">Agent Graph Theorist</span>](agent/MoleAgentUtility/AgentCompanyMan)
+        - [<span class="agent">Agent Database Manager</span>](agent/MoleAgentUtility/AgentDatabaseManager)
+    - <span class="agent">Mole Agent Social:</span>
+        - [<span class="agent">Agent Amateur Investigator</span>](agent/MoleAgentSocial/AgentAmateurInvestigator)
+        - [<span class="agent">Agent Technical Recruiter</span>](agent/MoleAgentSocial/AgentTechnicalRecruiter)
+- <span class="w3c">W3C:</span>
+    - [<span class="w3c">W3C</span>](w3c/w3c)
+    - <span class="w3c">W3C Special:</span>
+        - [<span class="w3c">W3C Operation Leader</span>](w3c/W3CSpecial/W3COperationLeader)
+        - [<span class="w3c">W3C Leader</span>](w3c/W3CSpecial/W3CLeader)
+    - <span class="w3c">W3C Field Operations:</span>
+        - [<span class="w3c">W3C Enforcer</span>](w3c/W3CFieldOps/W3CEnforcer)
+        - [<span class="w3c">W3C Blackmailer</span>](w3c/W3CFieldOps/W3CBlackmailer)
+    - <span class="w3c">W3C Investigative:</span>
+        - [<span class="w3c">W3C Stalker</span>](w3c/W3CInvest/W3CStalker)
+        - [<span class="w3c">W3C Forger</span>](w3c/W3CInvest/W3CForger)
+        - [<span class="w3c">W3C Ambusher</span>](w3c/W3CInvest/W3CAmbusher)
+    - <span class="w3c">W3C Offensive:</span>
+        - [<span class="w3c">W3C Blackhat</span>](w3c/W3COffensive/W3CBlackhat)
+        - [<span class="w3c">W3C Disruptor</span>](w3c/W3COffensive/W3CDisruptor)
+        - [<span class="w3c">W3C Graph Theorist</span>](w3c/W3COffensive/W3CGraphTheorist)
+    - <span class="w3c">W3C Utility:</span>
+        - [<span class="w3c">W3C Lab Technician</span>](w3c/W3CUtility/W3CLabTechnician)
+        - [<span class="w3c">W3C Insider</span>](w3c/W3CUtility/W3CInsider)
+        - [<span class="w3c">W3C Janitor</span>](w3c/W3CUtility/W3CJanitor)
+    - <span class="w3c">W3C Social:</span>
+        - [<span class="w3c">W3C Technical Recruiter</span>](w3c/W3CSocial/W3CTechnicianRecruiter)
+        - [<span class="w3c">W3C Assassin</span>](w3c/W3CSocial/W3CAssassin)
+- <span class="paragon">Paragon:</span>
+    - [<span class="paragon">Paragon</span>](paragon/paragon)
+    - <span class="paragon">Paragon Special:</span>
+        - [<span class="paragon">Paragon Operation Leader</span>](paragon/ParagonSpecial/ParagonOperationLeader)
+        - [<span class="paragon">Paragon Leader</span>](paragon/ParagonSpecial/ParagonLeader)
+    - <span class="paragon">Paragon Field Operations:</span>
+        - [<span class="paragon">Paragon Scout</span>](paragon/ParagonFieldOps/ParagonScout)
+        - [<span class="paragon">Paragon Ex-Mercenary</span>](paragon/ParagonFieldOps/ParagonExMercenary)
+    - <span class="paragon">Paragon Investigative:</span>
+        - [<span class="paragon">Paragon Journalist</span>](paragon/ParagonInvest/ParagonJournalist)
+        - [<span class="paragon">Paragon Informant</span>](paragon/ParagonInvest/ParagonInformant)
+    - <span class="paragon">Paragon Offensive:</span>
+        - [<span class="paragon">Paragon Prodigy</span>](paragon/ParagonOffensive/ParagonProdigy)
+        - [<span class="paragon">Paragon Security Specialist</span>](paragon/ParagonOffensive/ParagonSecuritySpecialist)
+        - [<span class="paragon">Paragon Search Engine Optimizer</span>](paragon/ParagonOffensive/ParagonSearchEngineOptimizer)
+    - <span class="paragon">Paragon Utility:</span>
+        - [<span class="paragon">Paragon Head of Personnel</span>](paragon/ParagonUtility/ParagonHeadOfPersonnel)
+        - [<span class="paragon">Paragon Ex-Mole</span>](paragon/ParagonUtility/ParagonExMole)
+    - <span class="paragon">Paragon Social:</span>
+        - [<span class="paragon">Paragon Assassin</span>](paragon/ParagonSocial/ParagonAssassin)
