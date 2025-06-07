@@ -56,37 +56,37 @@ nav:
           - Search Engine Optimizer: rolelist/netsec/NetsecInvest/SearchEngineOptimizer.md
           - AI Generalist: rolelist/netsec/NetsecInvest/AIGeneralist.md
         - Netsec Offensive:
-          - Network Specialist: rolelist/netsec/NetworkOffensive/NetworkSpecialist.md
-          - Blackhat: rolelist/netsec/NetworkOffensive/Blackhat.md
-          - Prodigy: rolelist/netsec/NetworkOffensive/Prodigy.md
-          - Laptop Specialist: rolelist/netsec/NetworkOffensive/LaptopSpecialist.md
-          - Server Specialist: rolelist/netsec/NetworkOffensive/ServerSpecialist.md
-          - Steadfast Student: rolelist/netsec/NetworkOffensive/SteadfastStudent.md
-          - Network Architect: rolelist/netsec/NetworkOffensive/NetworkArchitect.md
-          - Inside Man (Software Engineer): rolelist/netsec/NetworkOffensive/InsideManSoftw.mdareEngineer
-          - Graph Theorist: rolelist/netsec/NetworkOffensive/GraphTheorist.md
-          - Reverse Cryptographer: rolelist/netsec/NetworkOffensive/ReverseCryptographer.md
+          - Network Specialist: rolelist/netsec/NetsecOffensive/NetworkSpecialist.md
+          - Blackhat: rolelist/netsec/NetsecOffensive/Blackhat.md
+          - Prodigy: rolelist/netsec/NetsecOffensive/Prodigy.md
+          - Laptop Specialist: rolelist/netsec/NetsecOffensive/LaptopSpecialist.md
+          - Server Specialist: rolelist/netsec/NetsecOffensive/ServerSpecialist.md
+          - Steadfast Student: rolelist/netsec/NetsecOffensive/SteadfastStudent.md
+          - Network Architect: rolelist/netsec/NetsecOffensive/NetworkArchitect.md
+          - Inside Man (Software Engineer): rolelist/netsec/NetsecOffensive/InsideManSoftwareEngineer.md
+          - Graph Theorist: rolelist/netsec/NetsecOffensive/GraphTheorist.md
+          - Reverse Cryptographer: rolelist/netsec/NetsecOffensive/ReverseCryptographer.md
         - Netsec Utility:
-          - Inside Man (Assistant): rolelist/netsec/NetworkUtility/InsideManAssistant.md
-          - Hacking Instructor: rolelist/netsec/NetworkUtility/HackingInstructor.md
-          - Spearphisher: rolelist/netsec/NetworkUtility/Spearphisher.md
-          - Loan Shark: rolelist/netsec/NetworkUtility/LoanShark.md
-          - Propagandist: rolelist/netsec/NetworkUtility/Propagandist.md
-          - Maintenance Man: rolelist/netsec/NetworkUtility/MaintenanceMan.md
-          - Malware Programmer: rolelist/netsec/NetworkUtility/MalwareProgrammer.md
-          - Sympathetic Reporter: rolelist/netsec/NetworkUtility/SympatheticReporter.md
-          - Drug Dealer: rolelist/netsec/NetworkUtility/DrugDealer.md
-          - Criminal Coroner: rolelist/netsec/NetworkUtility/CriminalCoroner.md
+          - Inside Man (Assistant): rolelist/netsec/NetsecUtility/InsideManAssistant.md
+          - Hacking Instructor: rolelist/netsec/NetsecUtility/HackingInstructor.md
+          - Spearphisher: rolelist/netsec/NetsecUtility/Spearphisher.md
+          - Loan Shark: rolelist/netsec/NetsecUtility/LoanShark.md
+          - Propagandist: rolelist/netsec/NetsecUtility/Propagandist.md
+          - Maintenance Man: rolelist/netsec/NetsecUtility/MaintenanceMan.md
+          - Malware Programmer: rolelist/netsec/NetsecUtility/MalwareProgrammer.md
+          - Sympathetic Reporter: rolelist/netsec/NetsecUtility/SympatheticReporter.md
+          - Drug Dealer: rolelist/netsec/NetsecUtility/DrugDealer.md
+          - Criminal Coroner: rolelist/netsec/NetsecUtility/CriminalCoroner.md
         - Netsec Social:
-          - Disgraced Loyalist: rolelist/netsec/NetworkSocial/DisgracedLoyalist.md
-          - Double Agent: rolelist/netsec/NetworkSocial/DoubleAgent.md
-          - Hacking Advocate: rolelist/netsec/NetworkSocial/HackingAdvocate.md
-          - Technical Recruiter: rolelist/netsec/NetworkSocial/TechnicalRecruiter.md
-          - Silenced Investigator: rolelist/netsec/NetworkSocial/SilencedInvestigator.md
-          - Rookie Assassin: rolelist/netsec/NetworkSocial/RookieAssassin.md
-          - Social Media Manager: rolelist/netsec/NetworkSocial/SocialMediaManager.md
-          - NFT Scammer: rolelist/netsec/NetworkSocial/NFTScammer.md
-          - Vibe Coder: rolelist/netsec/NetworkSocial/VibeCoder.md
+          - Disgraced Loyalist: rolelist/netsec/NetsecSocial/DisgracedLoyalist.md
+          - Double Agent: rolelist/netsec/NetsecSocial/DoubleAgent.md
+          - Hacking Advocate: rolelist/netsec/NetsecSocial/HackingAdvocate.md
+          - Technical Recruiter: rolelist/netsec/NetsecSocial/TechnicalRecruiter.md
+          - Silenced Investigator: rolelist/netsec/NetsecSocial/SilencedInvestigator.md
+          - Rookie Assassin: rolelist/netsec/NetsecSocial/RookieAssassin.md
+          - Social Media Manager: rolelist/netsec/NetsecSocial/SocialMediaManager.md
+          - NFT Scammer: rolelist/netsec/NetsecSocial/NFTScammer.md
+          - Vibe Coder: rolelist/netsec/NetsecSocial/VibeCoder.md
       - Neutral:
         - Neutral:
           - Neutral: rolelist/neutral/neutral.md
@@ -124,7 +124,7 @@ nav:
           - W.P.P. Member: rolelist/neutral/NeutralUtility/WPPMember.md
           - Insane Drug Dealer: rolelist/neutral/NeutralUtility/InsaneDrugDealer.md
           - Retired Hacker: rolelist/neutral/NeutralUtility/RetiredHacker.md
-          - Disconnected Paragon Operative: rolelist/neutral/NeutralUtility/DisconnectedPar.mdagonOperative
+          - Disconnected Paragon Operative: rolelist/neutral/NeutralUtility/DisconnectedParagonOperative.md
           - Abandoned Agent: rolelist/neutral/NeutralUtility/AbandonedAgent.md
           - Political Campaigner: rolelist/neutral/NeutralUtility/PoliticalCampaigner.md
         - Neutral Social:
@@ -142,7 +142,7 @@ nav:
           - Psychopath: rolelist/neutral/NeutralKilling/Psychopath.md
           - Bombardier: rolelist/neutral/NeutralKilling/Bombadier.md
           - Rogue Assassin: rolelist/neutral/NeutralKilling/RogueAssassin.md
-          - Underground Ring Fighter: rolelist/neutral/NeutralKilling/UndergroundRingFighte.mdr
+          - Underground Ring Fighter: rolelist/neutral/NeutralKilling/UndergroundRingFighter.md
           - Italian Mafia: rolelist/neutral/NeutralKilling/ItalianMafia.md
       - Agent:
         - Agent: rolelist/agent/agent.md
@@ -191,16 +191,16 @@ nav:
           - Initiator: rolelist/agent/MoleAgentInvest/Initiator.md
         - Mole Agent Offensive:
           - Whitehat: rolelist/agent/MoleAgentOffensive/Whitehat.md
-          - Agent Network Specialist: rolelist/agent/MoleAgentOffensive/AgentNetworkSpecial.mdist
-          - Agent Network Architect: rolelist/agent/MoleAgentOffensive/AgentNetworkArchitec.mdt
+          - Agent Network Specialist: rolelist/agent/MoleAgentOffensive/AgentNetworkSpecialist.md
+          - Agent Network Architect: rolelist/agent/MoleAgentOffensive/AgentNetworkArchitect.md
           - Operator: rolelist/agent/MoleAgentOffensive/Operator.md
         - Mole Agent Utility:
           - Agent Company Man: rolelist/agent/MoleAgentUtility/AgentCompanyMan.md
           - Agent Graph Theorist: rolelist/agent/MoleAgentUtility/AgentCompanyMan.md
           - Agent Database Manager: rolelist/agent/MoleAgentUtility/AgentDatabaseManager.md
         - Mole Agent Social:
-          - Agent Amateur Investigator: rolelist/agent/MoleAgentSocial/AgentAmateurInvestig.mdator
-          - Agent Technical Recruiter: rolelist/agent/MoleAgentSocial/AgentTechnicalRecruit.mder
+          - Agent Amateur Investigator: rolelist/agent/MoleAgentSocial/AgentAmateurInvestigator.md
+          - Agent Technical Recruiter: rolelist/agent/MoleAgentSocial/AgentTechnicalRecruiter.md
       - W3C:
         - W3C: rolelist/w3c/w3c.md
         - W3C Special:
@@ -227,20 +227,20 @@ nav:
       - Paragon:
         - Paragon: rolelist/paragon/paragon.md
         - Paragon Special:
-          - Paragon Operation Leader: rolelist/paragon/ParagonSpecial/ParagonOperationLeade.mdr
+          - Paragon Operation Leader: rolelist/paragon/ParagonSpecial/ParagonOperationLeader.md
           - Paragon Leader: rolelist/paragon/ParagonSpecial/ParagonLeader.md
         - Paragon Field Operations:
-          - Paragon Scout: rolelist/paragon/ParagonFieldOps/Scout.md
-          - Paragon Ex-Mercenary: rolelist/paragon/ParagonFieldOps/ExMercenary.md
+          - Paragon Scout: rolelist/paragon/ParagonFieldOps/ParagonScout.md
+          - Paragon Ex-Mercenary: rolelist/paragon/ParagonFieldOps/ParagonExMercenary.md
         - Paragon Investigative:
           - Paragon Journalist: rolelist/paragon/ParagonInvest/ParagonJournalist.md
           - Paragon Informant: rolelist/paragon/ParagonInvest/ParagonInformant.md
         - Paragon Offensive:
           - Paragon Prodigy: rolelist/paragon/ParagonOffensive/ParagonProdigy.md
-          - Paragon Security Specialist: rolelist/paragon/ParagonOffensive/ParagonSecurityS.mdpecialist
-          - Paragon Search Engine Optimizer: rolelist/paragon/ParagonOffensive/ParagonSearc.mdhEngineOptimizer
+          - Paragon Security Specialist: rolelist/paragon/ParagonOffensive/ParagonSecuritySpecialist.md
+          - Paragon Search Engine Optimizer: rolelist/paragon/ParagonOffensive/ParagonSearchEngineOptimizer.md
         - Paragon Utility:
-          - Paragon Head of Personnel: rolelist/paragon/ParagonUtility/ParagonHeadOfPersonn.mdel
+          - Paragon Head of Personnel: rolelist/paragon/ParagonUtility/ParagonHeadOfPersonnel.md
           - Paragon Ex-Mole: rolelist/paragon/ParagonUtility/ParagonExMole.md
         - Paragon Social:
           - Paragon Assassin: rolelist/paragon/ParagonSocial/ParagonAssassin.md
