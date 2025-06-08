@@ -196,7 +196,7 @@ nav:
           - Operator: rolelist/agent/MoleAgentOffensive/Operator.md
         - Mole Agent Utility:
           - Agent Company Man: rolelist/agent/MoleAgentUtility/AgentCompanyMan.md
-          - Agent Graph Theorist: rolelist/agent/MoleAgentUtility/AgentCompanyMan.md
+          - Agent Graph Theorist: rolelist/agent/MoleAgentUtility/AgentGraphTheorist.md
           - Agent Database Manager: rolelist/agent/MoleAgentUtility/AgentDatabaseManager.md
         - Mole Agent Social:
           - Agent Amateur Investigator: rolelist/agent/MoleAgentSocial/AgentAmateurInvestigator.md
