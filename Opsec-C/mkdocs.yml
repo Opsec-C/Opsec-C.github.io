@@ -5,6 +5,8 @@ markdown_extensions:
   - pymdownx.blocks.caption
 extra_css:
   - stylesheets/styles.css
+extra_javascript:
+  - scripts/theme_changer.js
 validation:
   omitted_files: ignore
   absolute_links: ignore
