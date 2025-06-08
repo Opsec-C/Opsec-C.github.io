@@ -1,0 +1,62 @@
+![w3cforger.png](Images/w3cforger.png){ width="350" }
+
+### **W3C Investigative**
+
+<span class="w3c">
+“Causing chaos and confusing Netsec, that is why you were brought here, W3C Forger.”
+
+<span class="w3c">
+Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+
+### **Day:**
+
+<span class="w3c">
+Unskilled Attack - Select a node, green or white. Leaves a log.
+
+<span class="w3c">
+Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves a log.
+
+<span class="w3c">
+Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
+
+<span class="w3c">
+Upload Fake Intel (1 charge) - Select a green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+
+<br>
+
+<span class="w3c">
+Blood for the Blood God (Killed 3 operatives manually)
+
+=======================================================================
+
+<span class="w3c">
+Upload Fake Intel has 2 more charges now.
+
+### **Night:**
+
+<span class="w3c">
+Follow (2 charges) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you’d only know that they could not leave their hideout.
+
+<span class="w3c">
+Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Visit them.
+
+<span class="w3c">
+Plant Agent Documentation (3 charges) - Select a target operative. If the operative is doxxed this round, they will be seen as an agent. If the operative is specialization reviewed, they will be seen as special. If the operative is asked the right question, they will be seen as unable to hack. If the operative is speech analyzed, they will be seen as unable to win with anyone. Visit them.
+
+<br>
+
+<span class="w3c">
+Altar of Heresy (50% W3C operatives left or obtained Root Access)
+
+=======================================================================
+
+<span class="w3c">
+Disorganized Murder - Select an operative and attempt to murder them. Visit the target.
+
+### **Passives:**
+
+<span class="w3c">
+Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
+
+<span class="w3c">
+Blood for the Blood God - If W3C has directly killed 3 operatives this Opsec, gain these powers.

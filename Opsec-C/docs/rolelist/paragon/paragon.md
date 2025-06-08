@@ -1,4 +1,4 @@
-![paragon.png](paragon.png)
+![paragon.png](paragon.png){ width="350" }
 
 <span class="paragon">
 The GREAT Guys

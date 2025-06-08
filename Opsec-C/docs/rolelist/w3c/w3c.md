@@ -1,4 +1,4 @@
-![w3c.png](w3c.png)
+![w3c.png](w3c.png){ width="350" }
 
 <span class="w3c">
 The Really Really Bad Guys
