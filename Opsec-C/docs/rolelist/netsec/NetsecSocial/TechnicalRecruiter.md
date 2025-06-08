@@ -1,0 +1,25 @@
+![technicalrecruiter.png](Images/technicalrecruiter.png){ width="350" }
+
+### **Netsec Social**
+
+“You were hired to hire people into Netsec, but now we need every last man, Technical Recruiter.”
+
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). Opsec R needs to hack the target node.
+
+### **Day:**
+
+Unskilled Attack - Select a node, green or white. Leaves a log.
+
+Hiring Check (D1 -> D3 cooldown) - Check how an operative was hired. You’ll be given a random skill that they have, either day or night. Do not go through frames or cover.
+
+Onboarding Process - Force someone to vote for someone of your choice.
+
+### **Night:**
+
+Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check for operatives that potentially are of the same owner. Gives three potential operatives that could be linked to the target operative. Visit them. Opsec R checks if they were offered a deal this day or night.
+
+Onboarding Process - Force someone to vote for someone of your choice.
+
+### **Passives:**
+
+People Person - You know how to navigate the sausage fest known as Netsec. You can force one person to vote for who you are voting every round without anyone knowing.
