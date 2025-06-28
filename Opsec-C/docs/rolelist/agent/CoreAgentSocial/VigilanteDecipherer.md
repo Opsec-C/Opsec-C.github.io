@@ -16,7 +16,7 @@ Destroy Intel - Select a green node, if you find intel that is of class intel, t
 
 Plant Fake Info - Decreases hacking chances on a random node.
 
-Decipher Role - Select any number of target operatives and guess their role. If you guess right, attempt to arrest them by goons tonight. Removes all frames and covers. Cannot guess more than two of the same role in a single phase. If you fail this twice, you will get arrested. You will know if you guessed right or wrong.
+Decipher Role - Select any number of target operatives and guess their role. If you guess right, attempt to arrest them by goons tonight. Removes all frames and covers. Cannot guess more than two of the same role in a single phase. You will know if you guessed right or wrong.
 
 ### **Night:**
 
@@ -24,7 +24,7 @@ Deductive Reasoning (N1 -> N3 cooldown) - Select a target operative. You will le
 
 Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
 
-Decipher Role - Select any number of target operatives and guess all their roles. If you guess right, attempt to arrest them by goons. Removes all frames and covers. Cannot guess more than two of the same role in a single phase. If you fail this twice, you will get arrested.
+Decipher Role - Select any number of target operatives and guess all their roles. If you guess right, attempt to arrest them by goons. Removes all frames and covers. Cannot guess more than two of the same role in a single phase.
 
 ### **Passives:**
 

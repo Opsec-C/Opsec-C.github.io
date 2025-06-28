@@ -14,7 +14,7 @@ Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
 Prepare Murder (1 charge) - Gives you one charge of murder.
 
-Redirect Assassin (1 charge) - Select a target operative. For the rest of the game, if the target operative was voted off, you will die in their place. Opsec R will just call the assassin off.
+Redirect Assassin (1 charge) - Select a target operative. For the rest of the game, if the target operative was voted off, you will die in their place.
 
 ### **Night:**
 

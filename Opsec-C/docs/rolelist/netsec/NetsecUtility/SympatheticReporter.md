@@ -24,4 +24,4 @@ Exonerate Operation Leader (1 charge) - Select a target operative. If they are t
 
 ### **Passives:**
 
-Not Netsec - Any doxx attempts on you doxx you as Neutral.
+Not Netsec - Your true faction is Neutral.

@@ -22,4 +22,4 @@ Snitch to Cops (N1 -> N4 cooldown) - Select a target operative. Attempt to arres
 
 ### **Passives:**
 
-Agent Scum - Any doxx attempts on you doxx you as Agent.
+Agent Scum - Your true faction is Agent.

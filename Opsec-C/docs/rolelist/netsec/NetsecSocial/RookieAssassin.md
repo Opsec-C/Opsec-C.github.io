@@ -10,11 +10,11 @@ Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). O
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
-Proving Shot - Select a target operative and guess their role. If you guess right, attempt to shoot the target operative tonight. If you guess wrong, take your own life instead. Removes all frames and covers. You will know if you guessed right or wrong.
+Proving Shot - Select a target operative and guess their role. If you guess right, shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
 
 ### **Night:**
 
-Proving Shot - Select a target operative and guess their role. If you guess right, attempt to shoot the target operative. If you guess wrong, take your own life instead. Removes all frames and covers.
+Proving Shot - Select a target operative and guess their role. If you guess right, shoot the target operative. Removes all frames and covers.
 
 Follow (2 charges) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you’d only know that they could not leave their hideout.
 

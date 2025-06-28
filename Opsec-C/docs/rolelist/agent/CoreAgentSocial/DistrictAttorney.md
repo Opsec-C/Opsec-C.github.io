@@ -50,7 +50,7 @@ Review Specialization (N1 -> N4 cooldown, 2 charges) - Select a target operative
 
 Driven Investigator - Pick one of the four abilities between Speech Analysis, Doxx and Stalk, Ask the Right Question, and Review Specialization.
 
-Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 4. Cannot be arrested unless you are framed.
+Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 3 or in Opsec R, for 2 days after spawning. Cannot be arrested unless you are framed.
 
 Closing Argument - In an event of a tie, you can choose if you would like to save both operatives, kill one operative, or kill both operatives.
 

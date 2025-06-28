@@ -24,4 +24,4 @@ Uplift Paragon - Select a Paragon operative. For tonight, they are immune to occ
 
 ### **Passives:**
 
-Not Netsec - Any doxx attempts on you doxx you as Neutral.
+Not Netsec - Your true faction is Neutral.

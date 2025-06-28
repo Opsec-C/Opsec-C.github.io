@@ -10,7 +10,7 @@ Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing).
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
-Sacrificial Shot - Select a target operative and guess their role. If you guess right, attempt to shoot the target operative tonight. If you guess wrong, take your own life instead. Removes all frames and covers. You will know if you guessed right or wrong.
+Sacrificial Shot - Select a target operative and guess their role. If you guess right, shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
 
 Prepare Murder (1 charge) - Gives you one charge of murder.
 
@@ -24,7 +24,7 @@ Prepare Murder has 2 more charges now.
 
 ### **Night:**
 
-Sacrificial Shot - Select a target operative and guess their role. If you guess right, attempt to shoot the target operative. If you guess wrong, take your own life instead. Removes all frames and covers.
+Sacrificial Shot - Select a target operative and guess their role. If you guess right, shoot the target operative. Removes all frames and covers.
 
 Follow (2 charges) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you’d only know that they could not leave their hideout.
 

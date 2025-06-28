@@ -22,7 +22,7 @@ Citizen’s Arrest (N1 -> N3 cooldown, 3 charges) - Select a target operative an
 
 ### **Passives:**
 
-Agent Scum - Any doxx attempts on you doxx you as Agent.
+Agent Scum - Your true faction is Agent.
 
 Loose Cannon - You gain 1 Netsec, 1 Neutral, and 1 against Netsec objectives, listed below.
 

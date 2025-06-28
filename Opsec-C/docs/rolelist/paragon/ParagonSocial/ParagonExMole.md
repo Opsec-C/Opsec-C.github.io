@@ -22,6 +22,6 @@ Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are 
 
 ### **Passives:**
 
-Agent Scum - Any doxx attempts on you doxx you as Agent.
+Agent Scum - Your true faction is Agent.
 
-Moled - For the Cause will pin you as a mole. Opsec R For the Cause will always show that you changed your win condition.
+Moled - For the Cause will pin you as a mole.

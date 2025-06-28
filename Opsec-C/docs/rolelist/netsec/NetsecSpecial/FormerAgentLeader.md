@@ -32,4 +32,4 @@ Operation Leader - You are one of the leading roles and should spawn every opera
 
 Topology Access - You can access the full topology and connection logs as if you were an agent.
 
-Agent Scum - Any doxx attempts on you doxx you as Agent.
+Agent Scum - Your true faction is Agent.

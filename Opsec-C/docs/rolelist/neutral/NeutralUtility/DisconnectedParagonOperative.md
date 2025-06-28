@@ -28,4 +28,4 @@ Plant Agent Documentation (3 charges) - Select a target operative. If the operat
 
 Paragon Special Squad - You are disconnected from the original Paragon operatives, as you are here to make sure to be an undercover operative.
 
-Paragon Ties - Any doxx attempts on you doxx you as Paragon.
+Paragon Ties - Your true faction is Paragon.

@@ -26,7 +26,7 @@ Paid Frame (N1 -> N3 cooldown) - Select a target operative. Change their role to
 
 ### **Passives:**
 
-Agent Scum - Any doxx attempts on you doxx you as Agent.
+Agent Scum - Your true faction is Agent.
 
 Unstable Mind - Whoever arrests you gets an extra STING charge. Doesn’t have to be an agent.
 

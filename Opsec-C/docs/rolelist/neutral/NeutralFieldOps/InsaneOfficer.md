@@ -26,4 +26,4 @@ Doxx and Stalk (N1 -> N4 cooldown, 2 charges) - Select a target operative. Do no
 
 ### **Passives:**
 
-Agent Scum - Any doxx attempts on you doxx you as Agent.
+Agent Scum - Your true faction is Agent.

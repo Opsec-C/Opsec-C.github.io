@@ -26,4 +26,4 @@ Turn Yourself In - Select a target operative and guess their role. If you guess 
 
 ### **Passives:**
 
-One of Us - Any doxx attempts on you doxx you as Netsec.
+One of Us - Your true faction is Netsec.

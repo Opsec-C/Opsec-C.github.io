@@ -18,7 +18,7 @@ Day Off (D1 -> D3 cooldown) - If you think that the operative getting voted is n
 
 Redirect Vote (2 charges) - If you would rather kill someone else, use a charge to kill that other operative instead of the operative getting voted. The other operative must have at least 1 vote.
 
-My Aim is True - Select any number of target operatives and guess all their roles. If you guess right, attempt to shoot the target operative tonight. Removes all frames and covers. Cannot guess more than two of the same role in a single phase. If you fail, remove a charge of your defensive passive. You will know if you guessed right or wrong.
+My Aim is True - Select any number of target operatives and guess all their roles. If you guess right, shoot the target operative tonight. Removes all frames and covers. Cannot guess more than two of the same role in a single phase. You will know if you guessed right or wrong.
 
 ### **Night:**
 
@@ -26,7 +26,7 @@ Day Off (N1 -> N3 cooldown) - If you think that the operative getting voted is n
 
 Redirect Vote (2 charges) - If you would rather kill someone else, use a charge to kill that other operative instead of the operative getting voted. The other operative must have at least 1 vote.
 
-My Aim is True - Select any number of target operatives and guess all their roles. If you guess right, attempt to shoot the target operative tonight. Removes all frames and covers. Cannot guess more than two of the same role in a single phase. If you fail, remove a charge of your defensive passive.
+My Aim is True - Select any number of target operatives and guess all their roles. If you guess right, shoot the target operative tonight. Removes all frames and covers. Cannot guess more than two of the same role in a single phase.
 
 ### **Passives:**
 

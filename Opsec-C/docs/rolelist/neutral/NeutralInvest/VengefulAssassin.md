@@ -14,7 +14,7 @@ Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
 Rerouted Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
 
-Vengeance (3 charges) - Select a target operative and guess their role. If you guess right, attempt to shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
+Vengeance (3 charges) - Select a target operative and guess their role. If you guess right, shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
 
 ### **Night:**
 
@@ -24,7 +24,7 @@ Plant Agent Documentation (3 charges) - Select a target operative. If the operat
 
 Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
 
-Vengeance (3 charges) - Select a target operatives and guess their role. If you guess right, attempt to shoot the target operative. Removes all frames and covers.
+Vengeance (3 charges) - Select a target operatives and guess their role. If you guess right, shoot the target operative. Removes all frames and covers.
 
 ### **Passives:**
 

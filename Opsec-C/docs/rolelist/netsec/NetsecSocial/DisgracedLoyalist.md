@@ -22,4 +22,4 @@ Disorganized Murder - Select an operative and attempt to murder them. Visit the 
 
 ### **Passives:**
 
-Not Netsec - Any doxx attempts on you doxx you as Neutral.
+Not Netsec - Your true faction is Neutral.

@@ -26,7 +26,7 @@ Interrogate (3 charges) - Select a target operative and occupy them. The host wi
 
 ### **Passives:**
 
-Agent Scum - Any doxx attempts on you doxx you as Agent.
+Agent Scum - Your true faction is Agent.
 
 Blackmailed Informant - Any time an Agent uses Deductive Reasoning or Informant, you will get information that agents get. Do not go through frames or cover.
 

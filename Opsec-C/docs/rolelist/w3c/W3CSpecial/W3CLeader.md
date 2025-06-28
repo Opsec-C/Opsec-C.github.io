@@ -96,7 +96,7 @@ Computer Forensics Background - Pick one of the three abilities between Denial o
 
 Driven Investigator - Pick one of the four abilities between Speech Analysis, Doxx and Stalk, Ask the Right Question, and Review Specialization.
 
-Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 4. Can be arrested after Rent Free is triggered.
+Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 3 or in Opsec R, for 2 days after spawning. Can be arrested after Rent Free is triggered.
 
 Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
 

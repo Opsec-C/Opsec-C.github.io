@@ -32,7 +32,7 @@ Perform Fake Headline (N1 -> N4 cooldown, 2 charges) - Select a target operative
 
 ### **Passives:**
 
-Not Agent - Any doxx attempts on you doxx you as Neutral.
+Not Agent - Your true faction is Neutral.
 
 In The Business - You will learn if any Journalists have spawned, including Sympathetic Reporter, Journalist, Shamed Journalist, and Paragon Journalist.
 

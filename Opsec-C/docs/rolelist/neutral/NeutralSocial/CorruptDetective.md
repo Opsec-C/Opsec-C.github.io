@@ -28,4 +28,4 @@ Throw Under the Bus (2 charges) - Select a target operative. All skills used on 
 
 ### **Passives:**
 
-Agent Scum - Any doxx attempts on you doxx you as Agent.
+Agent Scum - Your true faction is Agent.
