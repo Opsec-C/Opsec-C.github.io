@@ -195,10 +195,10 @@ nav:
           - Whitehat: rolelist/agent/MoleAgentOffensive/Whitehat.md
           - Agent Network Specialist: rolelist/agent/MoleAgentOffensive/AgentNetworkSpecialist.md
           - Agent Network Architect: rolelist/agent/MoleAgentOffensive/AgentNetworkArchitect.md
+          - Agent Graph Theorist: rolelist/agent/MoleAgentOffensive/AgentGraphTheorist.md
           - Operator: rolelist/agent/MoleAgentOffensive/Operator.md
         - Mole Agent Utility:
           - Agent Company Man: rolelist/agent/MoleAgentUtility/AgentCompanyMan.md
-          - Agent Graph Theorist: rolelist/agent/MoleAgentUtility/AgentGraphTheorist.md
           - Agent Database Manager: rolelist/agent/MoleAgentUtility/AgentDatabaseManager.md
         - Mole Agent Social:
           - Agent Amateur Investigator: rolelist/agent/MoleAgentSocial/AgentAmateurInvestigator.md
@@ -232,17 +232,17 @@ nav:
           - Paragon Operation Leader: rolelist/paragon/ParagonSpecial/ParagonOperationLeader.md
           - Paragon Leader: rolelist/paragon/ParagonSpecial/ParagonLeader.md
         - Paragon Field Operations:
-          - Paragon Scout: rolelist/paragon/ParagonFieldOps/ParagonScout.md
           - Paragon Ex-Mercenary: rolelist/paragon/ParagonFieldOps/ParagonExMercenary.md
         - Paragon Investigative:
           - Paragon Journalist: rolelist/paragon/ParagonInvest/ParagonJournalist.md
           - Paragon Informant: rolelist/paragon/ParagonInvest/ParagonInformant.md
+          - Paragon Search Engine Optimizer: rolelist/paragon/ParagonInvest/ParagonSearchEngineOptimizer.md
         - Paragon Offensive:
           - Paragon Prodigy: rolelist/paragon/ParagonOffensive/ParagonProdigy.md
-          - Paragon Security Specialist: rolelist/paragon/ParagonOffensive/ParagonSecuritySpecialist.md
-          - Paragon Search Engine Optimizer: rolelist/paragon/ParagonOffensive/ParagonSearchEngineOptimizer.md
         - Paragon Utility:
-          - Paragon Head of Personnel: rolelist/paragon/ParagonUtility/ParagonHeadOfPersonnel.md
-          - Paragon Ex-Mole: rolelist/paragon/ParagonUtility/ParagonExMole.md
+          - Paragon Security Specialist: rolelist/paragon/ParagonUtility/ParagonSecuritySpecialist.md
+          - Paragon Scout: rolelist/paragon/ParagonUtility/ParagonScout.md
         - Paragon Social:
+          - Paragon Head of Personnel: rolelist/paragon/ParagonSocial/ParagonHeadOfPersonnel.md
+          - Paragon Ex-Mole: rolelist/paragon/ParagonSocial/ParagonExMole.md
           - Paragon Assassin: rolelist/paragon/ParagonSocial/ParagonAssassin.md
