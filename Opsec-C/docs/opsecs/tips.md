@@ -12,11 +12,12 @@
 - Impersonate allows you to rename your operative to allow for a 50% chance to target either operative. Troll Operative allows you to change another operative’s name.
 - Ask the Right Question gives the operative’s hack chance too.
 - Doxx works similarly to default Untrusted.
-- Midnight Meet is designed to have prosopagnosia on by default (cannot see who met), but many people disliked this, so this may not be the case.
+- Midnight Meet is designed to have prosopagnosia on by default (cannot see who met).
+- All occupational abilities, including ISP and Midnight Meet, cannot occupy players more than twice in a row in the day or night.
 - Review Specialization checks subclass.
 - Speech Analysis checks if operatives can win together.
-- For the Cause hunts moles and checks win conditions.
-- Wiretap either checks operative matching or plea deal offers.
+- For the Cause hunts moles.
+- Wiretap checks for vote power and whether a player is forced to vote another player.
 - Review TCP determines if you hacked or not.
 - Frame, cover, and ability pool can be selected by the player rather than forced randomly.
 - Voting can be silent, shown, or forced.

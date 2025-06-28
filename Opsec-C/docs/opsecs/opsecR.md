@@ -2,6 +2,7 @@
 - The game lasts for X days. Determined by the players. Any number of players (preferably greater than 4) can play this opsec. The game starts on Prep night and ends on Day X.
 - Every player gets a starting role. Every player can “revive” an infinite number of times as a new operative, in that Netsec, Agents, and other operatives would love to join the opsec.
 - Upon getting arrested, killed, or voted, players can respawn as a random role.
+- In bigger games, we can do interval revival rather than reviving immediately. This allows for Agents to wipe out Netsec before anyone can revive.
 - There may be no Agents or W3C during a specific phase after voting out remaining Agents or W3C. The game does not end until Agents, W3C, or Netsec win.
 - Agents do not know the target node.
 - There may be no Operation Leader at certain phases of the game (including the start). Unique roles still maintain uniqueness throughout the game.
