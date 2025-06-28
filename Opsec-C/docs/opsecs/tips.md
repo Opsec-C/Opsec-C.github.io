@@ -24,6 +24,7 @@
 - There are abilities that can use Broadcast that aren’t Operation Leader.
 - There are abilities to manually upload intel for others to download.
 - Agents can be arrested when framed. Yep.
+- Only Journalist will know who tried to arrest them.
 - Root does not instantly lose or win the game.
 - The Operation Leader may not be Netsec aligned.
 - The Agent Leader is now an offensive subclass role.
