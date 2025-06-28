@@ -12,7 +12,7 @@ Win Condition: Frame two operatives that aren’t yours and get them both voted 
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Upload Fake Intel (1 charge) - Select a green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
 Jam Network (2 charges) - Select a target operative and disable all day actions related to the topology done by them.
 

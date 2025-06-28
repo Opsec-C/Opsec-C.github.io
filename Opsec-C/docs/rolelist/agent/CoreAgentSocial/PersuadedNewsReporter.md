@@ -14,7 +14,7 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
-Upload Fake Intel (1 charge) - Select a green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
 Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail.
 

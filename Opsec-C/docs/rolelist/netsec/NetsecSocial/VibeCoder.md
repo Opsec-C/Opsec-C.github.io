@@ -8,9 +8,9 @@ Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). O
 
 ### **Day:**
 
-Vibe Code - Select a white node and randomly use a low chance hack or harden node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Vibe Code - Select a white node and randomly use a low chance hack or jam your own network, preventing you from hacking. Leaves a log if using a hack.
 
-Ask LLM - Ask an LLM to tell you a fact about the opsec. Do not go through frames or cover. Download Intel without leaving a connection log. Sometimes returns fake intel.
+Seek Deepseek - Ask an LLM to tell you a fact about the opsec. Do not go through frames or cover. Download Intel without leaving a connection log. Sometimes returns fake intel.
 
 ### **Night:**
 
@@ -18,8 +18,8 @@ AI Seminar (N1 -> N3 cooldown) - Select a target operative. Visit and occupy the
 
 Doxx and Ask Chatgpt (N1 -> N4 cooldown, 2 charges) - Select a target operative. Do not go through frames or cover. Learn a faction that the operative is not aligned with and visit them.
 
-Advice from LLM (N1 -> N3 cooldown) - Select a target operative and lower their hack chance by one stage. Visit them.
+Advice from LLM (N1 -> N4 cooldown) - Select a target operative, lower their hack chance by one stage for the next day, but make them gain hack chance by one stage of their original hack chance the day after. Visit them.
 
 ### **Passives:**
 
-Just Ask Chatgpt - If asked the right question, they will learn that you can’t hack.
+Just Ask Copilot - If asked the right question, they will learn that you can’t hack.

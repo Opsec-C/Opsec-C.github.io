@@ -14,7 +14,7 @@ Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a lo
 
 Review TCP Packets (N1 -> N4 cooldown, 2 charges) - Select a target operative and check if they used a hack today.
 
-Upload Fake Intel (1 charge) - Select a green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
 Improve Bandwidth - Select a green or white node and block any Denial of Service on the node. Do not leave a log.
 

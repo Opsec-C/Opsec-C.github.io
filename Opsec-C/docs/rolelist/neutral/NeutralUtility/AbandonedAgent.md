@@ -14,7 +14,7 @@ Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a D
 
 Emergency Repairs (1 charge) - Select a green or white node and block all connections to the node this day. Lets you know if a rollback was used on the node. Do not leave a log.
 
-Upload Fake Intel (1 charge) - Select a green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
 ### **Night:**
 

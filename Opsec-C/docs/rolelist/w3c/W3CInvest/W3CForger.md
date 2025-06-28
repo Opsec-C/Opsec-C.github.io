@@ -14,7 +14,7 @@ Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves a lo
 
 Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
-Upload Fake Intel (1 charge) - Select a green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
 <br>
 

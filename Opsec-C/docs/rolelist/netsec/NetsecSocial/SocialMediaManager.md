@@ -28,4 +28,4 @@ Arrest Recording (N1 -> N4 cooldown, 2 charges) - Select a target operative. If 
 
 ### **Passives:**
 
-Social Media Handler - You can change your operative name every other day.
+Social Media Handler - You can change your operative name every other day starting on day 2.

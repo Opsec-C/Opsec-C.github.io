@@ -14,7 +14,7 @@ Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a
 
 ISP Isolation (3 charges) - Select a target operative and disable all day actions related to the topology done by them.
 
-Upload Fake Intel (1 charge) - Select a green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
 Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail.
 

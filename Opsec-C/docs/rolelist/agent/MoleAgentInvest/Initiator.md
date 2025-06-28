@@ -16,7 +16,7 @@ Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
 Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a singular fake connection log of one operative, or leave a few random connection logs.
 
-Upload Fake Intel (1 charge) - Select a green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
 Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a Denial of Service.
 

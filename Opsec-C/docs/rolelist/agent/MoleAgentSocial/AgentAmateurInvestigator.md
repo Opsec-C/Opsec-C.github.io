@@ -10,7 +10,7 @@ Win Condition: Eliminate ALL hostile units (Netsec, W3C, and Neutral Killing). O
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Upload Fake Intel (1 charge) - Select a green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
 ### **Night:**
 

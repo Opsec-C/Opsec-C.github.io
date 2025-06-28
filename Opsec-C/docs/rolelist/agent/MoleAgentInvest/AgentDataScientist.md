@@ -14,7 +14,7 @@ Download Intel - Select a green node and attempt to download from it. If there i
 
 Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a singular fake connection log of one operative, or leave a few random connection logs.
 
-Upload Fake Intel (1 charge) - Select a green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
 ### **Night:**
 
