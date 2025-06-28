@@ -13,7 +13,7 @@
 - Ask the Right Question gives the operative’s hack chance too.
 - Doxx works similarly to default Untrusted.
 - Midnight Meet is designed to have prosopagnosia on by default (cannot see who met).
-- All occupational abilities, including ISP and Midnight Meet, cannot occupy players more than twice in a row in the day or night.
+- Every player is immune to every third general occupational ability (Midnight Meet, escort, interrogate, ISP/Jam, etc).
 - Review Specialization checks subclass.
 - Speech Analysis checks if operatives can win together.
 - For the Cause hunts moles.
