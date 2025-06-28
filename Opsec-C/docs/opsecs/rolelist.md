@@ -165,7 +165,7 @@
         - [<span class="agent">Whitehat](../../rolelist/agent/MoleAgentOffensive/Whitehat)
         - [<span class="agent">Agent Network Specialist](../../rolelist/agent/MoleAgentOffensive/AgentNetworkSpecialist)
         - [<span class="agent">Agent Network Architect](../../rolelist/agent/MoleAgentOffensive/AgentNetworkArchitect)
-        - [<span class="agent">Agent Graph Theorist](../../rolelist/agent/MoleAgentOffensive/AgentCompanyMan)
+        - [<span class="agent">Agent Graph Theorist](../../rolelist/agent/MoleAgentOffensive/AgentGraphTheorist)
         - [<span class="agent">Operator](../../rolelist/agent/MoleAgentOffensive/Operator)
     - <span class="agent">Mole Agent Utility:
         - [<span class="agent">Agent Company Man](../../rolelist/agent/MoleAgentUtility/AgentCompanyMan)
