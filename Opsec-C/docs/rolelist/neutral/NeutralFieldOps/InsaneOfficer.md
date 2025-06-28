@@ -20,7 +20,7 @@ Steal Secured Channel Connection - Select a white node. If there is a dead mole,
 
 Murder (1 charge) - Select an operative and murder them. Cannot be dodged in any way. Occupies and visits the target. If the target operative is a mole, kill them and become the mole. Opsec R allows you to become a Field Agent if you kill the core agent.
 
-For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them. Opsec R checks if they changed their win condition tonight.
+For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them.
 
 Doxx and Stalk (N1 -> N4 cooldown, 2 charges) - Select a target operative. Do not go through frames or cover. Learn this operative’s faction alignment and visit them.
 

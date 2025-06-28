@@ -18,11 +18,11 @@ Enforce Alibi - Act like a chemistry teacher tonight, pretending to have done no
 
 ### **Night:**
 
-Sell Meth (1 charge) - Select a target operative. Sell them Methamphetamine and make them immune to occupation for this turn. Visit them.
+Sell Meth (0 charges) - Select a target operative. Sell them Methamphetamine and make them immune to occupation for this turn. Visit them.
 
-Sell Adderall (1 charge) - Select a target operative. Sell them Adderall, and give them one extra action in the day. Visit them.
+Sell Adderall (0 charges) - Select a target operative. Sell them Adderall, and give them one extra action in the day. Visit them.
 
-Sell Cocaine (1 charge) - Select a target operative. Sell them Cocaine, and make them dodge arrests or murder attempts for this turn (that are not guaranteed murders). Visit them.
+Sell Cocaine (0 charges) - Select a target operative. Sell them Cocaine, and make them dodge arrests or murder attempts for this turn (that are not guaranteed murders). Visit them.
 
 Sell Shipment (0 charges) - Sell a shipment.
 

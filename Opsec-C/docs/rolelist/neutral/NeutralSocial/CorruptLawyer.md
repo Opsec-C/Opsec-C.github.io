@@ -34,4 +34,4 @@ Paid Frame (N1 -> N3 cooldown) - Select a target operative. Change their role to
 
 Loyal to the End - If your target is voted out, die. If your target is murdered or arrested, you will randomly get another target that the owner of the first operative has to win with. Opsec R is just any random operative.
 
-No Dirt On Me - You are unarrestable unless framed.
+No Dirt On Me - You are unarrestable unless framed. You do not know who attempted to arrest you.

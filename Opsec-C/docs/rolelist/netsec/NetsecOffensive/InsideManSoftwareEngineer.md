@@ -18,7 +18,7 @@ Plant Keylogger (1 charge) - Grants you one charge of Retrieve Keylogger.
 
 ### **Night:**
 
-Retrieve Keylogger (1 charge) - Select a node, making it easier to hack. Grants you one charge of Plant Keylogger.
+Retrieve Keylogger (0 charges) - Select a node, making it easier to hack. Grants you one charge of Plant Keylogger.
 
 Replace Server (N1 -> N3 cooldown, 2 charges) - Replace a selected server with a laptop by connecting a company laptop to future nodes and disconnecting the server.
 

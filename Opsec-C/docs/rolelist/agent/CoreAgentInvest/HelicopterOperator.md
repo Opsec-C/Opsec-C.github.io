@@ -12,7 +12,7 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Scan Hideout (D1 -> D3 cooldown) - Select a target operative and learn the operative’s subclass. Goes through cover or frames.
 
-Deep Learn (2 charges) - The next night action will go through any kind of cover, frame, or passives.
+Deep Learn (2 charges) - The next action will go through any kind of cover, frame, or passives.
 
 To the Wheel (1 charge) - Turn into a Police Car Driver. Can only be done if there are no Agent on the Field roles.
 

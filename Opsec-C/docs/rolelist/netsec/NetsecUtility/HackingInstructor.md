@@ -16,7 +16,7 @@ Desperate Measures (1 charge) - Turn into an Improvised Hacker. Automatically st
 
 ### **Night:**
 
-For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them. Opsec R checks if they changed their win condition tonight.
+For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them.
 
 Pair Programming (1 charge) - Select a target operative, their hacking chance permanently increases by one stage. Visit them.
 

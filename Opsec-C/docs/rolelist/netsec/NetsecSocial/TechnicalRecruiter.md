@@ -16,7 +16,7 @@ Onboarding Process - Force someone to vote for someone of your choice.
 
 ### **Night:**
 
-Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check for operatives that potentially are of the same owner. Gives three potential operatives that could be linked to the target operative. Visit them. Opsec R checks if they were offered a deal this day or night.
+Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 
 Onboarding Process - Force someone to vote for someone of your choice.
 

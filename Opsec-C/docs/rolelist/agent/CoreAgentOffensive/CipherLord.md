@@ -36,7 +36,7 @@ Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy 
 
 Encrypt Killswitch (2 charges) - Select a target operative. Upon death or arrest, the target’s role and logs will be encrypted and unable to be read. Gives you their role. Go through frames or cover. Visit them.
 
-Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check for operatives that potentially are of the same owner. Gives three potential operatives that could be linked to the target operative. Visit them. Opsec R checks if they were offered a deal this day or night.
+Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 
 ### **Passives:**
 

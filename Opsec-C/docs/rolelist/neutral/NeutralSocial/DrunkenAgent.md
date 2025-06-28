@@ -29,3 +29,5 @@ Paid Frame (N1 -> N3 cooldown) - Select a target operative. Change their role to
 Agent Scum - Any doxx attempts on you doxx you as Agent.
 
 Unstable Mind - Whoever arrests you gets an extra STING charge. Doesn’t have to be an agent.
+
+Rent Free - Avoid the first arrest attempt and murder attempt on you.

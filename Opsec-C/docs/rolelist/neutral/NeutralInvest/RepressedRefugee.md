@@ -4,7 +4,7 @@
 
 “You and your family escaped persecution thanks to some less than legal methods. However, they are in danger, as they picked to work with Netsec, Repressed Refugee.”
 
-Win Condition: Protect at least one of your other operatives at all costs. Opsec R requires you to die or get arrested for a specific operative, changes operative if the operative dies or gets arrested.
+Win Condition: Protect at least one of your other operatives at all costs. Opsec R requires you to die or get arrested for any operative.
 
 ### **Day:**
 

@@ -14,7 +14,7 @@ Download Intel - Select a green node and attempt to download from it. If there i
 
 Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either day or night. Do not go through frames or cover. If successful, gain a piece of information.
 
-Deep Learn (2 charges) - The next night action will go through any kind of cover, frame, or passives.
+Deep Learn (2 charges) - The next action will go through any kind of cover, frame, or passives.
 
 ### **Night:**
 
@@ -26,6 +26,6 @@ Doxx and Stalk (N1 -> N4 cooldown, 2 charges) - Select a target operative. Do no
 
 ### **Passives:**
 
-No Dirt On Me - You are unarrestable unless framed.
+No Dirt On Me - You are unarrestable unless framed. You do not know who attempted to arrest you.
 
 Unsecured Investigation - After gathering 3 pieces of information, you lose No Dirt On Me.

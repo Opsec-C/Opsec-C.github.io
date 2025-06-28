@@ -30,4 +30,4 @@ Covert Broadcast - You should be given access to talk to all players in a specia
 
 Operation Leader - You are one of the leading roles and should spawn every operation.
 
-No Dirt On Me - You are unarrestable unless framed.
+No Dirt On Me - You are unarrestable unless framed. You do not know who attempted to arrest you.

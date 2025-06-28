@@ -20,7 +20,7 @@ Review TCP Packets (N1 -> N4 cooldown, 2 charges) - Select a target operative an
 
 Spill the Beans - Select a target operative, inform agents that the target is one working for Netsec. If the target is arrested, gain a bounty.
 
-Citizen’s Arrest (N1 -> N3 cooldown, 3 charges) - Select a target operative and arrest them. Visit them.
+Citizen’s Arrest (N1 -> N3 cooldown, 3 charges) - Select a target operative and arrest them. Visit them. If the target is arrested, gain a bounty.
 
 Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Visit them.
 
@@ -38,7 +38,7 @@ Interrogate (3 charges) - Select a target operative and occupy them. The host wi
 
 ### **Passives:**
 
-No Dirt On Me - You are unarrestable unless framed.
+No Dirt On Me - You are unarrestable unless framed. You do not know who attempted to arrest you.
 
 In the Force - Pick an ability between Fake Escort, Follow, and Interrogate.
 

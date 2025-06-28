@@ -22,7 +22,7 @@ Hit the Books (D1 -> D3 cooldown, 2 charges) - Increases your hacking stage by o
 
 Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
 
-Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check for operatives that potentially are of the same owner. Gives three potential operatives that could be linked to the target operative. Visit them. Opsec R checks if they were offered a deal this day or night.
+Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 
 Wipe (1 charge) - Select a white node. Remove all connection logs and intel to the node.
 

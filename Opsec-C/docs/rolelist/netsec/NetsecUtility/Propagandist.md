@@ -14,7 +14,7 @@ Download Intel - Select a green node and attempt to download from it. If there i
 
 ### **Night:**
 
-For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them. Opsec R checks if they changed their win condition tonight.
+For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them.
 
 Preach Netsec Superiority (N1 -> N3 cooldown) - Select a target operative, tonight they are immune to occupation. Visit them.
 

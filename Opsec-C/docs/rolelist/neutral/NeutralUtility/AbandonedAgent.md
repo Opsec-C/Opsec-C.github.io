@@ -18,7 +18,7 @@ Upload Fake Intel (1 charge) - Select a green node and upload intel that is down
 
 ### **Night:**
 
-For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them. Opsec R checks if they changed their win condition tonight.
+For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them.
 
 Contact Law Enforcement (N1 -> N3 cooldown, 3 charges) - Select a target operative. If they are an agent, learn their role, they will learn yours. Goes through cover or frames. Visit them.
 
@@ -30,4 +30,4 @@ Agent Scum - Any doxx attempts on you doxx you as Agent.
 
 Blackmailed Informant - Any time an Agent uses Deductive Reasoning or Informant, you will get information that agents get. Do not go through frames or cover.
 
-No Dirt On Me - You are unarrestable unless framed.
+No Dirt On Me - You are unarrestable unless framed. You will know who attempted to arrest you.

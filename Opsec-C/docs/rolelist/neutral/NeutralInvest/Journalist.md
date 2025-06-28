@@ -26,4 +26,4 @@ Expose Operation Leader (1 charge) - Select a target operative. If they are the 
 
 Adaptable Journalism - Gain 1 scoop if someone occupies you that is not neutral.
 
-No Dirt On Me - You are unarrestable unless framed.
+No Dirt On Me - You are unarrestable unless framed. You will know who attempted to arrest you.

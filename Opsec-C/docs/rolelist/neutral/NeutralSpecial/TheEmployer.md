@@ -34,7 +34,7 @@ Authority - You have two votes.
 
 Lack of Leadership - If you are rooted and the original Operation Leader dies, instead of becoming the Operation Leader, gain a charge of Give Root Access.
 
-No Dirt On Me - You are unarrestable unless framed.
+No Dirt On Me - You are unarrestable unless framed. You do not know who attempted to arrest you.
 
 The Big Fish - Whoever arrests you gets two STING charges. Doesn’t have to be an agent.
 
