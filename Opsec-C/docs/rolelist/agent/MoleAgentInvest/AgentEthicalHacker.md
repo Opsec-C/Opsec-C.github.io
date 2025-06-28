@@ -2,7 +2,7 @@
 
 ### **Mole Agent Investigative**
 
-“In order to escape prison, you took a plea deal as a Steadfast Student. Agents could use your ability to hide and defend the topology, Agent Ethical Hacker.”
+“In order to escape prison, you took a plea deal as a Dark Web Contact. Agents could use your ability to hide and defend the topology, Agent Ethical Hacker.”
 
 Win Condition: Eliminate ALL hostile units (Netsec, W3C, and Neutral Killing). Opsec R requires the hack to not be complete in time.
 

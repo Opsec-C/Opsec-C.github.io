@@ -24,7 +24,7 @@ Emergency Repairs has 2 more charges now.
 
 ### **Night:**
 
-Clean Up Crew (N1 -> N4 cooldown) - Remove the operative’s role and logs on their death or arrest. Visit them.
+Clean Up Crew (N1 -> N4 cooldown) - Remove the operative’s role and logs on their death or arrest. Gives you their role. Do not go through frames or cover. Visit them.
 
 Check Maintenance Logs - Select a green or white node. Check if there were any difficulty decreasing or increasing actions done on this node, telling you separately if the node security had been increased or decreased.
 
