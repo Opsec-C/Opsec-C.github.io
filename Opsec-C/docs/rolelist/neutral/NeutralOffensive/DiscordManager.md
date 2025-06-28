@@ -28,4 +28,4 @@ Purge Hard Drive - No Dirt On Me turns on, but Create Waifu will have a much low
 
 Man of Culture - Turned off by using the skill Purge Hard Drive. You have a stash of CP equal to a full terabyte. You are arrestable. agents gain class type intel on an operative of their choice upon your arrest.
 
-No Dirt On Me (Off) - You are unarrestable unless framed. Off until you use Purge Hard Drive.
+No Dirt On Me (Off) - You are unarrestable unless framed. You do not know who attempted to arrest you. Off until you use Purge Hard Drive.

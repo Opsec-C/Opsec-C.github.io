@@ -18,7 +18,7 @@ Image Classification (0 charges) - Predict what the first operative that you gat
 
 Data Gathering - Select a target operative and take a picture of their hideout. Grants one charge of Image Recognition or Image Classification targeting this operative- your choice. Visit them.
 
-Study (N1 -> N3 cooldown) - Increases your hacking stage by one the following day.
+Mock Interview (N1 -> N3 cooldown) - Check whether an operative has their hack chance increased or decreased in the last day and this night, letting you know specifically if it was increased or decreased. Visit them.
 
 ### **Passives:**
 
