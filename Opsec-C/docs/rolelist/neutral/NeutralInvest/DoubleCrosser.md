@@ -14,11 +14,13 @@ Download Intel - Select a green node and attempt to download from it. If there i
 
 Review TCP Packets (N1 -> N4 cooldown, 2 charges) - Select a target operative and check if they used a hack today.
 
+Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
+
 ### **Night:**
 
 Obtain Evidence (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Gain some intel, similar to Download Intel, getting class intel, target node, or faction intel. Do not go through frames or cover. Do not reveal yourself to them.
 
-Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
+Wiretap (N1 -> N3 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 
 Review Specialization (N1 -> N4 cooldown, 2 charges) - Select a target operative. Learn their subclass, or framed or cover subclass. Do not go through frames or cover. Visit them.
 

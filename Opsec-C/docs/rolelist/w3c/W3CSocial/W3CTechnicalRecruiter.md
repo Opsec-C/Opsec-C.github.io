@@ -28,7 +28,7 @@ Rerouted Denial of Service (2 charges) - Select a green or white node and block 
 
 ### **Night:**
 
-Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
+Wiretap (N1 -> N3 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 
 Act as Prosecution - Select a target operative. The operative will have an extra vote (+1) against them in the next phase, not shown to the Opsec.
 

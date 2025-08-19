@@ -8,13 +8,13 @@ This role is supposed to be unique, depending on the ruleset.
 
 (Love you Knu, all of this is satire).
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agents, and W3C). Opsec R requires you to kill all operatives once from the time you become the Neutral Killing role.
+Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
 ### **Day:**
 
-Beeg Problem - Select a white node and attempt to hack it. However, it is a beeg problem and you can’t hack it. Does absolutely nothing but leaves a log.
+Beeg Problem (D1 -> D3 cooldown) - Select a white node and attempt to hack it. However, it is a beeg problem and you can’t hack it. Does absolutely nothing but leaves a log.
 
-Plumb Node - Select a green node and attempt to plumb it. Does absolutely nothing but leaves a log.
+Plumb Node (D1 -> D3 cooldown) - Select a green node and attempt to plumb it. Does absolutely nothing but leaves a log.
 
 Uninstall Untrusted (D1 -> D3 cooldown) - Select a target operative and disable all day actions related to the topology done by them.
 
@@ -22,10 +22,10 @@ Uninstall Untrusted (D1 -> D3 cooldown) - Select a target operative and disable 
 
 Italian Greeting - Select a target operative and visit them. Does not gain any intel.
 
-Mafia Meet (N1 -> N4 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Mafia Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
 
-They Eat Pineapple Pizza (N1 -> N4 cooldown) - Select a target operative. Attempt to kill the operative with local mafia. Visit them.
+They Eat Pineapple Pizza - Select a target operative. Attempt to kill the operative with local mafia. Visit them.
 
 ### **Passives:**
 
-Together Strong - All of your operatives are designed to be Italian Mafia clones. If you die or get arrested in Opsec R, your role will be encrypted, and you will return as the Italian Mafia until you complete your objective, get voted, or accept a Deal.
+Together Strong - You can die or get arrested, but your deaths and arrests are not public, and you simply change your operative name after the next day to a name of your choice (or not changed). You cannot die unless you get voted out.

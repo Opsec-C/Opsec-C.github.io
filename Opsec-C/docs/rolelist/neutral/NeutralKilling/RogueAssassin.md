@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “You were hired to take care of the problems in this Opsec, but you don’t believe in the cause anymore, Rogue Assassin.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agents, and W3C). Opsec R requires you to kill all operatives once from the time you become the Neutral Killing role.
+Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
 ### **Day:**
 

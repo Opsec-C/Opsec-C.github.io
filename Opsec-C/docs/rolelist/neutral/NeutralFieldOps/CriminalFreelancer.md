@@ -20,7 +20,7 @@ Sell Illicit Arms (N1 -> N3 cooldown) - Select a target operative. If they do no
 
 Getaway Driver (N1 -> N3 cooldown) - Escort a target operative, protecting the operative from arrests and murders. Both targets are immune to arrests and murders this round. Gain 1 payment, or if someone attempts to arrest the target operative, gain 2 payments and become “Criminal”. Visit and occupy them.
 
-Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
+Wiretap (N1 -> N3 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 
 Disorganized Murder - Select an operative and attempt to murder them. Visit the target. Gain 1 payment, or if the target operative is an agent, gain 2 payments and become “Criminal”.
 

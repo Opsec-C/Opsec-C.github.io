@@ -34,4 +34,4 @@ Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are 
 
 Working Overtime - Scoops will automatically convert to articles.
 
-Unrespected - You require two scoops to write an article. If the passive is removed through Murder Journalist, you are unarrestable.
+Unrespected - If the passive is removed through Murder Journalist, you are unarrestable.

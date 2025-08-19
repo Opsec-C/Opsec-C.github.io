@@ -4,7 +4,7 @@
 
 “It’s about time you earn your paycheck, Bounty Hunter.”
 
-Win Condition: Get 3 bounties. Arresting or spilling the beans on a Netsec or framed target grants 1 bounty. High Priority Targets give 2 bounties.
+Win Condition: Get 2 bounties. Arresting or spilling the beans on a Netsec or framed target grants 1 bounty. High Priority Targets give 2 bounties.
 
 ### **Day:**
 

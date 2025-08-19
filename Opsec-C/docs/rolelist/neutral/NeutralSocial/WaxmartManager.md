@@ -26,7 +26,7 @@ Fake 911 Call (1 charge) - Select a target operative. They will be attempted to 
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 
-Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
+Wiretap (N1 -> N3 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 
 Wipe (1 charge) - Select a white node. Remove all connection logs and intel to the node.
 

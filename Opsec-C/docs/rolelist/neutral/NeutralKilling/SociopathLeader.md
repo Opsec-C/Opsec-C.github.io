@@ -6,7 +6,7 @@ This role is unique (one Operation Leader should spawn).
 
 “It’s time to eliminate every last person involved in the Opsec, Sociopath Leader.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agents, and W3C). Opsec R requires you to kill all operatives once from the time you become the Neutral Killing role.
+Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
 ### **Day:**
 
@@ -16,7 +16,7 @@ Give Root Access (1 charge) - Select an operative to give root to. They become a
 
 ### **Night:**
 
-Murder with Goons - Select an operative and murder them. Cannot be dodged in any way, and cannot be occupied. Occupies the target.
+Murder with Goons - Select an operative and murder them. Cannot be occupied. Occupies the target.
 
 Fake Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to fake escort, does not occupy them and doesn’t actually do anything except leaving escort feedback.
 

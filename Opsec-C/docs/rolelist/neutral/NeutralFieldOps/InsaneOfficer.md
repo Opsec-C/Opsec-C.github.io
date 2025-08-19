@@ -14,7 +14,9 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a Denial of Service.
 
-Steal Secured Channel Connection - Select a white node. If there is a dead mole, you can hack into ASC by trying to hack a node with a dead mole’s connection and become the mole. Leaves a log. Opsec R does the same if you hack an agent’s connection, becoming the Field Agent.
+Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
+
+Steal Secured Channel Connection - Select a white node. If there is a dead mole, you can hack into ASC by trying to hack a node with a dead mole’s connection and become the mole. Leaves a log.
 
 ### **Night:**
 

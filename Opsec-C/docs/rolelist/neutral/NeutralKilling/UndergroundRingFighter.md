@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “You were once in a fighting ring, but now that the ring has dissipated, you are here trying to start a new ring, Underground Ring Fighter.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agents, and W3C). Opsec R requires you to kill all operatives once from the time you become the Neutral Killing role.
+Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
 ### **Day:**
 
@@ -22,7 +22,9 @@ Smash Hardware (N1 -> N3 cooldown) - Select an operative and disable all day act
 
 Interrogate (3 charges) - Select a target operative and occupy them. The host will ask them for their logs, giving you what they send.
 
-To the Arena (N1 -> N4 cooldown) - Select up to four operatives. Each of these operatives will be occupied and put in a battle to the death, with only one operative that can make it out. The order of winning the battle is as follows: Neutrals > Agents > W3C > Paragon > Netsec, and Special > Field Ops > Social > Investigative > Utility > Offensive. A tie will result in both dying. Each operative will be occupied and death is not dodgeable. Do not visit them.
+Call Backup (N1 -> N4 cooldown) - Escort yourself. If you are targeted by an arrest or murder, attack them right back, killing the arrester or murderer.
+
+To the Arena (N1 -> N4 cooldown) - Select up to four operatives. Each of these operatives will be occupied and put in a battle to the death, with only one operative that can make it out. The order of winning the battle is as follows: Neutrals > Agents > W3C > Paragon > Netsec, and Special > Field Ops > Social > Investigative > Utility > Offensive. A tie will result in all dying. Each operative will be occupied and death is not dodgeable. Do not visit them.
 
 ### **Passives:**
 

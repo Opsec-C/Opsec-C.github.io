@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “Let’s kill some people for the sake of killing people, Psychopath.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agents, and W3C). Opsec R requires you to kill all operatives once from the time you become the Neutral Killing role.
+Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
 ### **Day:**
 
@@ -28,8 +28,6 @@ Doxx and Stalk (N1 -> N4 cooldown, 2 charges) - Select a target operative. Do no
 
 ### **Passives:**
 
-Psychopath’s Fake Operatives - Psychopath is designed in which the other N operatives that you own are all automatically thrown under the bus as soon as any arrest or murder attempts happen. By default, Psychopath should have the other N operatives simply be test dummies of himself, shielding all attacks for him with the Throw Under the Bus message and revealing a Psychopath test dummy.
-
 Psychopath’s Cover - You can select any role to cover yourself, which lasts until Day 4.
 
-Raid Boss - Avoid the first two arrest or murder attempts on you. (Either use this passive or Psychopath’s Fake Operatives).
+Raid Boss - Avoid the first two arrest or murder attempts on you.

@@ -16,7 +16,7 @@ Hiring Check (D1 -> D3 cooldown) - Check how an operative was hired. You’ll be
 
 Paragon Inspiration (N1 -> N3 cooldown, 2 charges) - Select a Paragon operative and choose a skill they have to give them a skill charge. Visit them.
 
-Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
+Wiretap (N1 -> N3 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 
 ### **Passives:**
 

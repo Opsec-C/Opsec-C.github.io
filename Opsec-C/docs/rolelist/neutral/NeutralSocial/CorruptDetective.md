@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “The Operation Leader wants you to solve this case, but he won’t know who is truly a traitor, Corrupt Detective.”
 
-Win Condition: Frame two operatives that aren’t yours and get them both voted out. Opsec R requires you to frame and vote out another operative.
+Win Condition: Frame and get another operative voted out.
 
 ### **Day:**
 

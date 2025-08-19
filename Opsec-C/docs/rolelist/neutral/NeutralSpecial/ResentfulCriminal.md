@@ -6,13 +6,15 @@ This role is supposed to be unique, depending on the ruleset.
 
 “You remember their faces very well, or well enough, Resentful Criminal.”
 
-Win Condition: Kill the original Operation Leader and a core agent role. (Core agent can be any non-mole agent role).
+Win Condition: Kill the original Operation Leader and a core agent, non mole role.
 
 ### **Day:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
+
+Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
 
 ### **Night:**
 
@@ -22,7 +24,7 @@ Interrogate (3 charges) - Select a target operative and occupy them. The host wi
 
 Disorganized Murder - Select an operative and attempt to murder them. Visit the target.
 
-Resentful Reunion (2 charges) - Select two operatives, if they are both a target of yours, kill them. If one is not your target, do nothing. Cannot be dodged in any way.
+Resentful Reunion (2 charges) - Select two operatives, if they are both a target of yours, kill them. If one is not your target, do nothing. Visit the first operative.
 
 ### **Passives:**
 

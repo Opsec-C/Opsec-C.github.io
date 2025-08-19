@@ -16,6 +16,8 @@ Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
 Rerouted Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
 
+Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
+
 ### **Night:**
 
 Paragon Secret Codeword - Select a target operative, if a target is Paragon, let you know their role. Goes through cover or frames. Visit them.

@@ -12,6 +12,8 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves a log.
 
+Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
+
 Redirection (1 charge) - Select two target operatives, all skills used on the first operative will be used on the second operative, works similar to Throw Under the Bus.
 
 ### **Night:**

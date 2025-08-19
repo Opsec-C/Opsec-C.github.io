@@ -6,7 +6,7 @@ This role is unique (one Operation Leader should spawn).
 
 “It’s time to go ham-burger, Cheeseburger Technician.”
 
-Win Condition: Give 3 burgers to operatives of your choice.
+Win Condition: Give 2 burgers to operatives of your choice.
 
 ### **Day:**
 

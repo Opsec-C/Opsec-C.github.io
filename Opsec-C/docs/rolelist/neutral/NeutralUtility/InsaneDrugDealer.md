@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “Chemistry teacher by day, ruthless kingpin by night, this Opsec is the perfect chance for a huge score, Insane Drug Dealer.”
 
-Win Condition: End the game with 2 shipments and overdose 2 operatives of your choice.
+Win Condition: End the game with 2 shipments and overdose 1 operative of your choice.
 
 ### **Day:**
 

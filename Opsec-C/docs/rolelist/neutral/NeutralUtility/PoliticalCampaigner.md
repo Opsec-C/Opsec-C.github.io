@@ -4,7 +4,7 @@
 
 “You’ve been paid to shape the political agenda in some form, even if it isn’t helping Netsec, Political Campaigner.”
 
-Win Condition: Survive and ensure Netsec wins, or have 10 funds.
+Win Condition: Survive and ensure Netsec wins, or have 8 funds.
 
 ### **Day:**
 

@@ -4,7 +4,7 @@
 
 “You learned to hack from the game Hacknet, now it’s time to prove your worth outside of games, Hacknet Hacker.”
 
-Win Condition: Hack 2 separate nodes without getting arrested or killed.
+Win Condition: Hack 2 nodes without getting arrested or killed.
 
 ### **Day:**
 

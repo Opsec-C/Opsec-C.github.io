@@ -4,7 +4,7 @@
 
 “You used to be a major hacker for Netsec, but you have endured severe health problems that forces you to merely teach others the way of the hack, Retired Hacker.”
 
-Win Condition: Increase or decrease 5 different operatives' hack chances.
+Win Condition: Increase or decrease 4 different operatives' hack chances.
 
 ### **Day:**
 

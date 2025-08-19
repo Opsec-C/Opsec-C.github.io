@@ -4,7 +4,7 @@
 
 “You are an agent recruit, but for some reason the agent recruiting process didn’t go as planned, connect back to agents again, Abandoned Agent.”
 
-Win Condition: Ensure agents win. Opsec R requires you to simply find an agent.
+Win Condition: Ensure agents win.
 
 ### **Day:**
 
@@ -12,9 +12,9 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a Denial of Service.
 
-Emergency Repairs (1 charge) - Select a green or white node and block all connections to the node this day. Lets you know if a rollback was used on the node. Do not leave a log.
-
 Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+
+Bait Law Enforcement (D1 -> D3 cooldown) - Select a target operative, inform agents that the target is one working for Netsec. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
 ### **Night:**
 

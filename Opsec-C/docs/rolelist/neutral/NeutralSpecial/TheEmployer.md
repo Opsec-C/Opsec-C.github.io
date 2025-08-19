@@ -26,7 +26,7 @@ Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy 
 
 Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to escort, does not occupy them and makes them immune to everything unless otherwise stated.
 
-Special Orders (1 charge) - Select an operative and murder them. Cannot be dodged in any way. Occupies but does NOT visit the target.
+Special Orders (1 charge) - Select an operative and murder them. Occupies but does NOT visit the target.
 
 ### **Passives:**
 

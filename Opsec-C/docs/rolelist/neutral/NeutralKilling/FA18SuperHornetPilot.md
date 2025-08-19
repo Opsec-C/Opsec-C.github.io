@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “Time to take the skies and light the fires, F/A-18 Super Hornet Pilot.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agents, and W3C). Opsec R requires you to kill all operatives once from the time you become the Neutral Killing role.
+Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
 ### **Day:**
 
@@ -14,7 +14,7 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Rearm Missiles (2 charges) - Gain a charge of Double Strafe.
 
-Electronic Countermeasures (1 charge) - Next phase will not announce any movement globally except that you have used Electronic Countermeasures.
+Electronic Countermeasures (2 charges) - Next phase will not announce any movement globally except that you have used Electronic Countermeasures.
 
 ### **Night:**
 

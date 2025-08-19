@@ -20,7 +20,7 @@ Switch Gears (N1 -> N3 cooldown) - Select two operatives, all abilities that wer
 
 Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying both operatives. You may be the first target. Visits the first operative.
 
-Ramming Speed (1 charge) - Select an operative and murder them. Cannot be dodged in any way, and cannot be occupied. Occupies and visits the target. Also kills yourself.
+Ramming Speed (1 charge) - Select an operative and murder them. Occupies and visits the target. Also kills yourself if successfully kills target.
 
 ### **Passives:**
 

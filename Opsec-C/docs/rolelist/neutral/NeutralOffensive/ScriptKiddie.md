@@ -4,7 +4,7 @@
 
 “Make sure to get out alive, Script Kiddie.”
 
-Win Condition: Survive, or hack 2 nodes.
+Win Condition: Survive, or hack 1 node.
 
 ### **Day:**
 

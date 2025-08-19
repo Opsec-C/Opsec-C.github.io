@@ -4,7 +4,7 @@
 
 “Let’s see who these people are, Amateur Investigator.”
 
-Win Condition: Gather 5 pieces of information.
+Win Condition: Gather 4 pieces of information.
 
 ### **Day:**
 
@@ -22,10 +22,10 @@ Speech Analysis (N1 -> N3 cooldown) - Start with a random operative. Select a ta
 
 Review Specialization (N1 -> N4 cooldown, 2 charges) - Select a target operative. Learn their subclass, or framed or cover subclass. Do not go through frames or cover. Visit them. If successful, gain a piece of information.
 
-Doxx and Stalk (N1 -> N4 cooldown, 2 charges) - Select a target operative. Do not go through frames or cover. Learn this operative’s faction alignment and visit them. If successful, gain a piece of information.
+Mock Interview (N1 -> N3 cooldown) - Check whether an operative has their hack chance increased or decreased in the last day and this night, letting you know specifically if it was increased or decreased. Visit them. If successful, gain a piece of information.
 
 ### **Passives:**
 
 No Dirt On Me - You are unarrestable unless framed. You do not know who attempted to arrest you.
 
-Unsecured Investigation - After gathering 3 pieces of information, you lose No Dirt On Me.
+Unsecured Investigation - After gathering 2 pieces of information, you lose No Dirt On Me.

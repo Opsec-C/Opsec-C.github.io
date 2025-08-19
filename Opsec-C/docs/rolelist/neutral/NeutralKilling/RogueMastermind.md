@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “Project Havoc is waiting for your careful execution, Rogue Mastermind.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agents, and W3C). Opsec R requires you to kill all operatives once from the time you become the Neutral Killing role.
+Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
 ### **Day:**
 
@@ -16,22 +16,22 @@ Application Layer Attack (2 charges) - Select a green or white node and block al
 
 Worm Attack - Select a target operative that has been infected. You can see the operative’s action space and choose what that operative does today. Cannot repeatedly use this on the same operative.
 
-Activate Project Havoc (D1 -> D3 cooldown, 2 charges) - Kill all infected operatives.
+Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
+
+Activate Project Havoc (D1 -> D3 cooldown, 2 charges) - Kill all infected operatives at night.
 
 ### **Night:**
 
-Infect Operative (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack and infecting their hardware. Do not reveal yourself to them. (Works like Midnight Meet).
+Infect Operative - Select a target operative. Visit and occupy them, talking about the hack and infecting their hardware. (Works like Midnight Meet).
 
 Expunge Hacker - Select a green node and kill the operative that hacked the node.
 
-Activate Project Havoc (N1 -> N3 cooldown, 2 charges) - Kill all infected operatives.
+Activate Project Havoc (N1 -> N3 cooldown, 2 charges) - Kill all infected operatives at night.
 
 ### **Passives:**
-
-Mastermind’s Entourage - Rogue Mastermind is designed in which the other N operatives that you own are all automatically thrown under the bus as soon as any arrest or murder attempts happen. By default, Rogue Mastermind should have the other N operatives simply be holograms of himself, shielding all attacks for him with the Throw Under the Bus message and revealing a “Rogue Mastermind” hologram.
 
 Hardcoded Routing Procedures - You will gain access to the exact role of all infected operatives.
 
 Mastermind’s Cover - You can select any role to cover yourself, which lasts until Day 4.
 
-Raid Boss - Avoid the first two arrest or murder attempts on you. (Either use this passive or Psychopath’s Fake Operatives).
+Raid Boss - Avoid the first two arrest or murder attempts on you.

@@ -4,7 +4,7 @@
 
 “You realized your inevitable fate of staying here, Panicked Blabbermouth.”
 
-Win Condition: Kill 2 Netsec operatives and extract, or make sure Netsec loses.
+Win Condition: Kill 1 Netsec operative and extract, or make sure Netsec loses.
 
 ### **Day:**
 
@@ -20,7 +20,7 @@ Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are 
 
 Assault and Battery - Select an operative and attempt to murder them. Visit the target.
 
-Evacuation (1 charge) - Leave the Opsec if 2 players are killed. Frame yourself as killed.
+Evacuation (1 charge) - Leave the Opsec if kill objective is complete. Frame yourself as killed.
 
 ### **Passives:**
 

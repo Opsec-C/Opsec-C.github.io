@@ -4,13 +4,15 @@
 
 “Time to make some heads roll, Contracted Headhunter.”
 
-Win Condition: You are given 2 target subclass and faction pairs. Kill the two requested subclass and faction pairs manually. Can be any subclass and faction.
+Win Condition: You are given 2 target subclass and faction pairs. Both of the two requested subclass and faction pairs must die. Can be any subclass and faction.
 
 ### **Day:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Get Dirt - Select a target operative. You will get one of two class types that they can be. Do not go through frames or cover.
+
+Bait Law Enforcement (D1 -> D3 cooldown) - Select a target operative, inform agents that the target is one working for Netsec. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
 ### **Night:**
 
@@ -20,7 +22,7 @@ Deductive Reasoning (N1 -> N3 cooldown) - Select a target operative. You will le
 
 Call Backup (N1 -> N4 cooldown) - Escort yourself. If you are targeted by an arrest or murder, attack them right back, killing the arrester or murderer.
 
-Headhunt (3 charges) - Select an operative and murder them if they are a target. Cannot be dodged in any way. Occupies and visits the target. If they are not a target operative, do nothing.
+Headhunt (3 charges) - Select an operative and murder them if they are a target. Occupies and visits the target. If they are not a target operative, do nothing.
 
 ### **Passives:**
 

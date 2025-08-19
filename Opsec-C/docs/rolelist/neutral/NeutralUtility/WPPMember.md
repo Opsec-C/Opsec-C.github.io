@@ -12,6 +12,8 @@ Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
 Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
 
+Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
+
 Desperate Measures (1 charge) - Turn into a Prodigy.
 
 ### **Night:**

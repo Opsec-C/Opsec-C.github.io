@@ -16,7 +16,7 @@ Onboarding Process - Force someone to vote for someone of your choice.
 
 ### **Night:**
 
-Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
+Wiretap (N1 -> N3 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 
 Onboarding Process - Force someone to vote for someone of your choice.
 
