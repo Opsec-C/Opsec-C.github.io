@@ -30,4 +30,4 @@ Death Doubt (2 charges) - Select a target operative. Change their role to be any
 
 ### **Passives:**
 
-Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 3 or in Opsec R, for 2 days after spawning. Cannot be arrested unless you are framed.
+Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 2. Cannot be arrested unless you are framed.

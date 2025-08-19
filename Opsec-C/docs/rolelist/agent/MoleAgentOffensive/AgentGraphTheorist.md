@@ -24,6 +24,6 @@ Gift Broken Computer (2 charges) - Select a target operative. Permanently grants
 
 ### **Passives:**
 
-Depth Prediction - You gain the intel first if you hack into a layer first. Opsec R allows you to download intel first before others.
+Depth Prediction - Download intel first before others.
 
 Node Prediction - You know which nodes can be downloaded for intel.

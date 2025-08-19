@@ -4,7 +4,7 @@
 
 “You were the one who brought them to this Opsec, now it is your job to unite them, W3C Technical Recruiter.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, W3C, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

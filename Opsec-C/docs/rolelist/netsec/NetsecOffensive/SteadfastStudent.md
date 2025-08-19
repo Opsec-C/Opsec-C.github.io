@@ -38,6 +38,6 @@ Murder (1 charge) - Select an operative and murder them. Occupies and visits the
 
 ### **Passives:**
 
-Determined - If approximately one third of the operatives have fallen, become Determined. Opsec R only requires their starting role to be gone.
+Determined - If approximately one third of the operatives have fallen, become Determined.
 
-Weathering the Storm - If approximately two thirds of the operatives have fallen, become Weathering the Storm. Opsec R only requires their starting role to be gone.
+Weathering the Storm - If approximately two thirds of the operatives have fallen, become Weathering the Storm.

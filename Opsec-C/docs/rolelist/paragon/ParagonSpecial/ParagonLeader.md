@@ -40,6 +40,6 @@ Assault and Battery - Select an operative and attempt to murder them. Visit the 
 
 Computer Forensics Background - Pick one of the three abilities between Denial of Service, Harden Node, and Probe Node.
 
-Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 4. Can be arrested after Rent Free is triggered.
+Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 2. Can be arrested after Rent Free is triggered.
 
 Rent Free - Avoid the first arrest attempt and murder attempt on you.

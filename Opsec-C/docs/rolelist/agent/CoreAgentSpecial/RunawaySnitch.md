@@ -2,7 +2,7 @@
 
 ### **Core Agent Special**
 
-This role is ONLY if there are no more Core roles left and there are moles left, not a starting role. The agents may pick one mole to become this role. Opsec R can have this role at any point.
+This role is ONLY if there are no more Core roles left and there are moles left, not a starting role. The agents may pick one mole to become this role.
 
 “You are panicking and not thinking straight, Netsec is out to get you and other agents believe you were behind it all, get out alive, Runaway Snitch.”
 

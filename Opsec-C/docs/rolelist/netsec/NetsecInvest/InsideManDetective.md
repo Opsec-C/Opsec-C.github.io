@@ -22,4 +22,4 @@ Investigation (N1 -> N3 cooldown) - Select a target operative. Learn between thr
 
 ### **Passives:**
 
-Target Knowledge - You can see which node is the final target. This target will not win the game outright, but will allow you to gain significant global intel if hacked. This is the win condition for Opsec R.
+Target Knowledge - You can see which node is the final target.

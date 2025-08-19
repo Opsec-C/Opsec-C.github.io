@@ -12,7 +12,7 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Bait Law Enforcement (D1 -> D3 cooldown) - Select a target operative, inform agents that the target is one working for Netsec. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
-Join the Force (1 charge) - Become an enforcer, only usable at Day 4 or later.
+Join the Force (1 charge) - Become an enforcer.
 
 ### **Night:**
 

@@ -28,6 +28,6 @@ Doxx and Stalk (N1 -> N4 cooldown, 2 charges) - Select a target operative. Do no
 
 ### **Passives:**
 
-Psychopath’s Cover - You can select any role to cover yourself, which lasts until Day 4.
+Psychopath’s Cover - You can select any role to cover yourself, which lasts until Day 2.
 
 Raid Boss - Avoid the first two arrest or murder attempts on you.

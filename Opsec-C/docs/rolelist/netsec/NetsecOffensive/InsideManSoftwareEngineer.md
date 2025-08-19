@@ -24,4 +24,4 @@ Replace Server (N1 -> N3 cooldown, 2 charges) - Replace a selected server with a
 
 ### **Passives:**
 
-Target Knowledge - You can see which node is the final target. This target will not win the game outright, but will allow you to gain significant global intel if hacked. This is the win condition for Opsec R.
+Target Knowledge - You can see which node is the final target.

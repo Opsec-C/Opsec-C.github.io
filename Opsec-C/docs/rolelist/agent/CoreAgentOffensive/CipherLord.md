@@ -40,6 +40,6 @@ Wiretap (N1 -> N3 cooldown) - Select a target operative. Check the operative’s
 
 ### **Passives:**
 
-Deep Fake Disguise - You can pick any class to frame yourself as until Day 4. Cannot be arrested unless you are framed.
+Deep Fake Disguise - You can pick any class to frame yourself as until Day 2. Cannot be arrested unless you are framed.
 
 Encryption Tactics - Pick one ability from Firewall Layer, Encrypt Intel, and Caesar Cipher.

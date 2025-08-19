@@ -32,6 +32,6 @@ Activate Project Havoc (N1 -> N3 cooldown, 2 charges) - Kill all infected operat
 
 Hardcoded Routing Procedures - You will gain access to the exact role of all infected operatives.
 
-Mastermind’s Cover - You can select any role to cover yourself, which lasts until Day 4.
+Mastermind’s Cover - You can select any role to cover yourself, which lasts until Day 2.
 
 Raid Boss - Avoid the first two arrest or murder attempts on you.

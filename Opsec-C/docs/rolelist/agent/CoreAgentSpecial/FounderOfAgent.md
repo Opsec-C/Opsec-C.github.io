@@ -74,7 +74,7 @@ Agent on the Field - You are a Field Agent role.
 
 Authority - You have two votes.
 
-Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 3 or in Opsec R, for 2 days after spawning. Cannot be arrested unless you are framed.
+Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 2. Cannot be arrested unless you are framed.
 
 True Sight - All investigative abilities go through all frames and covers.
 
