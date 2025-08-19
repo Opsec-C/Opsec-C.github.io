@@ -14,7 +14,7 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
-Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
+Hack Private Channel (2 charges) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
 
 ### **Night:**
 

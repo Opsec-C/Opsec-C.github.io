@@ -22,4 +22,4 @@ Disorganized Murder - Select an operative and attempt to murder them. Visit the 
 
 ### **Passives:**
 
-None.
+Working with Death - Every vote kill increases your chances of success in disorganized murder.

@@ -16,7 +16,7 @@ Application Layer Attack (2 charges) - Select a green or white node and block al
 
 Worm Attack - Select a target operative that has been infected. You can see the operative’s action space and choose what that operative does today. Cannot repeatedly use this on the same operative.
 
-Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
+Hack Private Channel (2 charges) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
 
 Activate Project Havoc (D1 -> D3 cooldown, 2 charges) - Kill all infected operatives at night.
 

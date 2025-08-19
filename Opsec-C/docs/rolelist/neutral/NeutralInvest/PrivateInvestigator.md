@@ -14,7 +14,7 @@ Get Dirt - Select a target operative. You will get one of two class types that t
 
 Cryptocurrency Trading - Trade currency for some intel. Instead of downloading, you can try to get intel through buying and selling crypto on the market. Do not go through frames or cover. Download Intel without leaving a connection log. Sometimes returns fake intel. Gain a charge of Tip Off if there aren’t any.
 
-Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night. Gain a charge of Tip Off if there aren't any.
+Hack Private Channel (2 charges) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night. Gain a charge of Tip Off if there aren't any.
 
 Deep Learn (2 charges) - The next action will go through any kind of cover, frame, or passives.
 

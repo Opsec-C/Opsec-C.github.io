@@ -1,27 +1,45 @@
 ![majorityshareholder.png](Images/majorityshareholder.png){ width="250" }
 
-### **Neutral Investigative**
+### **Netsec Special**
 
-“You and your family escaped persecution thanks to some less than legal methods. However, they are in danger, as they picked to work with Netsec, Repressed Refugee.”
+This role is unique (one Operation Leader should spawn).
 
-Win Condition: Protect at least one of your other operatives at all costs. Opsec R requires you to die or get arrested for any operative.
+“You were paid in huge shares on the stock market for this operation to go well, Majority Shareholder.”
+
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
+Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
+Majority Owner - Force someone to vote for someone of your choice.
 
-Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
+Give Root Access (1 charge) - Select an operative to give root to. They become any of Operation Leader, Blackmailed Leader, Sociopath Leader, W3C Operation Leader, Paragon Operation Leader, or are simply an agent, neutral, Paragon Leader, or W3C Leader with access to the special channel. A Neutral Leader can only spawn in.
+
+Shark Tank (2 charges) - Host a shark tank with many businessmen, gaining shares off of great deals investing in great companies, granting you +2 votes the next night.
+
+On My Payroll (1 charge) - If you want to use the assassin to kill someone, use a charge to kill that operative instead of the operative getting voted. The other operative must have at least 1 vote.
+
+Override Assassin (1 charge) - If you think that the operative getting voted is not someone that should die, don’t have the assassin kill them. The vote will be skipped.
 
 ### **Night:**
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Majority Owner - Force someone to vote for someone of your choice.
 
-Ultimate Sacrifice - Tonight, you can sacrifice yourself for anyone who gets arrested or murdered tonight of your choice.
+Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 
-Scout Dead Operative (2 charges) - Select a murdered or arrested operative. Choose an ability from the operative to use from the operative’s role, and use it this phase. Do not visit them.
+Shark Tank (2 charges) - Host a shark tank with many businessmen, gaining shares off of great deals investing in great companies, granting you +2 votes the next night.
+
+On My Payroll (1 charge) - If you want to use the assassin to kill someone, use a charge to kill that operative instead of the operative getting voted. The other operative must have at least 1 vote.
+
+Override Assassin (1 charge) - If you think that the operative getting voted is not someone that should die, don’t have the assassin kill them. The vote will be skipped.
 
 ### **Passives:**
 
-None.
+Authority - You have two votes.
+
+Covert Broadcast - You should be given access to talk to all players in a specialized channel (global Opsec info).
+
+Operation Leader - You are one of the leading roles and should spawn every operation.
+
+Shared Vested Stock - The charges of Shark Tank, Override Assassin, and On My Payroll are only usable once in day or night.

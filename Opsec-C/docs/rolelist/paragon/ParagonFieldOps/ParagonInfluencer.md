@@ -1,26 +1,24 @@
 ![paragoninfluencer.png](Images/paragoninfluencer.png){ width="250" }
 
-### **Neutral Investigative**
+### **Paragon Field Operations**
 
-“You and your family escaped persecution thanks to some less than legal methods. However, they are in danger, as they picked to work with Netsec, Repressed Refugee.”
+“Paragon feeds on fame, which makes you the heart of the party, Paragon Influencer”
 
-Win Condition: Protect at least one of your other operatives at all costs. Opsec R requires you to die or get arrested for any operative.
+Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
 
 ### **Day:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
+Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
-
-Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
+Bait Law Enforcement (D1 -> D3 cooldown) - Select a target operative, inform agents that the target is one working for Netsec. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
 ### **Night:**
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Send Entertainment (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, entertaining them. (Same as Midnight Meet).
 
-Ultimate Sacrifice - Tonight, you can sacrifice yourself for anyone who gets arrested or murdered tonight of your choice.
+Extra Presents (2 charges) - Occupy all operatives that have been given entertainment previously with Send Entertainment.
 
-Scout Dead Operative (2 charges) - Select a murdered or arrested operative. Choose an ability from the operative to use from the operative’s role, and use it this phase. Do not visit them.
+Call Backup (N1 -> N4 cooldown) - Escort yourself. If you are targeted by an arrest or murder, attack them right back, killing the arrester or murderer.
 
 ### **Passives:**
 

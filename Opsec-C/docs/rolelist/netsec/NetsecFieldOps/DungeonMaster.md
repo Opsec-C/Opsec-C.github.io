@@ -1,26 +1,24 @@
 ![dungeonmaster.png](Images/dungeonmaster.png){ width="350" }
 
-### **Neutral Investigative**
+### **Netsec Field Operations**
 
-“You and your family escaped persecution thanks to some less than legal methods. However, they are in danger, as they picked to work with Netsec, Repressed Refugee.”
+“You are a performance artist, but you were hired by Netsec to fulfill their fantasies, Dungeon Master.”
 
-Win Condition: Protect at least one of your other operatives at all costs. Opsec R requires you to die or get arrested for any operative.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
+Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
+Temporary Dungeon Time - Select a target operative and put them in the dungeon for the night. They will receive a similar outcome as Bouncer, like if you visit and occupy them without revealing yourself, and anyone who visits them will be occupied, like a Misdirection. Gain a charge of Dungeon Arrest only if you have had not arrested more than 1 person. (Maximum 2 arrest attempts per game).
 
-Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
+Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 ### **Night:**
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Dungeon Arrest (0 charges) - Arrest the target in the dungeon, as you have determined them guilty. If you do not do this, the operative will be released tomorrow. Cannot arrest unarrestable targets, since they will either escape or are legally unarrestable.
 
-Ultimate Sacrifice - Tonight, you can sacrifice yourself for anyone who gets arrested or murdered tonight of your choice.
-
-Scout Dead Operative (2 charges) - Select a murdered or arrested operative. Choose an ability from the operative to use from the operative’s role, and use it this phase. Do not visit them.
+Dumpster Dive - Increases hacking chances on a random node.
 
 ### **Passives:**
 

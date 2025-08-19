@@ -18,7 +18,7 @@ Onboarding Process - Force someone to vote for someone of your choice.
 
 ### **Night:**
 
-Final Gambit (1 charge) - Frame yourself as any role in the game and frame your own death or arrest.
+Final Gambit (1 charge) - Frame yourself as any role in the game, after using this ability, you can choose to leave as dead or arrested at any future phase.
 
 Onboarding Process - Force someone to vote for someone of your choice.
 

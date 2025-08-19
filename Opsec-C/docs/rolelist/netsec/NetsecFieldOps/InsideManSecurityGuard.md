@@ -1,27 +1,29 @@
 ![insidemansecurityguard.png](Images/insidemansecurityguard.png){ width="250" }
 
-### **Neutral Investigative**
+### **Netsec Field Operations**
 
-“You and your family escaped persecution thanks to some less than legal methods. However, they are in danger, as they picked to work with Netsec, Repressed Refugee.”
+“You don’t have high clearance at the target company, but any little bit helps. Cash out and get out, Inside Man (Security Guard).”
 
-Win Condition: Protect at least one of your other operatives at all costs. Opsec R requires you to die or get arrested for any operative.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
+Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
+Insider Knowledge (D1 -> D3 cooldown, 2 charges) - Tells you the IP of a node with downloadable intel on it.
 
-Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
+Contraband Check (1 charge) - For the next night, any operatives arrested and murdered will have their roles revealed, unframed, and logs unencrypted, including through voting.
+
+Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 ### **Night:**
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Neutrals OUT (2 charges) - Select a target operative and arrest them, only if they are truly a Neutral role with a Neutral objective. Visit them.
 
-Ultimate Sacrifice - Tonight, you can sacrifice yourself for anyone who gets arrested or murdered tonight of your choice.
-
-Scout Dead Operative (2 charges) - Select a murdered or arrested operative. Choose an ability from the operative to use from the operative’s role, and use it this phase. Do not visit them.
+Sniff-out (N1 -> N3 cooldown) - Select a target operative. If the operative is a drug dealer or has the potential to murder or disorganized murder in any way, let you know. Goes through cover or frames. Visit them.
 
 ### **Passives:**
 
-None.
+Target Knowledge - You can see which node is the final target.
+
+From the Grape Vine - You know if Agents have a mole role or not in play.

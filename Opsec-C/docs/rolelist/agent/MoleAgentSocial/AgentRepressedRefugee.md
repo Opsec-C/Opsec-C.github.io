@@ -1,10 +1,10 @@
 ![agentrepressedrefugee.png](Images/agentrepressedrefugee.png){ width="350" }
 
-### **Neutral Investigative**
+### **Mole Agent Social**
 
-“You and your family escaped persecution thanks to some less than legal methods. However, they are in danger, as they picked to work with Netsec, Repressed Refugee.”
+“In order to escape prison, you took a plea deal as a Disgraced Loyalist. Agents could use your survival skills, Agent Repressed Refugee.”
 
-Win Condition: Protect at least one of your other operatives at all costs. Opsec R requires you to die or get arrested for any operative.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 
@@ -12,11 +12,9 @@ Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
 Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
 
-Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
-
 ### **Night:**
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Final Gambit (1 charge) - Frame yourself as any role in the game, after using this ability, you can choose to leave as dead or arrested at any future phase.
 
 Ultimate Sacrifice - Tonight, you can sacrifice yourself for anyone who gets arrested or murdered tonight of your choice.
 

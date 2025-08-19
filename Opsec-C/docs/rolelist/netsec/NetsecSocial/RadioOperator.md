@@ -1,27 +1,29 @@
 ![radiooperator.png](Images/radiooperator.png){ width="450" }
 
-### **Neutral Investigative**
+### **Netsec Social**
 
-“You and your family escaped persecution thanks to some less than legal methods. However, they are in danger, as they picked to work with Netsec, Repressed Refugee.”
+“You know your way around radios and other communications devices like no other, Radio Operator.”
 
-Win Condition: Protect at least one of your other operatives at all costs. Opsec R requires you to die or get arrested for any operative.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
+Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
+Jam Network (2 charges) - Select a target operative and disable all day actions related to the topology done by them.
 
-Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
+Hack Private Channel (2 charges) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
+
+Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 ### **Night:**
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Wiretap (N1 -> N3 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 
-Ultimate Sacrifice - Tonight, you can sacrifice yourself for anyone who gets arrested or murdered tonight of your choice.
-
-Scout Dead Operative (2 charges) - Select a murdered or arrested operative. Choose an ability from the operative to use from the operative’s role, and use it this phase. Do not visit them.
+Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 
 ### **Passives:**
 
-None.
+Blackmailed Informant - Any time an Agent uses Deductive Reasoning or Informant, you will get information that agents get. Do not go through frames or cover.
+
+From the Grape Vine - You know if Agents have a mole role or not in play.
