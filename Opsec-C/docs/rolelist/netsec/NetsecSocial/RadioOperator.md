@@ -1,4 +1,4 @@
-![radiooperator.png](Images/radiooperator.png){ width="250" }
+![radiooperator.png](Images/radiooperator.png){ width="450" }
 
 ### **Neutral Investigative**
 

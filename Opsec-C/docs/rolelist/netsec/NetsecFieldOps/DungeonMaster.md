@@ -1,4 +1,4 @@
-![dungeonmaster.png](Images/dungeonmaster.png){ width="250" }
+![dungeonmaster.png](Images/dungeonmaster.png){ width="350" }
 
 ### **Neutral Investigative**
 

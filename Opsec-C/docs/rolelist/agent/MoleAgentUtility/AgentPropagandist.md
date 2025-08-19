@@ -1,4 +1,4 @@
-![agentpropagandist.png](Images/agentpropagandist.png){ width="250" }
+![agentpropagandist.png](Images/agentpropagandist.png){ width="350" }
 
 ### **Neutral Investigative**
 

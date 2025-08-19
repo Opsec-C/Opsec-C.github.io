@@ -1,4 +1,4 @@
-![techlead.png](Images/techlead.png){ width="250" }
+![techlead.png](Images/techlead.png){ width="350" }
 
 ### **Neutral Investigative**
 

@@ -1,4 +1,4 @@
-![agentrepressedrefugee.png](Images/agentrepressedrefugee.png){ width="250" }
+![agentrepressedrefugee.png](Images/agentrepressedrefugee.png){ width="350" }
 
 ### **Neutral Investigative**
 
