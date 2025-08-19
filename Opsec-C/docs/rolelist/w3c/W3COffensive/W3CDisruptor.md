@@ -16,7 +16,7 @@ Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node. Decreasing hac
 
 <br>
 
-Blood for the Blood God (Killed 3 operatives manually)
+Blood for the Blood God (Killed 2 operatives)
 
 =======================================================================
 
@@ -44,4 +44,4 @@ Glimpse has no cooldown now.
 
 Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
 
-Blood for the Blood God - If W3C has directly killed 3 operatives this Opsec, gain these powers.
+Blood for the Blood God - If 2 operatives died this Opsec, gain these powers.

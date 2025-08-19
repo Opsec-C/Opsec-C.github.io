@@ -18,7 +18,7 @@ Upload Fake Intel (1 charge) - Select a white or green node and upload intel tha
 
 <br>
 
-Blood for the Blood God (Killed 3 operatives manually)
+Blood for the Blood God (Killed 2 operatives)
 
 =======================================================================
 
@@ -44,4 +44,4 @@ Disorganized Murder - Select an operative and attempt to murder them. Visit the 
 
 Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
 
-Blood for the Blood God - If W3C has directly killed 3 operatives this Opsec, gain these powers.
+Blood for the Blood God - If 2 operatives died this Opsec, gain these powers.

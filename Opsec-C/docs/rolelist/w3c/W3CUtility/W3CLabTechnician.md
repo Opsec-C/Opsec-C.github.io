@@ -32,7 +32,7 @@ Overdose passive happens upon giving someone drugs twice.
 
 <br>
 
-Blood for the Blood God (Killed 3 operatives manually)
+Blood for the Blood God (Killed 2 operatives)
 
 =======================================================================
 
@@ -42,6 +42,6 @@ Plant Drug (2 charges) - Select a target operative. Plant a drug on the operativ
 
 Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
 
-Blood for the Blood God - If W3C has directly killed 3 operatives this Opsec, gain these powers.
+Blood for the Blood God - If 2 operatives died this Opsec, gain these powers.
 
 Overdose - If you give someone drugs three times in a row, they overdose and immediately die.

@@ -42,7 +42,7 @@ Gain another charge of any selected Computer Forensics Background ability.
 
 <br>
 
-Blood for the Blood God (Killed 3 operatives manually)
+Blood for the Blood God (Killed 2 operatives)
 
 =======================================================================
 
@@ -80,7 +80,7 @@ Murder with Goons has no cooldown.
 
 <br>
 
-Blood for the Blood God (Killed 3 operatives manually)
+Blood for the Blood God (Killed 2 operatives)
 
 =======================================================================
 
@@ -100,4 +100,4 @@ Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 2.
 
 Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
 
-Blood for the Blood God - If W3C has directly killed 3 operatives this Opsec, gain these powers.
+Blood for the Blood God - If 2 operatives died this Opsec, gain these powers.

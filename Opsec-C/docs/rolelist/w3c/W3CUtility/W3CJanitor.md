@@ -32,7 +32,7 @@ Disorganized Murder - Select an operative and attempt to murder them. Visit the 
 
 <br>
 
-Blood for the Blood God (Killed 3 operatives manually)
+Blood for the Blood God (Killed 2 operatives)
 
 =======================================================================
 
@@ -42,4 +42,4 @@ Review Connection Logs (2 charges) - Selects a target operative. Check if their 
 
 Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
 
-Blood for the Blood God - If W3C has directly killed 3 operatives this Opsec, gain these powers.
+Blood for the Blood God - If 2 operatives died this Opsec, gain these powers.

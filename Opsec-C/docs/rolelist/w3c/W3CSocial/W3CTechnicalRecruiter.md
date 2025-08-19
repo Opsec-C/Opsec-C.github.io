@@ -20,7 +20,7 @@ Onboarding Process - Force someone to vote for someone of your choice.
 
 <br>
 
-Blood for the Blood God (Killed 3 operatives manually)
+Blood for the Blood God (Killed 2 operatives)
 
 =======================================================================
 
@@ -48,6 +48,6 @@ Paid Assassin - Anyone who is voted during this phase will die at the end of the
 
 Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
 
-Blood for the Blood God - If W3C has directly killed 3 operatives this Opsec, gain these powers.
+Blood for the Blood God - If 2 operatives died this Opsec, gain these powers.
 
 People Person - You know how to navigate the sausage fest known as Netsec. You can force one person to vote for who you are voting every round without anyone knowing.
