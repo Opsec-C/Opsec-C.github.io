@@ -16,7 +16,7 @@ Redirection (1 charge) - Select two target operatives, all skills used on the fi
 
 Bouncer (N1 -> N3 cooldown, 2 charges) - Select a target operative. You will visit and occupy them like a Midnight Meet, and anyone who visits them will be occupied, like a Misdirection.
 
-Fake Escort - Escort a target operative, but leave as soon as trouble comes if the target is not Agent, letting the original target die or get arrested. Fully escort and die or get arrested for an Agent operative. Visit and occupy them. Must select a different target the next night.
+Fake Escort - Escort a target operative, but leave as soon as trouble comes, letting the original target die or get arrested. Visit and occupy them. Must select a different target the next night.
 
 Disorganized Murder - Select an operative and attempt to murder them. Visit the target.
 
