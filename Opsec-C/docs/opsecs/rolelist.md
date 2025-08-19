@@ -40,8 +40,8 @@
         - [<span class="netsec">Reverse Cryptographer](../../rolelist/netsec/NetsecOffensive/ReverseCryptographer)
     - <span class="netsec">Netsec Utility:
         - [<span class="netsec">Inside Man (Assistant)](../../rolelist/netsec/NetsecUtility/InsideManAssistant)
-        - [<span class="netsec">Hacking Instructor](../../rolelist/netsec/NetsecUtility/HackingInstructor)
         - [<span class="netsec">Spearphisher](../../rolelist/netsec/NetsecUtility/Spearphisher)
+        - [<span class="netsec">Hacking Instructor](../../rolelist/netsec/NetsecUtility/HackingInstructor)
         - [<span class="netsec">Loan Shark](../../rolelist/netsec/NetsecUtility/LoanShark)
         - [<span class="netsec">Propagandist](../../rolelist/netsec/NetsecUtility/Propagandist)
         - [<span class="netsec">Maintenance Man](../../rolelist/netsec/NetsecUtility/MaintenanceMan)
@@ -162,7 +162,7 @@
         - [<span class="agent">Agent Ethical Hacker](../../rolelist/agent/MoleAgentInvest/AgentEthicalHacker)
         - [<span class="agent">Initiator](../../rolelist/agent/MoleAgentInvest/Initiator)
     - <span class="agent">Mole Agent Offensive:
-        - [<span class="agent">Whitehat](../../rolelist/agent/MoleAgentOffensive/Whitehat)
+        - [<span class="agent">Agent Whitehat](../../rolelist/agent/MoleAgentOffensive/AgentWhitehat)
         - [<span class="agent">Agent Network Specialist](../../rolelist/agent/MoleAgentOffensive/AgentNetworkSpecialist)
         - [<span class="agent">Agent Network Architect](../../rolelist/agent/MoleAgentOffensive/AgentNetworkArchitect)
         - [<span class="agent">Agent Graph Theorist](../../rolelist/agent/MoleAgentOffensive/AgentGraphTheorist)

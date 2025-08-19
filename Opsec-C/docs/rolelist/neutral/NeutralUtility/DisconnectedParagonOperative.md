@@ -24,6 +24,8 @@ Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless y
 
 Plant Agent Documentation (3 charges) - Select a target operative. If the operative is doxxed this round, they will be seen as an agent. If the operative is specialization reviewed, they will be seen as special. If the operative is asked the right question, they will be seen as unable to hack. If the operative is speech analyzed, they will be seen as unable to win with anyone. Visit them.
 
+Mock Interview (N1 -> N3 cooldown) - Check whether an operative has their hack chance increased or decreased in the last day and this night, letting you know specifically if it was increased or decreased. Visit them.
+
 ### **Passives:**
 
 Paragon Special Squad - You are disconnected from the original Paragon operatives, as you are here to make sure to be an undercover operative.

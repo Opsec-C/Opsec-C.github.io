@@ -24,6 +24,8 @@ Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless y
 
 Wiretap (N1 -> N4 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 
+Mock Interview (N1 -> N3 cooldown) - Check whether an operative has their hack chance increased or decreased in the last day and this night, letting you know specifically if it was increased or decreased. Visit them.
+
 Wipe (1 charge) - Select a white node. Remove all connection logs and intel to the node.
 
 ### **Passives:**

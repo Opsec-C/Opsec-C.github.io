@@ -24,6 +24,8 @@ Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to esc
 
 ### **Passives:**
 
+Authority - You have two votes.
+
 Covert Broadcast - You should be given access to talk to all players in a specialized channel (global Opsec info).
 
 Operation Leader - You are one of the leading roles and should spawn every operation.

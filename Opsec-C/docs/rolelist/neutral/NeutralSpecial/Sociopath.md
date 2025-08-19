@@ -24,7 +24,7 @@ Follow (2 charges) - Select a target operative and follow them, visiting them an
 
 Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Visit them.
 
-Murder (1 charge) - Select an operative and murder them. Cannot be dodged in any way. Occupies and visits the target. Become the Neutral Leader or Sociopath Leader if the target murdered is the Operation Leader. Only can become the Sociopath Leader if all your other operatives are neutral.
+Murder (1 charge) - Select an operative and murder them. Occupies and visits the target. Become the Neutral Leader or Sociopath Leader if the target murdered is the Operation Leader.
 
 ### **Passives:**
 

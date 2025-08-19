@@ -8,7 +8,7 @@ Win Condition: Hack 2 separate nodes without getting arrested or killed.
 
 ### **Day:**
 
-Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
+Hack Target (High) - Select a white node and attempt to hack it. Leaves a log.
 
 Exploit Vulnerability (2 charges) - Select a white node and attempt to hack it with a low hack chance and increasing hacking chances of getting this node.
 
@@ -17,6 +17,8 @@ Hit the Books (D1 -> D3 cooldown, 2 charges) - Increases your hacking stage by o
 ### **Night:**
 
 Me First (N1 -> N3 cooldown) - Process your hack first before everyone else’s hack next day phase.
+
+Mock Interview (N1 -> N3 cooldown) - Check whether an operative has their hack chance increased or decreased in the last day and this night, letting you know specifically if it was increased or decreased. Visit them.
 
 Ask for Assistance (N1 -> N3 cooldown, 2 charges) - Select a target operative and disable all day actions related to the topology. Steal their hack chance if it is higher than yours. Works like Jam Network. Visit them.
 

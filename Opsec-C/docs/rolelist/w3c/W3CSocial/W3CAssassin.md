@@ -30,7 +30,7 @@ Follow (2 charges) - Select a target operative and follow them, visiting them an
 
 Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
 
-Murder (0 charges) - Select an operative and murder them. Cannot be dodged in any way. Occupies and visits the target.
+Murder (0 charges) - Select an operative and murder them. Occupies and visits the target.
 
 <br>
 

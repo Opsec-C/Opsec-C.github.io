@@ -22,7 +22,7 @@ Act as Prosecution - Select a target operative. The operative will have an extra
 
 Act as Defense - Select a target operative. The operative will have an extra vote (-1) with them next phase, not shown to the Opsec.
 
-Arrest Recording (N1 -> N4 cooldown, 2 charges) - Select a target operative. If they are arrested tonight, you will record the footage, displaying it to the public. Whoever arrested the operative will be notified and occupied tonight.
+Arrest Recording (N1 -> N4 cooldown, 2 charges) - Select a target operative. If they are arrested tonight, you will record the footage, displaying it to the public (not global). Whoever arrested the operative will be notified and occupied the next night. Visit them.
 
 ### **Passives:**
 

@@ -34,7 +34,7 @@ Weathering the Storm
 
 =======================================================================
 
-Murder (1 charge) - Select an operative and murder them. Cannot be dodged in any way. Occupies and visits the target. Only usable when Weathering the Storm.
+Murder (1 charge) - Select an operative and murder them. Occupies and visits the target. Only usable when Weathering the Storm.
 
 ### **Passives:**
 

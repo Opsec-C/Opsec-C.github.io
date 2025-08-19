@@ -30,7 +30,7 @@ Blood for the Blood God (Killed 3 operatives manually)
 
 =======================================================================
 
-0-Day Exploit (1 charge) - Select a white node and instantly hack it. Leaves a log.
+Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
 
 ### **Night:**
 

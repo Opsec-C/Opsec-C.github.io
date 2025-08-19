@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “You have to rejoin the force no matter what, Insane Officer.”
 
-Win Condition: Become a mole for the agents, and win with agents. Opsec R is to kill the Core Agent and become the agent.
+Win Condition: Become a mole for the agents, and win with agents.
 
 ### **Day:**
 
@@ -18,7 +18,7 @@ Steal Secured Channel Connection - Select a white node. If there is a dead mole,
 
 ### **Night:**
 
-Murder (1 charge) - Select an operative and murder them. Cannot be dodged in any way. Occupies and visits the target. If the target operative is a mole, kill them and become the mole. Opsec R allows you to become a Field Agent if you kill the core agent.
+Murder (1 charge) - Select an operative and murder them. Occupies and visits the target. If the target operative is a mole, kill them and become the mole.
 
 For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them.
 

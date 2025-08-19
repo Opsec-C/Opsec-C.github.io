@@ -20,7 +20,7 @@ Redirect Assassin (1 charge) - Select a target operative. For the rest of the ga
 
 Disorganized Murder - Select an operative and attempt to murder them. Visit the target.
 
-Murder (0 charges) - Select an operative and murder them. Cannot be dodged in any way. Occupies and visits the target.
+Murder (0 charges) - Select an operative and murder them. Occupies and visits the target.
 
 ### **Passives:**
 

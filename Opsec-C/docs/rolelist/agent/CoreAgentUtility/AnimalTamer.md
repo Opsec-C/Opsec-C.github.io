@@ -34,4 +34,4 @@ Beary Good - Send your bear to destroy all dumpsters in the Opsec, making the du
 
 ### **Passives:**
 
-Animal Lover - Operatives love you, they will stop to pet your animals even at the expense of the hack. Visiting your fellow agent operatives that are supported by an ability at night will occupy the visiting operatives.
+Animal Lover - Operatives love you, they will stop to pet your animals even at the expense of the hack. Visiting your fellow agent operatives that are supported by an ability at night will occupy the operatives that visit the supported agent operative.

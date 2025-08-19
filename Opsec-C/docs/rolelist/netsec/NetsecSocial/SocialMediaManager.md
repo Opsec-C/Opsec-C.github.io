@@ -24,7 +24,7 @@ Photoshoot (1 charge) - Shoot a photoshoot of yourself, granting 1 charge of Pos
 
 Videotape Advertising (1 charge) - Videotape an advertisement for Netsec, granting 1 charge of Post Videotape Advertising.
 
-Arrest Recording (N1 -> N4 cooldown, 2 charges) - Select a target operative. If they are arrested tonight, you will record the footage, displaying it to the public. Whoever arrested the operative will be notified and occupied tonight.
+Arrest Recording (N1 -> N4 cooldown, 2 charges) - Select a target operative. If they are arrested tonight, you will record the footage, displaying it to the public (not global). Whoever arrested the operative will be notified and occupied the next night. Visit them.
 
 ### **Passives:**
 

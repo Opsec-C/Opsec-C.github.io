@@ -30,10 +30,13 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⡄⠈⠻⣿⣿⢿⣛⣩⠤⠒⠉⠁⠀⠀⠀⠀⠀⠉⠒⢤⡀⠉⠁⠀⠀⠀⠀⠀⢀⡿⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣤⣤⠴⠟⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠤⠀⠀⠀⠀⠀⢩⠇⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
 <br>
 
 **Opsec C** is a concept designed to differ from the standard Town of Salem/Untrusted formula that focuses on singular operatives or players with a singular objective and role. Due to a lack of players, especially depending on time zones, and a stale meta that can develop with singular operatives, I came up with this idea to create something a bit different. Opsec C is focused more on the mechanics, although many want the game to be more focused on social deduction, this provides a different kind of social deduction to Untrusted- focused on social strategy involving figuring out who owns what operatives and what each player and operative wants to do, and can be run with a much smaller player count, at least 3 people needed. This also makes it easier to host and more interactive between the specific players, as each player must be more active.
+
+<br>
+
+**Opsec C Campaign** is simply Untrusted with an extended rolelist, designed to be played significantly faster than the traditional 24 hour per phase of gameplay. This game mode stems from  Opsec B, C, R, and legacy campaigns, along with something like a long form map (like Helldiver's map). The campaign is a multitude of Opsec B games that focus on faster gameplay with day/night cycles simplified into a single 24 hour phase and shorter games that only last a few days. This contains the gameplay into fast paced games that increase the fun moments of Untrusted and reduce the problematic and unfun parts.
 
 <br>
 

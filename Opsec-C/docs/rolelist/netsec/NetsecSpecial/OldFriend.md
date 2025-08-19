@@ -22,7 +22,7 @@ Give Root Access (0 charges) - Select an operative to give root to. They become 
 
 Looking for an Old Friend (N1 -> N3 cooldown) - Select a target operative, if they are the Operation Leader or have root access, you will know. Goes through cover or frames. Visit them.
 
-Murder Root Access - Select an operative and only attempt to murder them if they have root access. If the target has root access, gain 1 charge of Give Root Access. Visit the target.
+Murder Root Access - Select an operative and murder them if they have root access. If the target has root access, gain 1 charge of Give Root Access. Occupies and visits the target.
 
 ### **Passives:**
 

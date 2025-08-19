@@ -23,6 +23,7 @@ theme:
 nav:
     - Home: index.md
     - Opsecs:
+      - Opsec C Campaign: opsecs/opsecCCampaign.md
       - Opsec C: opsecs/opsecC.md
       - Opsec R: opsecs/opsecR.md
     - General Rules: opsecs/tips.md
@@ -70,8 +71,8 @@ nav:
           - Reverse Cryptographer: rolelist/netsec/NetsecOffensive/ReverseCryptographer.md
         - Netsec Utility:
           - Inside Man (Assistant): rolelist/netsec/NetsecUtility/InsideManAssistant.md
-          - Hacking Instructor: rolelist/netsec/NetsecUtility/HackingInstructor.md
           - Spearphisher: rolelist/netsec/NetsecUtility/Spearphisher.md
+          - Hacking Instructor: rolelist/netsec/NetsecUtility/HackingInstructor.md
           - Loan Shark: rolelist/netsec/NetsecUtility/LoanShark.md
           - Propagandist: rolelist/netsec/NetsecUtility/Propagandist.md
           - Maintenance Man: rolelist/netsec/NetsecUtility/MaintenanceMan.md
@@ -192,7 +193,7 @@ nav:
           - Agent Ethical Hacker: rolelist/agent/MoleAgentInvest/AgentEthicalHacker.md
           - Initiator: rolelist/agent/MoleAgentInvest/Initiator.md
         - Mole Agent Offensive:
-          - Whitehat: rolelist/agent/MoleAgentOffensive/Whitehat.md
+          - Agent Whitehat: rolelist/agent/MoleAgentOffensive/AgentWhitehat.md
           - Agent Network Specialist: rolelist/agent/MoleAgentOffensive/AgentNetworkSpecialist.md
           - Agent Network Architect: rolelist/agent/MoleAgentOffensive/AgentNetworkArchitect.md
           - Agent Graph Theorist: rolelist/agent/MoleAgentOffensive/AgentGraphTheorist.md

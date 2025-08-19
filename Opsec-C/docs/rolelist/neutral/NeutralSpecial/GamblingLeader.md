@@ -32,6 +32,8 @@ Up the Ante - (2 charges) - Select four operatives. Bring them all to a casino, 
 
 ### **Passives:**
 
+Authority - You have two votes.
+
 Covert Broadcast - You should be given access to talk to all players in a specialized channel (global Opsec info).
 
 Operation Leader - You are one of the leading roles and should spawn every operation.
