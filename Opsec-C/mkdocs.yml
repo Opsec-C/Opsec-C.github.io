@@ -36,17 +36,21 @@ nav:
           - Former Agent Leader: rolelist/netsec/NetsecSpecial/FormerAgentLeader.md
           - Hack God: rolelist/netsec/NetsecSpecial/HackGod.md
           - Infamous Cybercriminal: rolelist/netsec/NetsecSpecial/InfamousCybercriminal.md
+          - Majority Shareholder: rolelist/netsec/NetsecSpecial/MajorityShareholder.md
           - Old Friend: rolelist/netsec/NetsecSpecial/OldFriend.md
+          - Tech Lead: rolelist/netsec/NetsecSpecial/TechLead.md
         - Netsec Field Operations:
           - Enforcer: rolelist/netsec/NetsecFieldOps/Enforcer.md
           - CCTV Specialist: rolelist/netsec/NetsecFieldOps/CCTVSpecialist.md
           - Rookie Hacker: rolelist/netsec/NetsecFieldOps/RookieHacker.md
           - Improvised Hacker: rolelist/netsec/NetsecFieldOps/ImprovisedHacker.md
+          - Inside Man (Security Guard): rolelist/netsec/NetsecFieldOps/InsideManSecurityGuard.md
           - Nightclub Guard: rolelist/netsec/NetsecFieldOps/NightclubGuard.md
           - Hardware Hacker: rolelist/netsec/NetsecFieldOps/HardwareHacker.md
           - Entertainer: rolelist/netsec/NetsecFieldOps/Entertainer.md
           - Getaway Driver: rolelist/netsec/NetsecFieldOps/GetawayDriver.md
           - Arms Dealer: rolelist/netsec/NetsecFieldOps/ArmsDealer.md
+          - Dungeon Master: rolelist/netsec/NetsecFieldOps/DungeonMaster.md
         - Netsec Investigative:
           - Analyst: rolelist/netsec/NetsecInvest/Analyst.md
           - Social Engineer: rolelist/netsec/NetsecInvest/SocialEngineer.md
@@ -86,6 +90,7 @@ nav:
           - Hacking Advocate: rolelist/netsec/NetsecSocial/HackingAdvocate.md
           - Technical Recruiter: rolelist/netsec/NetsecSocial/TechnicalRecruiter.md
           - Silenced Investigator: rolelist/netsec/NetsecSocial/SilencedInvestigator.md
+          - Radio Operator: rolelist/netsec/NetsecSocial/RadioOperator.md
           - Rookie Assassin: rolelist/netsec/NetsecSocial/RookieAssassin.md
           - Social Media Manager: rolelist/netsec/NetsecSocial/SocialMediaManager.md
           - NFT Scammer: rolelist/netsec/NetsecSocial/NFTScammer.md
@@ -114,7 +119,6 @@ nav:
           - Shamed Journalist: rolelist/neutral/NeutralInvest/ShamedJournalist.md
           - Amateur Investigator: rolelist/neutral/NeutralInvest/AmateurInvestigator.md
           - Private Investigator: rolelist/neutral/NeutralInvest/PrivateInvestigator.md
-          - Repressed Refugee: rolelist/neutral/NeutralInvest/RepressedRefugee.md
           - Vengeful Assassin: rolelist/neutral/NeutralInvest/VengefulAssassin.md
         - Neutral Offensive:
           - Script Kiddie: rolelist/neutral/NeutralOffensive/ScriptKiddie.md
@@ -201,9 +205,11 @@ nav:
         - Mole Agent Utility:
           - Agent Company Man: rolelist/agent/MoleAgentUtility/AgentCompanyMan.md
           - Agent Database Manager: rolelist/agent/MoleAgentUtility/AgentDatabaseManager.md
+          - Agent Propagandist: rolelist/agent/MoleAgentUtility/AgentPropagandist.md
         - Mole Agent Social:
           - Agent Amateur Investigator: rolelist/agent/MoleAgentSocial/AgentAmateurInvestigator.md
           - Agent Technical Recruiter: rolelist/agent/MoleAgentSocial/AgentTechnicalRecruiter.md
+          - Agent Repressed Refugee: rolelist/agent/MoleAgentSocial/AgentRepressedRefugee.md
       - W3C:
         - W3C: rolelist/w3c/w3c.md
         - W3C Special:
@@ -234,12 +240,14 @@ nav:
           - Paragon Leader: rolelist/paragon/ParagonSpecial/ParagonLeader.md
         - Paragon Field Operations:
           - Paragon Ex-Mercenary: rolelist/paragon/ParagonFieldOps/ParagonExMercenary.md
+          - Paragon Influencer: rolelist/paragon/ParagonFieldOps/ParagonInfluencer.md
         - Paragon Investigative:
           - Paragon Journalist: rolelist/paragon/ParagonInvest/ParagonJournalist.md
           - Paragon Informant: rolelist/paragon/ParagonInvest/ParagonInformant.md
           - Paragon Search Engine Optimizer: rolelist/paragon/ParagonInvest/ParagonSearchEngineOptimizer.md
         - Paragon Offensive:
           - Paragon Prodigy: rolelist/paragon/ParagonOffensive/ParagonProdigy.md
+          - Paragon Cryptographer: rolelist/paragon/ParagonOffensive/ParagonCryptographer.md
         - Paragon Utility:
           - Paragon Security Specialist: rolelist/paragon/ParagonUtility/ParagonSecuritySpecialist.md
           - Paragon Scout: rolelist/paragon/ParagonUtility/ParagonScout.md

@@ -1,4 +1,4 @@
-![repressedrefugee.png](Images/repressedrefugee.png){ width="250" }
+![techlead.png](Images/techlead.png){ width="250" }
 
 ### **Neutral Investigative**
 

@@ -5,17 +5,21 @@
         - [<span class="netsec">Former Agent Leader](../../rolelist/netsec/NetsecSpecial/FormerAgentLeader)
         - [<span class="netsec">Hack God](../../rolelist/netsec/NetsecSpecial/HackGod)
         - [<span class="netsec">Infamous Cybercriminal](../../rolelist/netsec/NetsecSpecial/InfamousCybercriminal)
+        - [<span class="netsec">Majority Shareholder](../../rolelist/netsec/NetsecSpecial/MajorityShareholder)
         - [<span class="netsec">Old Friend](../../rolelist/netsec/NetsecSpecial/OldFriend)
+        - [<span class="netsec">Tech Lead](../../rolelist/netsec/NetsecSpecial/TechLead)
     - <span class="netsec">Netsec Field Operations:
         - [<span class="netsec">Enforcer](../../rolelist/netsec/NetsecFieldOps/Enforcer)
         - [<span class="netsec">CCTV Specialist](../../rolelist/netsec/NetsecFieldOps/CCTVSpecialist)
         - [<span class="netsec">Rookie Hacker](../../rolelist/netsec/NetsecFieldOps/RookieHacker)
+        - [<span class="netsec">Inside Man (Security Guard)](../../rolelist/netsec/NetsecFieldOps/InsideManSecurityGuard)
         - [<span class="netsec">Improvised Hacker](../../rolelist/netsec/NetsecFieldOps/ImprovisedHacker)
         - [<span class="netsec">Nightclub Guard](../../rolelist/netsec/NetsecFieldOps/NightclubGuard)
         - [<span class="netsec">Hardware Hacker](../../rolelist/netsec/NetsecFieldOps/HardwareHacker)
         - [<span class="netsec">Entertainer](../../rolelist/netsec/NetsecFieldOps/Entertainer)
         - [<span class="netsec">Getaway Driver](../../rolelist/netsec/NetsecFieldOps/GetawayDriver)
         - [<span class="netsec">Arms Dealer](../../rolelist/netsec/NetsecFieldOps/ArmsDealer)
+        - [<span class="netsec">Dungeon Master](../../rolelist/netsec/NetsecFieldOps/DungeonMaster)
     - <span class="netsec">Netsec Investigative:
         - [<span class="netsec">Analyst](../../rolelist/netsec/NetsecInvest/Analyst)
         - [<span class="netsec">Social Engineer](../../rolelist/netsec/NetsecInvest/SocialEngineer)
@@ -55,6 +59,7 @@
         - [<span class="netsec">Hacking Advocate](../../rolelist/netsec/NetsecSocial/HackingAdvocate)
         - [<span class="netsec">Technical Recruiter](../../rolelist/netsec/NetsecSocial/TechnicalRecruiter)
         - [<span class="netsec">Silenced Investigator](../../rolelist/netsec/NetsecSocial/SilencedInvestigator)
+        - [<span class="netsec">Radio Operator](../../rolelist/netsec/NetsecSocial/RadioOperator)
         - [<span class="netsec">Rookie Assassin](../../rolelist/netsec/NetsecSocial/RookieAssassin)
         - [<span class="netsec">Social Media Manager](../../rolelist/netsec/NetsecSocial/SocialMediaManager)
         - [<span class="netsec">NFT Scammer](../../rolelist/netsec/NetsecSocial/NFTScammer)
@@ -83,7 +88,6 @@
         - [Shamed Journalist](../../rolelist/neutral/NeutralInvest/ShamedJournalist)
         - [Amateur Investigator](../../rolelist/neutral/NeutralInvest/AmateurInvestigator)
         - [Private Investigator](../../rolelist/neutral/NeutralInvest/PrivateInvestigator)
-        - [Repressed Refugee](../../rolelist/neutral/NeutralInvest/RepressedRefugee)
         - [Vengeful Assassin](../../rolelist/neutral/NeutralInvest/VengefulAssassin)
     - Neutral Offensive:
         - [Script Kiddie](../../rolelist/neutral/NeutralOffensive/ScriptKiddie)
@@ -170,9 +174,11 @@
     - <span class="agent">Mole Agent Utility:
         - [<span class="agent">Agent Company Man](../../rolelist/agent/MoleAgentUtility/AgentCompanyMan)
         - [<span class="agent">Agent Database Manager](../../rolelist/agent/MoleAgentUtility/AgentDatabaseManager)
+        - [<span class="agent">Agent Propagandist](../../rolelist/agent/MoleAgentUtility/AgentPropagandist)
     - <span class="agent">Mole Agent Social:
         - [<span class="agent">Agent Amateur Investigator](../../rolelist/agent/MoleAgentSocial/AgentAmateurInvestigator)
         - [<span class="agent">Agent Technical Recruiter](../../rolelist/agent/MoleAgentSocial/AgentTechnicalRecruiter)
+        - [<span class="agent">Agent Repressed Refugee](../../rolelist/agent/MoleAgentSocial/AgentRepressedRefugee)
 - <span class="w3c">W3C:
     - [<span class="w3c">W3C](../../rolelist/w3c/w3c)
     - <span class="w3c">W3C Special:
@@ -203,12 +209,14 @@
         - [<span class="paragon">Paragon Leader](../../rolelist/paragon/ParagonSpecial/ParagonLeader)
     - <span class="paragon">Paragon Field Operations:
         - [<span class="paragon">Paragon Ex-Mercenary](../../rolelist/paragon/ParagonFieldOps/ParagonExMercenary)
+        - [<span class="paragon">Paragon Influencer](../../rolelist/paragon/ParagonFieldOps/ParagonInfluencer)
     - <span class="paragon">Paragon Investigative:
         - [<span class="paragon">Paragon Journalist](../../rolelist/paragon/ParagonInvest/ParagonJournalist)
         - [<span class="paragon">Paragon Informant](../../rolelist/paragon/ParagonInvest/ParagonInformant)
         - [<span class="paragon">Paragon Search Engine Optimizer](../../rolelist/paragon/ParagonInvest/ParagonSearchEngineOptimizer)
     - <span class="paragon">Paragon Offensive:
         - [<span class="paragon">Paragon Prodigy](../../rolelist/paragon/ParagonOffensive/ParagonProdigy)
+        - [<span class="paragon">Paragon Cryptographer](../../rolelist/paragon/ParagonOffensive/ParagonCryptographer)
     - <span class="paragon">Paragon Utility:
         - [<span class="paragon">Paragon Security Specialist](../../rolelist/paragon/ParagonUtility/ParagonSecuritySpecialist)
         - [<span class="paragon">Paragon Scout](../../rolelist/paragon/ParagonUtility/ParagonScout)
