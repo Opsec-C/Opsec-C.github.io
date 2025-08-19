@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “Time to command W3C to victory in this Opsec, W3C Leader.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

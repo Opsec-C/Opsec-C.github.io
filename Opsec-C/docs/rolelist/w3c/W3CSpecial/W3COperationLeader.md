@@ -6,7 +6,7 @@ This role is unique (one Operation Leader should spawn).
 
 “Time to lead W3C along with the Opsec, W3C Operation Leader.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

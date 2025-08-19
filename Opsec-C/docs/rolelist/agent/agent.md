@@ -4,7 +4,7 @@ The Good Guys
 
 “We need to shut this hacking operation down.”
 
-Win condition: Eliminate ALL hostile units (Netsec, W3C, and Neutral Killing). Opsec R requires the hack to not be complete in time.
+Win condition: Prevent the hack from completing on time.
 
 Agents have more ways to directly arrest and kill than other factions. Agents have access to the topology and a unique chat (ASC).
 

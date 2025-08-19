@@ -4,7 +4,7 @@
 
 “You were assigned to disrupt Netsec in their operation, and that’s what you are going to do, W3C Disruptor.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

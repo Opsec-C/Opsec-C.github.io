@@ -4,7 +4,7 @@
 
 “In order to escape prison, you took a plea deal as a Hardware Expert. Agents could use your Internet of Things knowledge, Agent Hardware Hacker.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, W3C, and Neutral Killing). Opsec R requires the hack to not be complete in time.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “You know how to deceive, trick, and cheat past your rivals, Master Manipulator.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, W3C, and Neutral Killing). Opsec R requires the hack to not be complete in time.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

@@ -4,7 +4,7 @@
 
 “Causing chaos and confusing Netsec, that is why you were brought here, W3C Forger.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

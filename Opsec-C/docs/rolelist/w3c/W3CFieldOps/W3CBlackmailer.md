@@ -4,7 +4,7 @@
 
 “You used to be a freelancer, until W3C truly saw what you were worth, W3C Blackmailer.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

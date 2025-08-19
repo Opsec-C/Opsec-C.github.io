@@ -6,7 +6,7 @@ This role is unique (one Operation Leader should spawn).
 
 “Paragon needs you before you are retired and gone, Paragon Operation Leader.”
 
-Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. Opsec R requires the current W3C and agent operative to die once.
+Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
 
 ### **Day:**
 

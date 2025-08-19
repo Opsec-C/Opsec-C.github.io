@@ -4,7 +4,7 @@
 
 “Graph Theory is a specialty and study that many want, including W3C, W3C Graph Theorist.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

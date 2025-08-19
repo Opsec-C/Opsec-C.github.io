@@ -4,7 +4,7 @@
 
 “A hired assassin is always useful for W3C’s sadistic needs, W3C Assassin.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

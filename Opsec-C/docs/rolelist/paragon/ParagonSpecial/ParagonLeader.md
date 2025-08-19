@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “Time to command Paragon to victory in this Opsec, Paragon Leader.”
 
-Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. Opsec R requires the current W3C and agent operative to die once.
+Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
 
 ### **Day:**
 

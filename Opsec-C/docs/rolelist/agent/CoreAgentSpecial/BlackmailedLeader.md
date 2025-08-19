@@ -6,7 +6,7 @@ This role is unique (one Operation Leader should spawn).
 
 “Agents caught up to you before the Opsec even started, Blackmailed Leader.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, W3C, and Neutral Killing). Opsec R requires the hack to not be complete in time.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

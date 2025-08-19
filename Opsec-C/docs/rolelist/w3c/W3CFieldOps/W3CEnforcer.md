@@ -4,7 +4,7 @@
 
 “You were assigned to protect your allies, and you know who they are, W3C Enforcer.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

@@ -6,7 +6,7 @@ This role is ONLY through a Criminal Psychologist, not a role that exists withou
 
 “A famous Criminal Psychologist convinced you to help them, Specialist.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, W3C, and Neutral Killing). Opsec R requires the hack to not be complete in time.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

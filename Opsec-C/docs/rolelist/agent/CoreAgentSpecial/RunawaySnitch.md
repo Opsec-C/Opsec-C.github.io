@@ -6,7 +6,7 @@ This role is ONLY if there are no more Core roles left and there are moles left,
 
 “You are panicking and not thinking straight, Netsec is out to get you and other agents believe you were behind it all, get out alive, Runaway Snitch.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, W3C, and Neutral Killing). Opsec R requires the hack to not be complete in time.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

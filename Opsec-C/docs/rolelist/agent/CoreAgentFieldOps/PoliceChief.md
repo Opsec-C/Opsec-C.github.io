@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 “Lead this team to victory, Police Chief.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, W3C, and Neutral Killing). Opsec R requires the hack to not be complete in time.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

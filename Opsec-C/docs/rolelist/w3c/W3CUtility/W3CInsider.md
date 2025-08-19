@@ -4,7 +4,7 @@
 
 “You’ve tricked the client into letting you inside, but how much of that will you use for W3C, W3C Insider.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

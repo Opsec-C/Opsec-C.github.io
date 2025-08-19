@@ -4,7 +4,7 @@
 
 “W3C is relying on you to figure out the opposition, W3C Stalker.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

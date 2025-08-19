@@ -4,7 +4,7 @@
 
 “Back to your job of wetwork, Paragon Assassin.”
 
-Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. Opsec R requires the current W3C and agent operative to die once.
+Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
 
 ### **Day:**
 

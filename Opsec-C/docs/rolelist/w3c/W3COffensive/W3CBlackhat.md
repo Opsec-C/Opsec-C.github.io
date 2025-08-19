@@ -4,7 +4,7 @@
 
 “You were the one that got into the client in the first place, but now it is your duty to defend it, W3C Blackhat.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, Agent, and Neutral Killing). Opsec R requires you to acquire and hold root for N day/night cycles.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 

@@ -4,7 +4,7 @@
 
 “In order to escape prison, you took a plea deal as a CCTV Specialist. Agents could use your camera work, Agent CCTV Specialist.”
 
-Win Condition: Eliminate ALL hostile units (Netsec, W3C, and Neutral Killing). Opsec R requires the hack to not be complete in time.
+Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 
