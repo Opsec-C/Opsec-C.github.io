@@ -4,7 +4,7 @@
 
 “You know how to check for discrepancies in our hacking workforce, Technical Project Manager.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). Opsec R needs to hack the target node.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 

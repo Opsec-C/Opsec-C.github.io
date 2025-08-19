@@ -4,7 +4,7 @@
 
 “You know how to get extra clicks or break any website, Search Engine Optimizer.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). Opsec R needs to hack the target node.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 

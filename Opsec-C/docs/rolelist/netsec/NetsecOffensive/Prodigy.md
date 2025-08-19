@@ -4,7 +4,7 @@
 
 “You are a natural, at least all the teachers said that. But you didn’t have fun until you used that talent to break the rules, Prodigy.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). Opsec R needs to hack the target node.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 

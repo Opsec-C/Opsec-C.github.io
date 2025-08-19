@@ -4,7 +4,7 @@
 
 “Your ability to crack passwords and convince people to give you information has gotten you a position in Netsec, Spearphisher.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). Opsec R needs to hack the target node.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 

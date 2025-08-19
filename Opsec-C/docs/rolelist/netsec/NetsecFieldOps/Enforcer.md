@@ -4,7 +4,7 @@
 
 “You don’t mind being arrested again as long as you can keep your friends safe, Enforcer.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). Opsec R needs to hack the target node.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 

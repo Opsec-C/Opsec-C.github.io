@@ -4,7 +4,7 @@
 
 “You’ve had some inside intel into the company Netsec is to hack, but agents are blackmailing you, Silenced Investigator.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). Opsec R needs to hack the target node.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 

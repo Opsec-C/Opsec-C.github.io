@@ -4,7 +4,7 @@
 
 “You have studied for many years to prove yourself as one of the greatest academic minds in graph models, Graph Theorist.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). Opsec R needs to hack the target node.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 

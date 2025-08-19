@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “Once upon a time, the Operation Leader bailed you out and saved your life, now it’s your chance to repay the favor, Old Friend.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). Opsec R needs to hack the target node.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 

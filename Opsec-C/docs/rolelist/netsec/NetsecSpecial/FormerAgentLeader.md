@@ -6,7 +6,7 @@ This role is unique (one Operation Leader should spawn).
 
 “That fucking bastard stole your job! You’ve risen up the ranks of Netsec for one purpose, revenge, here’s your chance Former Agent Leader.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing). Opsec R needs to hack the target node.
+Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
 
 ### **Day:**
 
