@@ -18,7 +18,7 @@ Give Root Access (1 charge) - Select an operative to give root to. They become a
 
 Murder with Goons - Select an operative and murder them. Cannot be occupied. Occupies the target.
 
-Fake Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to fake escort, does not occupy them and doesn’t actually do anything except leaving escort feedback.
+Fake Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to fake escort, does not occupy them and doesn’t actually do anything except leaving escort feedback. Do not visit them.
 
 ### **Passives:**
 

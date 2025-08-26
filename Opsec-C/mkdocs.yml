@@ -164,6 +164,7 @@ nav:
           - Police Chief: rolelist/agent/CoreAgentFieldOps/PoliceChief.md
           - K-9 Unit: rolelist/agent/CoreAgentFieldOps/K9Unit.md
           - Police Car Driver: rolelist/agent/CoreAgentFieldOps/PoliceCarDriver.md
+          - Independent Contractor: rolelist/agent/CoreAgentFieldOps/IndependentContractor.md
         - Core Agent Investigative:
           - Forensic Specialist: rolelist/agent/CoreAgentInvest/ForensicSpecialist.md
           - Cybercrime Investigator: rolelist/agent/CoreAgentInvest/CybercrimeInvestigator.md

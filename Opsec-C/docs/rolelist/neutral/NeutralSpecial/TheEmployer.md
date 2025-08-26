@@ -24,7 +24,7 @@ Give Root Access (0 charge) - Select an operative to give root to. They become a
 
 Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
 
-Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to escort, does not occupy them and makes them immune to everything unless otherwise stated.
+Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to escort, does not occupy them and makes them immune to everything unless otherwise stated. Do not visit them.
 
 Special Orders (1 charge) - Select an operative and murder them. Occupies but does NOT visit the target.
 

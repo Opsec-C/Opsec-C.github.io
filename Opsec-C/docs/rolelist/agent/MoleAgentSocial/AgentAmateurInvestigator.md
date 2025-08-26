@@ -20,4 +20,4 @@ Investigation (N1 -> N3 cooldown) - Select a target operative. Learn between thr
 
 ### **Passives:**
 
-Not a Previous Netsec - You are doxxed as neutral.
+Not Agent - Your true faction is Neutral.

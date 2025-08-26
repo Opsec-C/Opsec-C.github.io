@@ -1,7 +1,7 @@
 
 - Any faction can have wiretap, alter logs, ISP, rollback, wipe, encrypt logs, frame, arrest, murder, 0-day, and more. No matter how “against” or “for” Netsec an ability is, the ability can be in any role. Be creative!
 - You can use disorganized murder, desperate measures, and any time gated ability from the first day.
-- Plea deal does NOT exist mechanically from Agents. You start from your faction (or are converted through your own choices).
+- Plea deal does NOT exist mechanically from Agents. Moles can spawn from day 1.
 - Almost every role has the ability to unskilled attack and/or hack, including field ops roles.
 - Cameras on any role do NOT get seen by other roles with cameras.
 - Escort and Fake Escort can only select the same target every other day.
@@ -25,9 +25,9 @@
 - There are abilities to manually upload intel for others to download.
 - Agents can be arrested when framed. Yep.
 - Only Journalist will know who tried to arrest them.
-- Root does not instantly lose or win the game.
-- The Operation Leader may not be Netsec aligned.
-- The Agent Leader is now an offensive subclass role.
+- Root does not instantly lose or win the game. Moles or non-leader subfaction roles may choose to become the Operation Leader or stay the same role with broadcast. Core Agents who get root will simply get the ability to broadcast.
+- The Operation Leader may not be Netsec aligned. The Operation Leader slot may not spawn.
+- The Agent Leader is now an offensive subclass role. The Agent Leader slot may not spawn.
 - There are many other changes, but these are the critical ones.
 
 <br>

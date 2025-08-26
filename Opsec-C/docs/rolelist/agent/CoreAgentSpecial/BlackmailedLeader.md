@@ -20,7 +20,7 @@ Give Root Access (1 charge) - Select an operative to give root to. They become a
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 
-Fake Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to fake escort, does not occupy them and doesn’t actually do anything except leaving escort text.
+Fake Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to fake escort, does not occupy them and doesn’t actually do anything except leaving escort text. Do not visit them.
 
 Assault and Battery - Select an operative and attempt to murder them. Visit the target.
 

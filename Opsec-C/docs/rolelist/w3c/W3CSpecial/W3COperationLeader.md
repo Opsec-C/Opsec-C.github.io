@@ -36,7 +36,7 @@ Denial of Service (2 charges) - Select a green or white node and block all conne
 
 Murder with Goons (N1 -> N3 cooldown) - Select an operative and murder them. Do not occupy them. Visit them.
 
-Fake Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to fake escort, does not occupy them and doesn’t actually do anything except leaving escort feedback.
+Fake Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to fake escort, does not occupy them and doesn’t actually do anything except leaving escort feedback. Do not visit them.
 
 Cultist Sacrifice - Select a W3C operative and murder him.
 

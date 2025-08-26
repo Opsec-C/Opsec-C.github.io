@@ -22,7 +22,7 @@ Repair Vehicle (1 charge) - Regain the Hit the Nitrous passive.
 
 Arrest - Select a target operative and arrest them. Visit them.
 
-Patrol Route (0 charges) - Attempt to arrest all operatives who visit any operative in the Patrol Route. Does not arrest the target operatives themselves. Gain a charge of Patrol Route. Does not visit anyone.
+Patrol Route (0 charges) - Attempt to arrest all operatives who visit any operative in the Patrol Route. Does not arrest the target operatives themselves. Gain a charge of Patrol Route. Do not visit anyone.
 
 Switch Gears (N1 -> N3 cooldown) - Select two operatives, all abilities that were used on the first player will be used on the second player, and vice versa. Visits the first operative.
 

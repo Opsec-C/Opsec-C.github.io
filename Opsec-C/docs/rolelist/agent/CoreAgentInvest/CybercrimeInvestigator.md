@@ -10,7 +10,7 @@ Win Condition: Prevent the hack from completing on time.
 
 ### **Day:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
 Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
 
@@ -36,4 +36,4 @@ Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any a
 
 Agent on the Field - You are a Field Agent role.
 
-Calculated Disguise - If you do not take an action at night, you are doxxed neutral.
+Calculated Disguise - If you do not take an action at night, your true faction is neutral.

@@ -20,7 +20,7 @@ Give Root Access (1 charge) - Select an operative to give root to. They become a
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 
-Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to escort, does not occupy them and makes them immune to everything unless otherwise stated.
+Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to escort, does not occupy them and makes them immune to everything unless otherwise stated. Do not visit them.
 
 ### **Passives:**
 

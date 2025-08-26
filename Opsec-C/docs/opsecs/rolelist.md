@@ -132,6 +132,7 @@
         - [<span class="agent">Police Chief](../../rolelist/agent/CoreAgentFieldOps/PoliceChief)
         - [<span class="agent">K-9 Unit](../../rolelist/agent/CoreAgentFieldOps/K9Unit)
         - [<span class="agent">Police Car Driver](../../rolelist/agent/CoreAgentFieldOps/PoliceCarDriver)
+        - [<span class="agent">Independent Contractor](../../rolelist/agent/CoreAgentFieldOps/IndependentContractor)
     - <span class="agent">Core Agent Investigative:
         - [<span class="agent">Forensic Specialist](../../rolelist/agent/CoreAgentInvest/ForensicSpecialist)
         - [<span class="agent">Cybercrime Investigator](../../rolelist/agent/CoreAgentInvest/CybercrimeInvestigator)
