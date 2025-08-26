@@ -2,7 +2,7 @@
 
 ### **Netsec Special**
 
-This role is unique (one Operation Leader should spawn).
+This role is unique, at most one Operation Leader should spawn.
 
 “They worship you for your hacking ability, Hack God.”
 
@@ -28,6 +28,6 @@ Ghost in the System - You can choose whether or not to leave connection logs upo
 
 Covert Broadcast - You should be given access to talk to all players in a specialized channel (global Opsec info).
 
-Operation Leader - You are one of the leading roles and should spawn every operation.
+Operation Leader - You are one of the leading roles and may spawn every operation.
 
 Worship Me - Upon arrest or murder (not from vote), every operative gets a hacking chance increase by one stage.

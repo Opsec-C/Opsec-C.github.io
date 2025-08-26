@@ -12,7 +12,7 @@ Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
 Bait Law Enforcement (D1 -> D3 cooldown) - Select a target operative, inform agents that the target is one working for Netsec. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
-Internet of Things Breach - Select a white node, increasing hacking chances of getting this node. This does not leave a log.
+Internet of Things Breach - Select a target operative and increase their hack chance this phase.
 
 ### **Night:**
 

@@ -2,6 +2,8 @@
 
 ### **Core Agent Investigative**
 
+This role is supposed to be unique, depending on the ruleset.
+
 “No criminal will remain undetected from your flying machine, Helicopter Operator.”
 
 Win Condition: Prevent the hack from completing on time.

@@ -16,9 +16,9 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Execute Raid - All operatives who have been raided will be arrested. Do not visit them.
 
-Timed Planned Raid - Select a target operative and escort them. They will be targeted for a raid unless they move hideout or are escorted again. Visit and occupy them. Must select a different target the next night.
+Timed Planned Raid - Select a target operative and escort them. They will be targeted for a raid. Visit and occupy them. Must select a different target the next night.
 
-Hidden Officers - Select a target operative and watch them, planting a beacon. They will be targeted for a raid unless they move hideout or are escorted. Visit them.
+Hidden Officers - Select a target operative and watch them, planting a beacon. They will be targeted for a raid. Visit them.
 
 Camouflage Net (N1 -> N3 cooldown) - Select an agent operative. They will not be seen visiting anywhere tonight. Visit them.
 

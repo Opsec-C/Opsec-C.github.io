@@ -2,6 +2,8 @@
 
 ### **Core Agent Investigative**
 
+This role is supposed to be unique, depending on the ruleset; one Agent on the Field must spawn.
+
 “You know how to find any drug or contraband, Narcotics Officer.”
 
 Win Condition: Prevent the hack from completing on time.

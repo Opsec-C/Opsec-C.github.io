@@ -2,6 +2,8 @@
 
 ### **Core Agent Special**
 
+This role is supposed to be unique, depending on the ruleset; one Agent on the Field must spawn.
+
 “You founded this organization to get these pathetic pissants yourself, Founder of Agent.”
 
 Win Condition: Prevent the hack from completing on time.
@@ -78,7 +80,7 @@ Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 2.
 
 True Sight - All investigative abilities go through all frames and covers.
 
-One Man Operation - You have been assigned with full access to all of Agent/W3C/Paragon resources. You are the only operative on your team, but you can do 2 actions per phase.
+One Man Operation - You have been assigned with full access to all of Agent/W3C/Paragon resources. You are the only operative on your team, but you can do 2 actions per phase. Your first action will be followed/investigated.
 
 Computer Forensics Background - Pick one of the three abilities between Denial of Service, Harden Node, and Algorithmic Connections.
 

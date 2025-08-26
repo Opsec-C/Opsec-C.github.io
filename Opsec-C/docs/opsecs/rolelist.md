@@ -129,7 +129,6 @@
     - <span class="agent">Core Agent Field Operations:
         - [<span class="agent">Field Agent](../../rolelist/agent/CoreAgentFieldOps/FieldAgent)
         - [<span class="agent">Determined Deputy](../../rolelist/agent/CoreAgentFieldOps/DeterminedDeputy)
-        - [<span class="agent">Drone Operator](../../rolelist/agent/CoreAgentFieldOps/DroneOperator)
         - [<span class="agent">Police Chief](../../rolelist/agent/CoreAgentFieldOps/PoliceChief)
         - [<span class="agent">K-9 Unit](../../rolelist/agent/CoreAgentFieldOps/K9Unit)
         - [<span class="agent">Police Car Driver](../../rolelist/agent/CoreAgentFieldOps/PoliceCarDriver)
@@ -142,6 +141,7 @@
     - <span class="agent">Core Agent Offensive:
         - [<span class="agent">Agent Leader](../../rolelist/agent/CoreAgentOffensive/AgentLeader)
         - [<span class="agent">Cipher Lord](../../rolelist/agent/CoreAgentOffensive/CipherLord)
+        - [<span class="agent">Drone Operator](../../rolelist/agent/CoreAgentOffensive/DroneOperator)
         - [<span class="agent">Robocop](../../rolelist/agent/CoreAgentOffensive/Robocop)
         - [<span class="agent">Expert Whitehat](../../rolelist/agent/CoreAgentOffensive/ExpertWhitehat)
     - <span class="agent">Core Agent Utility:

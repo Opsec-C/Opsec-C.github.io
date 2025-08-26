@@ -2,7 +2,7 @@
 
 ### **Netsec Special**
 
-This role is unique (one Operation Leader should spawn).
+This role is unique, at most one Operation Leader should spawn.
 
 “Bailed out by Netsec, you’ll stop at nothing to see AGENT dead, Infamous Cybercriminal.”
 
@@ -30,4 +30,4 @@ Authority - You have two votes.
 
 Covert Broadcast - You should be given access to talk to all players in a specialized channel (global Opsec info).
 
-Operation Leader - You are one of the leading roles and should spawn every operation.
+Operation Leader - You are one of the leading roles and may spawn every operation.

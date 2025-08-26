@@ -173,6 +173,7 @@ nav:
         - Core Agent Offensive:
           - Agent Leader: rolelist/agent/CoreAgentOffensive/AgentLeader.md
           - Cipher Lord: rolelist/agent/CoreAgentOffensive/CipherLord.md
+          - Drone Operator: rolelist/agent/CoreAgentOffensive/DroneOperator.md
           - Robocop: rolelist/agent/CoreAgentOffensive/Robocop.md
           - Expert Whitehat: rolelist/agent/CoreAgentOffensive/ExpertWhitehat.md
         - Core Agent Utility:

@@ -2,7 +2,7 @@
 
 ### **Core Agent Special**
 
-This role is unique (one Operation Leader should spawn).
+This role is unique, at most one Operation Leader should spawn; one Agent on the Field must spawn.
 
 “Agents caught up to you before the Opsec even started, Blackmailed Leader.”
 
@@ -22,12 +22,14 @@ Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are 
 
 Fake Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to fake escort, does not occupy them and doesn’t actually do anything except leaving escort text.
 
-Disorganized Murder - Select an operative and attempt to murder them. Visit the target.
+Assault and Battery - Select an operative and attempt to murder them. Visit the target.
 
 ### **Passives:**
+
+Agent on the Field - You are a Field Agent role.
 
 Authority - You have two votes.
 
 Covert Broadcast - You should be given access to talk to all players in a specialized channel (global Opsec info).
 
-Operation Leader - You are one of the leading roles and should spawn every operation.
+Operation Leader - You are one of the leading roles and may spawn every operation.

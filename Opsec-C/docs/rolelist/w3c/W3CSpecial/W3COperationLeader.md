@@ -2,7 +2,7 @@
 
 ### **W3C Special**
 
-This role is unique (one Operation Leader should spawn).
+This role is unique, at most one Operation Leader should spawn.
 
 “Time to lead W3C along with the Opsec, W3C Operation Leader.”
 
@@ -66,7 +66,7 @@ Unstable Mind - Whoever arrests you gets an extra STING charge. Doesn’t have t
 
 Rent Free - Avoid the first arrest attempt and murder attempt on you.
 
-Operation Leader - You are one of the leading roles and should spawn every operation.
+Operation Leader - You are one of the leading roles and may spawn every operation.
 
 Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
 

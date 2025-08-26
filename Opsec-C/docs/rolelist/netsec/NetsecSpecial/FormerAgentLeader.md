@@ -2,7 +2,7 @@
 
 ### **Netsec Special**
 
-This role is unique (one Operation Leader should spawn).
+This role is unique, at most one Operation Leader should spawn.
 
 “That fucking bastard stole your job! You’ve risen up the ranks of Netsec for one purpose, revenge, here’s your chance Former Agent Leader.”
 
@@ -28,7 +28,7 @@ Authority - You have two votes.
 
 Covert Broadcast - You should be given access to talk to all players in a specialized channel (global Opsec info).
 
-Operation Leader - You are one of the leading roles and should spawn every operation.
+Operation Leader - You are one of the leading roles and may spawn every operation.
 
 Topology Access - You can access the full topology and connection logs as if you were an agent.
 

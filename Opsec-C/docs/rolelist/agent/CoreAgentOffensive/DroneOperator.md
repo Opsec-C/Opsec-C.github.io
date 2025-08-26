@@ -12,7 +12,9 @@ Win Condition: Prevent the hack from completing on time.
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
-Internet of Things Breach - Select a white node, increasing hacking chances of getting this node. This does not leave a log.
+Internet of Things Breach - Select a target operative and increase their hack chance this phase.
+
+Sabotage Internet of Things - Select a target operative and lower their hack chance this phase.
 
 Charge Batteries - Remove the cooldown on Drone Reconnaissance or Drone Mark for the next night.
 
@@ -30,4 +32,4 @@ Drone Bomb (1 charge) - Select two target operatives. Send your two drones out a
 
 Agent on the Field - You are a Field Agent role.
 
-Do the Crime, Do the Time - If you kill someone, you get arrested the next night. Can be dodged by escorting or protecting the operative.
+Do the Crime, Do the Time - If you kill someone, you get arrested the next night. Gain 1 charge of Fabricate Evidence on killing someone. Can be dodged by escorting or protecting the operative.

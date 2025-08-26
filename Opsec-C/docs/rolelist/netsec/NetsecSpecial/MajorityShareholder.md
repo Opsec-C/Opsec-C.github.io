@@ -2,7 +2,7 @@
 
 ### **Netsec Special**
 
-This role is unique (one Operation Leader should spawn).
+This role is unique, at most one Operation Leader should spawn.
 
 “You were paid in huge shares on the stock market for this operation to go well, Majority Shareholder.”
 
@@ -40,6 +40,6 @@ Authority - You have two votes.
 
 Covert Broadcast - You should be given access to talk to all players in a specialized channel (global Opsec info).
 
-Operation Leader - You are one of the leading roles and should spawn every operation.
+Operation Leader - You are one of the leading roles and may spawn every operation.
 
 Shared Vested Stock - The charges of Shark Tank, Override Assassin, and On My Payroll are only usable once in day or night.

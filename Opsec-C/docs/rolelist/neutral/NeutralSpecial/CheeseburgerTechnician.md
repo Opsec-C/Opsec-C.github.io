@@ -2,7 +2,7 @@
 
 ### **Neutral Special**
 
-This role is unique (one Operation Leader should spawn).
+This role is unique, at most one Operation Leader should spawn.
 
 “It’s time to go ham-burger, Cheeseburger Technician.”
 
@@ -32,6 +32,6 @@ Authority - You have two votes.
 
 Covert Broadcast - You should be given access to talk to all players in a specialized channel (global Opsec info).
 
-Operation Leader - You are one of the leading roles and should spawn every operation.
+Operation Leader - You are one of the leading roles and may spawn every operation.
 
 No Dirt On Me - You are unarrestable unless framed. You do not know who attempted to arrest you.
