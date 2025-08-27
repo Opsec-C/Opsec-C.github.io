@@ -28,4 +28,4 @@ Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are 
 
 Unsecured Device - If you are arrested, the agents get some intel, similar to Download Intel, getting class intel, target node, or faction intel. Do not go through frames or cover.
 
-Finding Fame Elsewhere - If you fail to hack 3 consecutive nodes, turn into a Sociopath permanently, even if Sociopath has spawned.
+Finding Fame Elsewhere - If you fail to hack 3 consecutive nodes, turn into a Network Shutdowner permanently.

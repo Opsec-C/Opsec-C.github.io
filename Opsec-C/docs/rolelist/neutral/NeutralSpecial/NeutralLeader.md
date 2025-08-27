@@ -12,6 +12,8 @@ Win Condition: Survive.
 
 Hack Target (High) - Select a white node and attempt to hack it. Leaves a log.
 
+Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
+
 0-Day Exploit (1 charge) - Select a white node and instantly hack it. Leaves a log.
 
 Give Root Access (1 charge) - Select an operative to give root to. They become any of Operation Leader, Blackmailed Leader, Sociopath Leader, W3C Operation Leader, Paragon Operation Leader, or are simply an agent, neutral, Paragon Leader, or W3C Leader with access to the special channel. A Neutral Leader can only spawn in.

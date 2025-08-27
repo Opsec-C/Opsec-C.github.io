@@ -12,7 +12,7 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Get Dirt - Select a target operative. You will get one of two class types that they can be. Do not go through frames or cover.
 
-Bait Law Enforcement (D1 -> D3 cooldown) - Select a target operative, inform agents that the target is one working for Netsec. (Leaves the same message as Bounty Hunter’s Spill the Beans).
+Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
 ### **Night:**
 

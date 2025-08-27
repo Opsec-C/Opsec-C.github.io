@@ -8,7 +8,7 @@ Win Condition: Get 2 bounties. Arresting or spilling the beans on a Netsec or fr
 
 ### **Day:**
 
-Spill the Beans - Select a target operative, inform agents that the target is one working for Netsec. If the target is arrested, gain a bounty.
+Spill the Beans - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. If the target is arrested, gain a bounty.
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -17,8 +17,6 @@ Plant Fake Info - Decreases hacking chances on a random node.
 Review TCP Packets (N1 -> N4 cooldown, 2 charges) - Select a target operative and check if they used a hack today.
 
 ### **Night:**
-
-Spill the Beans - Select a target operative, inform agents that the target is one working for Netsec. If the target is arrested, gain a bounty.
 
 Citizen’s Arrest (N1 -> N3 cooldown, 3 charges) - Select a target operative and arrest them. Visit them. If the target is arrested, gain a bounty.
 

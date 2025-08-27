@@ -14,7 +14,7 @@ Impersonate (1 charge) - Permanently rename your operative to whatever name you 
 
 Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
-Bait Law Enforcement (D1 -> D3 cooldown) - Select a target operative, inform agents that the target is one working for Netsec. (Leaves the same message as Bounty Hunter’s Spill the Beans).
+Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
 Blackmail (3 charges) - Select a target operative. They cannot vote for two phases.
 

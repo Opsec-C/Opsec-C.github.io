@@ -12,7 +12,9 @@ Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and 
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Bait Law Enforcement (D1 -> D3 cooldown) - Select a target operative, inform agents that the target is one working for Netsec. (Leaves the same message as Bounty Hunter’s Spill the Beans).
+Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
+
+Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
 
 ### **Night:**
 

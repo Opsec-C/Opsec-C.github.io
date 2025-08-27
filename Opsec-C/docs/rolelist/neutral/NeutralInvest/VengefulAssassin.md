@@ -14,7 +14,7 @@ Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
 Rerouted Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
 
-Bait Law Enforcement (D1 -> D3 cooldown) - Select a target operative, inform agents that the target is one working for Netsec. (Leaves the same message as Bounty Hunter’s Spill the Beans).
+Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
 Vengeance (3 charges) - Select a target operative and guess their role. If you guess right, shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
 

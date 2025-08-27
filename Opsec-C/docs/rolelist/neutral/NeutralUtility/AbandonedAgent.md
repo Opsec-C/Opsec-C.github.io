@@ -14,7 +14,7 @@ Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a D
 
 Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
-Bait Law Enforcement (D1 -> D3 cooldown) - Select a target operative, inform agents that the target is one working for Netsec. (Leaves the same message as Bounty Hunter’s Spill the Beans).
+Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
 ### **Night:**
 

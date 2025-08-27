@@ -10,7 +10,7 @@ Win Condition: Protect 3 Netsec targets, or protect a target from arrest or murd
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Bait Law Enforcement (D1 -> D3 cooldown) - Select a target operative, inform agents that the target is one working for Netsec. (Leaves the same message as Bounty Hunter’s Spill the Beans).
+Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
 Join the Force (1 charge) - Become an enforcer.
 

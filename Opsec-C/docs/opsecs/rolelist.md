@@ -96,6 +96,7 @@
         - [Hacknet Hacker](../../rolelist/neutral/NeutralOffensive/HacknetHacker)
         - [Connection Specialist](../../rolelist/neutral/NeutralOffensive/ConnectionSpecialist)
         - [Discord Manager](../../rolelist/neutral/NeutralOffensive/DiscordManager)
+        - [Network Shutdowner](../../rolelist/neutral/NeutralOffensive/NetworkShutdowner)
     - Neutral Utility:
         - [W.P.P. Member](../../rolelist/neutral/NeutralUtility/WPPMember)
         - [Insane Drug Dealer](../../rolelist/neutral/NeutralUtility/InsaneDrugDealer)
