@@ -1,4 +1,4 @@
-![networkshutdowner.png](Images/networkshutdowner.png){ width="250" }
+![networkshutdowner.png](Images/networkshutdowner.png){ width="350" }
 
 ### **Neutral Offensive**
 

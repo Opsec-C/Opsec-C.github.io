@@ -1,4 +1,4 @@
-![independentcontractor.png](Images/independentcontractor.png){ width="350" }
+![independentcontractor.png](Images/independentcontractor.png){ width="250" }
 
 ### **Core Agent Field Operations**
 
