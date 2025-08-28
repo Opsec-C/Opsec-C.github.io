@@ -12,7 +12,7 @@ Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), o
 
 0-Day Exploit - Select a white node and instantly hack it. Infinite charges. Leaves a log.
 
-Give Root Access (1 charge) - Select an operative to give root to. They become any of Operation Leader, Blackmailed Leader, Sociopath Leader, W3C Operation Leader, Paragon Operation Leader, or are simply an agent, neutral, Paragon Leader, or W3C Leader with access to the special channel. A Neutral Leader can only spawn in.
+Give Root Access (1 charge) - Select an operative to give root to. Upon your death, they can choose to become an Operation Leader of their own faction or stay as their current role with broadcast.
 
 ### **Night:**
 

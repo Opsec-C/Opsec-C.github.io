@@ -18,7 +18,7 @@ Denial of Service (2 charges) - Select a green or white node and block all conne
 
 0-Day Exploit (1 charge) - Select a white node and instantly hack it. Leaves a log.
 
-Give Root Access (0 charges) - Select an operative to give root to. They become any of Operation Leader, Blackmailed Leader, Sociopath Leader, W3C Operation Leader, Paragon Operation Leader, or are simply an agent, neutral, Paragon Leader, or W3C Leader with access to the special channel. A Neutral Leader can only spawn in.
+Give Root Access (0 charges) - Select an operative to give root to. Upon your death, they can choose to become an Operation Leader of their own faction or stay as their current role with broadcast.
 
 ### **Night:**
 
@@ -32,6 +32,6 @@ Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any a
 
 ### **Passives:**
 
-Lack of Leadership - If you are rooted and the original Operation Leader dies, instead of becoming the Operation Leader, gain a charge of Give Root Access.
+Lack of Leadership - If you are rooted, the original Operation Leader dies, and you choose not to become the Operation Leader, you gain a charge of Give Root Access.
 
 The Tech Lead - Have an unfathomable ego, preventing anyone from occupying you in the evening since you refuse to listen to people.

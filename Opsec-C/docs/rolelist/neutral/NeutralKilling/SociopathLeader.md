@@ -12,7 +12,7 @@ Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and 
 
 Hack Target (High) - Select a white node and attempt to hack it. Leaves a log.
 
-Give Root Access (1 charge) - Select an operative to give root to. They become any of Operation Leader, Blackmailed Leader, Sociopath Leader, W3C Operation Leader, Paragon Operation Leader, or are simply an agent, neutral, Paragon Leader, or W3C Leader with access to the special channel. A Neutral Leader can only spawn in.
+Give Root Access (1 charge) - Select an operative to give root to. Upon your death, they can choose to become an Operation Leader of their own faction or stay as their current role with broadcast.
 
 ### **Night:**
 

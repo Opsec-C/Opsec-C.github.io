@@ -25,7 +25,7 @@
 - There are abilities to manually upload intel for others to download.
 - Agents can be arrested when framed. Yep.
 - Only Journalist will know who tried to arrest them.
-- Root does not instantly lose or win the game. Moles or non-leader subfaction roles may choose to become the Operation Leader or stay the same role with broadcast. Core Agents who get root will simply get the ability to broadcast.
+- Root does not instantly lose or win the game. All roles may choose to become the faction specific Operation Leader or stay the same role with broadcast.
 - The Operation Leader may not be Netsec aligned. The Operation Leader slot may not spawn.
 - The Agent Leader is now an offensive subclass role. The Agent Leader slot may not spawn.
 - There are many other changes, but these are the critical ones.

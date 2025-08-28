@@ -14,7 +14,7 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Majority Owner - Force someone to vote for someone of your choice.
 
-Give Root Access (1 charge) - Select an operative to give root to. They become any of Operation Leader, Blackmailed Leader, Sociopath Leader, W3C Operation Leader, Paragon Operation Leader, or are simply an agent, neutral, Paragon Leader, or W3C Leader with access to the special channel. A Neutral Leader can only spawn in.
+Give Root Access (1 charge) - Select an operative to give root to. Upon your death, they can choose to become an Operation Leader of their own faction or stay as their current role with broadcast.
 
 Shark Tank (2 charges) - Host a shark tank with many businessmen, gaining shares off of great deals investing in great companies, granting you +2 votes the next night.
 
