@@ -16,7 +16,7 @@ Majority Owner - Force someone to vote for someone of your choice.
 
 Give Root Access (1 charge) - Select an operative to give root to. Upon your death, they can choose to become an Operation Leader of their own faction or stay as their current role with broadcast.
 
-Shark Tank (2 charges) - Host a shark tank with many businessmen, gaining shares off of great deals investing in great companies, granting you +2 votes the next night.
+Shark Tank (2 charges) - Host a shark tank with many businessmen, gaining shares off of great deals investing in great companies, granting you +2 votes the next phase.
 
 On My Payroll (1 charge) - If you want to use the assassin to kill someone, use a charge to kill that operative instead of the operative getting voted. The other operative must have at least 1 vote.
 
@@ -28,7 +28,7 @@ Majority Owner - Force someone to vote for someone of your choice.
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 
-Shark Tank (2 charges) - Host a shark tank with many businessmen, gaining shares off of great deals investing in great companies, granting you +2 votes the next night.
+Shark Tank (2 charges) - Host a shark tank with many businessmen, gaining shares off of great deals investing in great companies, granting you +2 votes the next phase.
 
 On My Payroll (1 charge) - If you want to use the assassin to kill someone, use a charge to kill that operative instead of the operative getting voted. The other operative must have at least 1 vote.
 

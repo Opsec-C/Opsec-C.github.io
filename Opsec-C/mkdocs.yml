@@ -161,7 +161,6 @@ nav:
         - Core Agent Field Operations:
           - Field Agent: rolelist/agent/CoreAgentFieldOps/FieldAgent.md
           - Determined Deputy: rolelist/agent/CoreAgentFieldOps/DeterminedDeputy.md
-          - Drone Operator: rolelist/agent/CoreAgentFieldOps/DroneOperator.md
           - Police Chief: rolelist/agent/CoreAgentFieldOps/PoliceChief.md
           - K-9 Unit: rolelist/agent/CoreAgentFieldOps/K9Unit.md
           - Police Car Driver: rolelist/agent/CoreAgentFieldOps/PoliceCarDriver.md
