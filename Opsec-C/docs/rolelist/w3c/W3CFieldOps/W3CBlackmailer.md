@@ -4,7 +4,7 @@
 
 “You used to be a freelancer, until W3C truly saw what you were worth, W3C Blackmailer.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

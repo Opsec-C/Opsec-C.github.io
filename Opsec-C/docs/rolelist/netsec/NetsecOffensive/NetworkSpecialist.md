@@ -4,7 +4,7 @@
 
 “Your history in computers and networks will help greatly, Network Specialist.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

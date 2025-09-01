@@ -4,7 +4,7 @@
 
 “You can help calm Netsec’s anxiety over this difficult hack, Entertainer.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

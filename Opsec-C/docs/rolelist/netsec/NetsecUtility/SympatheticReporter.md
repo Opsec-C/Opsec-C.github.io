@@ -4,7 +4,7 @@
 
 “Netsec needs a loud voice to help give advice and lead the hack, Sympathetic Reporter.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
@@ -16,7 +16,7 @@ Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 ### **Night:**
 
-Get Scoop (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them. Find if the target is not neutral.
+Get Scoop (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not go through frames or cover. Find if the target is not neutral.
 
 Preach Netsec Superiority (N1 -> N3 cooldown) - Select a target operative, tonight they are immune to occupation. Visit them.
 

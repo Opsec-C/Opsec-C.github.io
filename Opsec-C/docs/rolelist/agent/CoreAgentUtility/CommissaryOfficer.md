@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “You trained agents up to where they are, Commissary Officer.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

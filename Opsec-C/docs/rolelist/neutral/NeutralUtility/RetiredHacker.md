@@ -20,9 +20,9 @@ Pair Programming (1 charge) - Select a target operative, their hacking chance pe
 
 Advisor (N1 -> N3 cooldown) - Select a target operative, their hacking chance temporarily increases by one stage. Visit them.
 
-False Advice (N1 -> N3 cooldown) - Select a target operative and lower their hack chance by one stage. Visit them.
+False Advice (N1 -> N3 cooldown) - Select a target operative, their hacking chance temporarily decreases by one stage. Visit them.
 
-Gift Broken Computer (2 charges) - Select a target operative. Permanently grants target operative Very Low hack chance, even if it lowers their hack chance. Visit them.
+Gift Broken Computer (2 charges) - Select a target operative. Permanently grants target operative Very Low hack chance, even if it increases their hack chance. Visit them.
 
 ### **Passives:**
 

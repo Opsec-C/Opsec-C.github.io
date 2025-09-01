@@ -4,7 +4,7 @@ The Good Guys
 
 “We need to shut this hacking operation down.”
 
-Win condition: Prevent the hack from completing on time.
+Win condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 Agents have more ways to directly arrest and kill than other factions. Agents have access to the topology and a unique chat (ASC).
 

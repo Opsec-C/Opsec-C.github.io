@@ -12,7 +12,7 @@ Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a lo
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node. Decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
 
 Jam Network (2 charges) - Select a target operative and disable all day actions related to the topology done by them.
 

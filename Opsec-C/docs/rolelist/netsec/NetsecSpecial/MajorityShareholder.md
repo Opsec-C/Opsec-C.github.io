@@ -6,7 +6,7 @@ This role is unique, at most one Operation Leader should spawn.
 
 “You were paid in huge shares on the stock market for this operation to go well, Majority Shareholder.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

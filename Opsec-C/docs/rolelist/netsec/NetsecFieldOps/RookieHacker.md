@@ -4,13 +4,13 @@
 
 “You need to help Netsec in any way you can, even if you aren’t the best at it, Rookie Hacker.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Leaves a log.
+Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Leaves a log.
 
 Desperate Measures (1 charge) - Turn into an Improvised Hacker. Breaks previous cameras.
 

@@ -22,7 +22,7 @@ The Vault
 
 Hack Target (Low, 1 charge) - Select a white node and attempt to hack it. Leaves a log.
 
-Upload Intel (1 charge) - Select a green node and upload intel that is downloadable by others. Whoever downloading will get class intel, target node, or faction intel. Leaves a log.
+Upload Intel (1 charge) - Select a green node and upload intel that is downloadable by others. Whoever downloading will get intel (see tips for list of intel). Leaves a log.
 
 ### **Night:**
 

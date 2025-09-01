@@ -18,6 +18,8 @@ Act as Defense - Select a target operative. The operative will have an extra vot
 
 Objection! - Force someone to vote for someone of your choice.
 
+Grant Immunity (1 charge) - Select a target operative. They are immune to voting this round. Grant Immunity can only be used once, regardless of phase.
+
 Cryptocurrency Trading - Trade currency for some intel. Instead of downloading, you can try to get intel through buying and selling crypto on the market. Do not go through frames or cover. Download Intel without leaving a connection log. Sometimes returns fake intel.
 
 ### **Night:**
@@ -27,6 +29,8 @@ Act as Prosecution - Select a target operative. The operative will have an extra
 Act as Defense - Select a target operative. The operative will have an extra vote (-1) with them next phase, not shown to the Opsec.
 
 Objection! - Force someone to vote for someone of your choice.
+
+Grant Immunity (1 charge) - Select a target operative. They are immune to voting this round. Grant Immunity can only be used once, regardless of phase.
 
 Paid Frame (N1 -> N3 cooldown) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Visit them.
 

@@ -4,7 +4,7 @@
 
 “You know your way around radios and other communications devices like no other, Radio Operator.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

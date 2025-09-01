@@ -4,7 +4,7 @@
 
 “You are a performance artist, but you were hired by Netsec to fulfill their fantasies, Dungeon Master.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

@@ -12,7 +12,7 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
-Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node. Decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
 
 ### **Night:**
 

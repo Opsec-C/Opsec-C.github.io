@@ -4,7 +4,7 @@
 
 “Network Architecture is your specialty, and you know every bit about routing and connecting clients and servers, Network Architect.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
@@ -14,7 +14,7 @@ Denial of Service (2 charges) - Select a green or white node and block all conne
 
 ### **Night:**
 
-Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
+Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 
 Add Route (N1 -> N3 cooldown, 2 charges) - Select two nodes and add a route between them.
 

@@ -16,7 +16,7 @@ Get Dirt - Select a target operative. You will get one of two class types that t
 
 Stakeout for Scoops - Select a target operative. If they are arrested tonight, gain 2 scoops.
 
-Destroy Intel - Select a green node, if you find intel that is of class intel, target node, or faction intel, destroy it, give yourself the intel, and gain 1 scoop.
+Destroy Intel - Select a green node, if you find intel that is of intel (see tips for list of intel), destroy it, give yourself the intel, and gain 1 scoop.
 
 ### **Night:**
 
@@ -24,7 +24,7 @@ Murder Journalist (1 charge) - Select a target operative. If the target is a jou
 
 Follow (2 charges) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you’d only know that they could not leave their hideout. Gain 1 scoop if they visit someone.
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them. Gain 1 scoop if they attempt to do an action.
+Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Gain 1 scoop if they attempt to do an action.
 
 Disorganized Murder - Select an operative and attempt to murder them. Visit the target. Gain 1 scoop if successful.
 

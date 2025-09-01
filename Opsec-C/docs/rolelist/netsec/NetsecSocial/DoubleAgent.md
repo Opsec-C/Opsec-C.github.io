@@ -4,7 +4,7 @@
 
 “You are still working for agents, but your true alignment has always been Netsec, Double Agent.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

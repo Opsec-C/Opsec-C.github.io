@@ -4,7 +4,7 @@
 
 “Death is just a condition and jail is just a place, Criminal Coroner”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

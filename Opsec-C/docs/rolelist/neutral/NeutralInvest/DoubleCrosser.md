@@ -10,7 +10,7 @@ Win Condition: Guess a target operative’s role through Turn Yourself In and ge
 
 Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
+Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Do not go through frames or cover. Leaves a log.
 
 Review TCP Packets (N1 -> N4 cooldown, 2 charges) - Select a target operative and check if they used a hack today.
 
@@ -18,7 +18,7 @@ Hack Private Channel (1 charge) - You can write one message to talk to all playe
 
 ### **Night:**
 
-Obtain Evidence (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Gain some intel, similar to Download Intel, getting class intel, target node, or faction intel. Do not go through frames or cover. Do not reveal yourself to them.
+Obtain Evidence (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Gain some intel, similar to Download Intel, getting intel (see tips for list of intel). Do not go through frames or cover. 
 
 Wiretap (N1 -> N3 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
 

@@ -4,13 +4,13 @@
 
 “You know how to get extra clicks or break any website, Search Engine Optimizer.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
+Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Do not go through frames or cover. Leaves a log.
 
 Information Retrieval - Search the web and scrape the web for intel. Finds if there is intel on currently hacked nodes. Do not leave a log.
 

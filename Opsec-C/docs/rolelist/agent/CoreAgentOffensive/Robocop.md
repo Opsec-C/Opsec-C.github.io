@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 “Agents created you to stop Netsec, Robocop.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 
@@ -36,7 +36,7 @@ Defend
 
 =======================================================================
 
-Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node. Decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
 
 Data Void (1 charge) - Select a white node. If the node is hacked this day, you will take root on that node first. Does not deplete on failure of taking the node.
 

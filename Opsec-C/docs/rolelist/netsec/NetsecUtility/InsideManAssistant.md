@@ -4,7 +4,7 @@
 
 “You don’t have high clearance at the target company, but any little bit helps. Cash out and get out, Inside Man (Assistant).”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

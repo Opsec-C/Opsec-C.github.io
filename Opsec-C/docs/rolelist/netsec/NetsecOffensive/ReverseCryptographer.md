@@ -4,7 +4,7 @@
 
 “You know the ins and outs of cryptography and cryptocurrency, Reverse Cryptographer.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
@@ -12,7 +12,7 @@ Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a lo
 
 Exploit Vulnerability (2 charges) - Select a white node and attempt to hack it with a low hack chance and increasing hacking chances of getting this node.
 
-Chinese Remainder Theorem Teaching (1 charge) - You know how this company would encrypt their nodes, increasing the chances of hacking into all nodes this phase.
+Chinese Remainder Theorem (1 charge) - You know how this company would encrypt their nodes, increasing the chances of hacking into all nodes this phase and learning the next layer that would have intel.
 
 Cryptocurrency Trading - Trade currency for some intel. Instead of downloading, you can try to get intel through buying and selling crypto on the market. Do not go through frames or cover. Download Intel without leaving a connection log. Sometimes returns fake intel.
 

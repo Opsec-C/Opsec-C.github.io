@@ -4,7 +4,7 @@
 
 “You’ve broken into hundreds of personal computers, Laptop Specialist.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
@@ -16,7 +16,7 @@ Hack ROOT Access - Select a white node. If there is no rooted operative or OL, y
 
 Research Servers (2 charges) - Increases your hacking stage by one against servers the following day.
 
-Overdrive (1 charge) - Tomorrow, you can select a white laptop and instantly hack it, or select a server and have a very high chance to hack a server. Leaves a log.
+Overdrive (1 charge) - Tomorrow, you instantly hack laptops, or have a very high chance to hack a server. Leaves a log.
 
 Backup Access Logs (2 charges) - Select a white node. Prevent this node from being wiped using the Wipe skill.
 

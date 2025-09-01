@@ -4,7 +4,7 @@
 
 “With your tactics in social engineering, you’ll learn who any operative sides with, Social Engineer.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

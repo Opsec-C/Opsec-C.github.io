@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 “Let’s show Netsec what cutting edge is like, Drone Operator.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

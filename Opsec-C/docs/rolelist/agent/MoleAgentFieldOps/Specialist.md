@@ -6,7 +6,7 @@ This role is ONLY through a Criminal Psychologist, not a role that exists withou
 
 “A famous Criminal Psychologist convinced you to help them, Specialist.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

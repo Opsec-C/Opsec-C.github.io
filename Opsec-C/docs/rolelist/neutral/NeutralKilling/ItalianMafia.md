@@ -22,7 +22,7 @@ Uninstall Untrusted (D1 -> D3 cooldown) - Select a target operative and disable 
 
 Italian Greeting - Select a target operative and visit them. Does not gain any intel.
 
-Mafia Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Mafia Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 
 They Eat Pineapple Pizza - Select a target operative. Attempt to kill the operative with local mafia. Visit them.
 

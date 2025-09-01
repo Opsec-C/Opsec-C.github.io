@@ -4,7 +4,7 @@
 
 “In order to escape prison, you took a plea deal as an Inside Man (Assistant). Agents could use your insider knowledge of the company, Agent Company Man.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

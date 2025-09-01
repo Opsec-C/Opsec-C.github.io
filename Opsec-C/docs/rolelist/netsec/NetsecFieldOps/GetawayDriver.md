@@ -4,7 +4,7 @@
 
 “You are needed to make sure people in this Opsec can get from place to place quickly, Getaway Driver.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

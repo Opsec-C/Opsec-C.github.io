@@ -4,15 +4,15 @@
 
 “Your combined knowledge on embedded systems and ability to decipher fellow operative’s skill set allows you to help this Opsec, Computer Technician.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
+Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
+Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Do not go through frames or cover. Leaves a log.
 
-Upload Intel (0 charges) - Select a green node and upload intel that is downloadable by others. Whoever downloading will get class intel, target node, or faction intel. Leaves a log.
+Upload Intel (0 charges) - Select a green node and upload intel that is downloadable by others. Whoever downloading will get intel (see tips for list of intel). Leaves a log.
 
 ### **Night:**
 

@@ -4,7 +4,7 @@
 
 “W3C is relying on you to figure out the opposition, W3C Stalker.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

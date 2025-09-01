@@ -4,7 +4,7 @@
 
 “Your employer hasn’t paid you enough. But Netsec? They’re offering plenty, Maintenance Man.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
@@ -12,7 +12,7 @@ Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
 Log Analysis - Select a green node and clear any fake logs from Alter Logs or Rollback. Leaves a log.
 
-Server Maintenance - Select a white node. Prevent this node from being hardened in any way using the Harden Node or similar difficulty increasing skills. Leaves a log.
+Server Maintenance (3 charges) - Select a white node. Prevent this node from being hardened in any way using the Harden Node or similar difficulty increasing skills. Leaves a log.
 
 Emergency Repairs (1 charge) - Select a green or white node and block all connections to the node this day. Lets you know if a rollback was used on the node. Do not leave a log.
 

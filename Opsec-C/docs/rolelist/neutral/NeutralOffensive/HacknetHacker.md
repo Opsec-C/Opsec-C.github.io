@@ -26,6 +26,6 @@ Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are 
 
 ### **Passives:**
 
-Unsecured Device - If you are arrested, the agents get some intel, similar to Download Intel, getting class intel, target node, or faction intel. Do not go through frames or cover.
+Unsecured Device - If you are arrested, the agents get some intel, similar to Download Intel, getting intel (see tips for list of intel). Do not go through frames or cover.
 
 Finding Fame Elsewhere - If you fail to hack 3 consecutive nodes, turn into a Network Shutdowner permanently.

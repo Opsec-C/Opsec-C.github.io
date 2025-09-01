@@ -4,7 +4,7 @@
 
 “Drug usage is always fine to W3C if it leads to results, W3C Lab Technician.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

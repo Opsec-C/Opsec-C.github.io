@@ -4,7 +4,7 @@
 
 “You are an expert in linguistics and Natural Language Processing, Natural Linguist.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

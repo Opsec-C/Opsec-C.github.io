@@ -4,11 +4,13 @@
 
 “You are pretty crafty at getting money out of people, Loan Shark.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
+
+Receive Loan - Add one fund to your total funds.
 
 Buy Field Operations (0 charges) - Buy one night ability with one charge between Misdirection, Emergency Extraction, and Follow.
 
@@ -20,7 +22,7 @@ Buy Field Operations (0 charges) - Buy one night ability with one charge between
 
 Hack Target (Moderate, 1 charge) - Select a white node and attempt to hack it. Leaves a log.
 
-Download Intel (1 charge) - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
+Download Intel (1 charge) - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Do not go through frames or cover. Leaves a log.
 
 Probe Node (1 charge) - Select a white node, increasing hacking chances of getting this node. Strongest hacking chance buff. Leaves a log.
 
@@ -44,4 +46,4 @@ Follow (1 charge) - Select a target operative and follow them, visiting them and
 
 ### **Passives:**
 
-None.
+Greedy - You passively gain one fund every new day.

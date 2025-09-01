@@ -12,13 +12,13 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Fake Denial of Service (2 charges) - Select a green or white node and fake blocking all connections to the node this day. Do not leave a log.
 
-Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail.
+Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
 
 Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
 
 ### **Night:**
 
-Get Scoop (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them. Find if the target is not neutral.
+Get Scoop (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not go through frames or cover. Find if the target is not neutral.
 
 Uplift Paragon - Select a Paragon operative. For tonight, they are immune to occupation. Visit them.
 

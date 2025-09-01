@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “You know how to deceive, trick, and cheat past your rivals, Master Manipulator.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

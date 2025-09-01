@@ -28,7 +28,7 @@ Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless y
 
 Spook - Select a target operative and visit them. Does not gain any intel.
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 
 ### **Passives:**
 

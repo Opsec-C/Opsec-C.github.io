@@ -3,6 +3,9 @@
 - You can use disorganized murder, desperate measures, and any time gated ability from the first day.
 - Plea deal does NOT exist mechanically from Agents. Moles can spawn from day 1.
 - Almost every role has the ability to unskilled attack and/or hack, including field ops roles.
+- Hacking changes significantly, instead of winning on hack, Netsec or Agents can gain intel upon hacking specific nodes and/or layers. This will allow for both factions to dictate how they want to play, hack heavy or less hacking. Hacking target node grants intel instead of winning the game for Netsec
+- Download intel and other sources of intel can include:
+  - 
 - Cameras on any role do NOT get seen by other roles with cameras.
 - Escort and Fake Escort can only select the same target every other day.
 - Cover Your Tracks leaves a notification that the target was unarrestable.
@@ -12,7 +15,6 @@
 - Impersonate allows you to rename your operative to allow for a 50% chance to target either operative. Troll Operative allows you to change another operative’s name.
 - Ask the Right Question gives the operative’s hack chance too.
 - Doxx works similarly to default Untrusted.
-- Midnight Meet is designed to have prosopagnosia on by default (cannot see who met).
 - Every player is immune to every third general occupational ability (Midnight Meet, escort, interrogate, ISP/Jam, etc).
 - Review Specialization checks subclass.
 - Speech Analysis checks if operatives can win together.

@@ -4,17 +4,19 @@
 
 “Netsec taught you everything you know, you can’t let them fail, Steadfast Student.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log. If Determined, the hack chance is high, and if Weathering the Storm, the hack chance is very high.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
+Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Do not go through frames or cover. Leaves a log.
 
 ### **Night:**
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
+
+Ask for Assistance (N1 -> N3 cooldown, 2 charges) - Select a target operative and disable all day actions related to the topology. Steal their hack chance if it is higher than yours. Works like Jam Network. Visit them.
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 

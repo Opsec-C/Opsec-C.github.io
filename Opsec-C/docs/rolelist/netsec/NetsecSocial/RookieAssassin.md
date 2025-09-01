@@ -4,7 +4,7 @@
 
 “You are supposed to be on the Operation Leader’s payroll, but you needed to train up as one of the operatives first, Rookie Assassin.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

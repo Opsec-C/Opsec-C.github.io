@@ -4,7 +4,7 @@
 
 “You were the one that got into the client in the first place, but now it is your duty to defend it, W3C Blackhat.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 
@@ -14,7 +14,7 @@ Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a l
 
 Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
 
-Encrypt Intel - Select a green node and attempt to erase intel from it. If there is intel, and you remove it first, you will get class intel, target node, or faction intel. Goes through cover or frames. Leaves a log.
+Encrypt Intel - Select a green node and attempt to erase intel from it. If there is intel, and you remove it first, you will get intel (see tips for list of intel). Goes through cover or frames. Leaves a log.
 
 <br>
 
@@ -34,7 +34,7 @@ Caesar Cipher (1 charge) - Select a layer, removing all intel on this layer. Do 
 
 ### **Night:**
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 
 Prepare Sprint (1 charge) - The next day you can do two different day actions.
 

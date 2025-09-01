@@ -4,7 +4,7 @@
 
 “You don’t have high clearance at the target company, but any little bit helps. Cash out and get out, Inside Man (Security Guard).”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
@@ -18,7 +18,7 @@ Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 ### **Night:**
 
-Neutrals OUT (2 charges) - Select a target operative and arrest them, only if they are truly a Neutral role with a Neutral objective. Visit them.
+Neutrals OUT (2 charges) - Select a target operative, remove no dirt on me and arrest them, only if they are truly a Neutral role with a Neutral objective. Visit them.
 
 Sniff-out (N1 -> N3 cooldown) - Select a target operative. If the operative is a drug dealer or has the potential to murder or disorganized murder in any way, let you know. Goes through cover or frames. Visit them.
 

@@ -6,15 +6,15 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 “You were hired outside of Agents to do dirty work, Independent Contractor.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
+Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Do not go through frames or cover. Leaves a log.
 
-Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node. Decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
 
 Reverse Protocols - Select a white node. All abilities that increase the security of the node will decrease the security of the node, and all abilities that decrease the security of the node increase the security of the node. Leaves a log.
 

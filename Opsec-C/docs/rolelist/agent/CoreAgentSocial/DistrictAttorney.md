@@ -6,15 +6,15 @@ This role is supposed to be unique, depending on the ruleset.
 
 “The law is on your side, District Attorney.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Prosecution - Select a target operative. The operative will have an extra vote (+1) against them in the next phase, not shown to the Opsec.
+Act as Prosecution - Select a target operative. The operative will have an extra vote (+1) against them in the next phase, not shown to the Opsec.
 
-Defense - Select a target operative. The operative will have an extra vote (-1) with them next phase, not shown to the Opsec.
+Act as Defense - Select a target operative. The operative will have an extra vote (-1) with them next phase, not shown to the Opsec.
 
 Grant Immunity (1 charge) - Select a target operative. They are immune to voting this round. Grant Immunity can only be used once, regardless of phase.
 
@@ -24,9 +24,9 @@ All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Ag
 
 ### **Night:**
 
-Prosecution - Select a target operative. The operative will have an extra vote (+1) against them in the next phase, not shown to the Opsec.
+Act as Prosecution - Select a target operative. The operative will have an extra vote (+1) against them in the next phase, not shown to the Opsec.
 
-Defense - Select a target operative. The operative will have an extra vote (-1) with them next phase, not shown to the Opsec.
+Act as Defense - Select a target operative. The operative will have an extra vote (-1) with them next phase, not shown to the Opsec.
 
 Grant Immunity (1 charge) - Select a target operative. They are immune to voting this round. Grant Immunity can only be used once, regardless of phase.
 
@@ -54,4 +54,4 @@ Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 2.
 
 Closing Argument - In an event of a tie, you can choose if you would like to save both operatives, kill one operative, or kill both operatives.
 
-Argument Specialist - You can choose to defend or prosecute and do another action. Grant Immunity can only be used once, regardless of phase.
+Argument Specialist - You can choose to act as defend or act as prosecute and do another action. Grant Immunity can only be used once, regardless of phase.

@@ -4,7 +4,7 @@
 
 “In order to escape prison, you took a plea deal as a Network Specialist. Agents could use your network knowledge, Agent Network Specialist.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

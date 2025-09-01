@@ -4,7 +4,7 @@
 
 “In order to escape prison, you took a plea deal as an Enforcer. Agents could use your enforcing and kill potential, Agent Enforcer.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

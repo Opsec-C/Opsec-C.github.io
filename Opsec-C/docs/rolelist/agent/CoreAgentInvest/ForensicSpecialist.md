@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “It’s time to be the most famous agent that has ever lived, Forensic Specialist.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

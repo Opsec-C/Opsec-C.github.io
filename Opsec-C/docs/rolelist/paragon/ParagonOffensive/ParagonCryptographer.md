@@ -10,7 +10,7 @@ Win Condition: Make all factions have only 50% of their operatives, including Ne
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
-Chinese Remainder Theorem Teaching (1 charge) - You know how this company would encrypt their nodes, increasing the chances of hacking into all nodes this phase.
+Chinese Remainder Theorem (1 charge) - You know how this company would encrypt their nodes, increasing the chances of hacking into all nodes this phase and learning the next layer that would have intel.
 
 Cryptocurrency Trading - Trade currency for some intel. Instead of downloading, you can try to get intel through buying and selling crypto on the market. Do not go through frames or cover. Download Intel without leaving a connection log. Sometimes returns fake intel.
 

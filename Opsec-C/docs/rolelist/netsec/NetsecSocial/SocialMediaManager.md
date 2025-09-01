@@ -4,7 +4,7 @@
 
 “Netsec needs your advertising and social media skills, Social Media Manager.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

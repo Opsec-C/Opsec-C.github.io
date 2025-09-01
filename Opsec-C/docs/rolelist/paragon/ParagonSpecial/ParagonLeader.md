@@ -24,7 +24,7 @@ Computer Forensics Background (Pick 1)
 
 Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
 
-Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node. Decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
 
 Probe Node - Select a white node, increasing hacking chances of getting this node. Strongest hacking chance buff. Leaves a log.
 

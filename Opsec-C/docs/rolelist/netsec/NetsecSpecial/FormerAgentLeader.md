@@ -6,7 +6,7 @@ This role is unique, at most one Operation Leader should spawn.
 
 “That fucking bastard stole your job! You’ve risen up the ranks of Netsec for one purpose, revenge, here’s your chance Former Agent Leader.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
@@ -18,7 +18,7 @@ Give Root Access (1 charge) - Select an operative to give root to. Upon your dea
 
 ### **Night:**
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 
 Investigation (N1 -> N3 cooldown) - Select a target operative. Learn between three subclasses. One is the real subclass, which pierces any cover and frame. Visit them.
 

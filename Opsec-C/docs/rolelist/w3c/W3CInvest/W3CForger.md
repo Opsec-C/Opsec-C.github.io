@@ -4,7 +4,7 @@
 
 “Causing chaos and confusing Netsec, that is why you were brought here, W3C Forger.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

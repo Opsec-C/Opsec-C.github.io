@@ -18,7 +18,7 @@ Hack Private Channel (2 charges) - You can write one message to talk to all play
 
 ### **Night:**
 
-Looking for an Old Friend (N1 -> N3 cooldown) - Select a target operative, if they are a target, you will know. Goes through cover or frames. Visit them.
+Looking for an Old Friend (N1 -> N3 cooldown) - Select a target operative, if they are a target or special subclass, you will know. Goes through cover or frames. Visit them.
 
 Interrogate (3 charges) - Select a target operative and occupy them. The host will ask them for their logs, giving you what they send.
 

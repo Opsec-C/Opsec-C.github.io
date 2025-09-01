@@ -22,6 +22,6 @@ Wake Up Call (1 charge) - Become the Panicked Blabbermouth.
 
 ### **Passives:**
 
-Unsecured Device - If you are arrested, the agents get some intel, similar to Download Intel, getting class intel, target node, or faction intel. Do not go through frames or cover.
+Unsecured Device - If you are arrested, the agents get some intel, similar to Download Intel, getting intel (see tips for list of intel). Do not go through frames or cover.
 
 Hidden Connections - If you are murdered, the player that killed you will be arrested. If you are voted out, one random operative that voted you will be arrested.

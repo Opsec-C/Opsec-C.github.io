@@ -4,7 +4,7 @@
 
 “In order to escape prison, you took a plea deal as a Technical Recruiter. Agents could use your people skills and recruiting, Agent Technical Recruiter.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

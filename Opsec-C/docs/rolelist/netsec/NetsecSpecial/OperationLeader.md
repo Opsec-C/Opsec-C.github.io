@@ -6,7 +6,7 @@ This role is unique, at most one Operation Leader should spawn.
 
 “It’s time to lead this OPSEC to victory, Operation Leader.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

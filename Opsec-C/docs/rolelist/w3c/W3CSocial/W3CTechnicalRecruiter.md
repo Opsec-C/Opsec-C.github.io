@@ -4,7 +4,7 @@
 
 “You were the one who brought them to this Opsec, now it is your job to unite them, W3C Technical Recruiter.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

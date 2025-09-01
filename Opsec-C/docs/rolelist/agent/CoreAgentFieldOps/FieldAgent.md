@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 “You must perform the field operations and arrest them, Field Agent.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 
@@ -28,7 +28,7 @@ Execute Raid - Arrest all raided operatives that are still in the same hideout. 
 
 <br>
 
-Agent Training (Pick one)
+Agent Training (Pick 1)
 
 =======================================================================
 

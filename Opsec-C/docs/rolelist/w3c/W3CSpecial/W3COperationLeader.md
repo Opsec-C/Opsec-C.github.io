@@ -6,7 +6,7 @@ This role is unique, at most one Operation Leader should spawn.
 
 “Time to lead W3C along with the Opsec, W3C Operation Leader.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 
@@ -22,7 +22,7 @@ Altar of Heresy (50% W3C operatives left or obtained Root Access)
 
 =======================================================================
 
-Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail.
+Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
 
 <br>
 

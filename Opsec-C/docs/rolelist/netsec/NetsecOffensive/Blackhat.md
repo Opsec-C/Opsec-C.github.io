@@ -4,7 +4,7 @@
 
 “You are one of the most skilled hackers in Netsec’s arsenal, Blackhat.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
@@ -16,7 +16,7 @@ Exploit Vulnerability (2 charges) - Select a white node and attempt to hack it w
 
 ### **Night:**
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 
 Prepare Sprint (1 charge) - The next day you can do two different day actions.
 

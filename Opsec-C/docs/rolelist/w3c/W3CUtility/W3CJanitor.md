@@ -4,7 +4,7 @@
 
 “Cleaning things is your specialty, especially bodies, W3C Janitor.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

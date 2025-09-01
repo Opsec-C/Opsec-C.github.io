@@ -16,7 +16,7 @@ Hack Target (Random) - Select a white node and attempt to hack it. Randomly roll
 
 Roll the Dice - Select a white node and randomly instantly hack it or use a denial of service on it, stopping all connections to the node. Do not leave a log.
 
-Google RNG - Select a green node and randomly upload intel that is downloadable by others, or use a rollback, returning the node to a white node, un-hacking the node, with connections to nodes ahead failing. If you uploaded intel, whoever downloading will get class intel, target node, or faction intel. Do not leave a log.
+Google RNG - Select a green node and randomly upload intel that is downloadable by others, or use a rollback, returning the node to a white node, un-hacking the node, with connections to nodes ahead failing. If you uploaded intel, whoever downloading will get intel (see tips for list of intel). Do not leave a log.
 
 Give Root Access (1 charge) - Select an operative to give root to. Upon your death, they can choose to become an Operation Leader of their own faction or stay as their current role with broadcast.
 

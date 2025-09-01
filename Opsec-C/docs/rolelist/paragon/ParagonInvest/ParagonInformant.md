@@ -12,7 +12,7 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Leaves a log.
+Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Leaves a log.
 
 ### **Night:**
 

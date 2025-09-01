@@ -4,7 +4,7 @@
 
 “In order to escape prison, you took a plea deal as a Propagandist. Agents could use your powerful fighting spirit, Agent Propagandist.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

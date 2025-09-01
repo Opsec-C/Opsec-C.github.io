@@ -6,7 +6,7 @@ This role is ONLY if there are no more Core roles left and there are moles left,
 
 “You are panicking and not thinking straight, Netsec is out to get you and other agents believe you were behind it all, get out alive, Runaway Snitch.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 
@@ -18,7 +18,7 @@ ISP Isolation (3 charges) - Select a target operative and disable all day action
 
 Snitch to Cops (N1 -> N4 cooldown) - Select a target operative. Attempt to arrest the operative with local cops. Do not visit them.
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 
 Spook - Select a target operative and visit them. Does not gain any intel.
 

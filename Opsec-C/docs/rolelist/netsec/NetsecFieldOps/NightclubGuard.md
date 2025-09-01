@@ -4,7 +4,7 @@
 
 “Netsec pays a lot more than those 24 hour clubs, Nightclub Guard.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 

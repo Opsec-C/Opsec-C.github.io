@@ -4,19 +4,19 @@
 
 “You’ve broken into hundreds of company servers, Server Specialist.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log. If it is a server, the chance of a hack is high.
 
-Server Maintenance - Select a white node. Prevent this node from being hardened in any way using the Harden Node or similar difficulty increasing skills. Leaves a log.
-
-Overload Node (1 charge) - Select a white node. All connections and DDOS to this node will fail. Leaves a log.
+Server Maintenance (3 charges) - Select a white node. Prevent this node from being hardened in any way using the Harden Node or similar difficulty increasing skills. Leaves a log.
 
 Hack ROOT Access - Select a white node. If there is no rooted operative or OL, you can hack into root access by trying to hack a node with the OL’s connection and become an Operation Leader. Leaves a log.
 
 ### **Night:**
+
+Research Laptops (2 charges) - Increases your hacking stage by one against laptops the following day.
 
 Lock Server (1 charge) - Select a white or green node. Prevent any rollback or DDOS tomorrow.
 

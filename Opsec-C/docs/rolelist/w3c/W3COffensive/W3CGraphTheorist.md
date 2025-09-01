@@ -4,21 +4,21 @@
 
 “Graph Theory is a specialty and study that many want, including W3C, W3C Graph Theorist.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 
 Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a log.
 
-Node prediction (2 charges) - Select a white node. You always predict correctly, so you get information about whether the next node is a laptop or a server.
+Node prediction (2 charges) - Select a white node. You always predict correctly, so you get information about whether the next node is a laptop or a server, and if it has intel.
 
-Random Graph Models (D1 -> D4 cooldown) - Reveal the next layer in the topology to yourself.
+Random Graph Models (D1 -> D4 cooldown) - Reveal the next layer in the topology to yourself, and if the layer has intel upon hacking to it.
 
 ### **Night:**
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 
-Elaborative Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack and knowledge of graphs. Do not reveal yourself to them.
+Elaborative Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack and knowledge of graphs. 
 
 Graph Theory Lecture (1 charge) - Occupy all operatives that have been given knowledge of graphs previously with Elaborative Meet.
 

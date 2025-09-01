@@ -6,15 +6,15 @@ This role is supposed to be unique, depending on the ruleset.
 
 “You are one of the best operatives, hackers, and leaders Netsec has ever seen, but you decided not to lead this Operation, Tech Lead.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
 Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Do not go through frames or cover. Leaves a log.
-
 Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
+
+Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
 
 0-Day Exploit (1 charge) - Select a white node and instantly hack it. Leaves a log.
 
@@ -22,13 +22,11 @@ Give Root Access (0 charges) - Select an operative to give root to. Upon your de
 
 ### **Night:**
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 
 Investigate Hideout (N1 -> N3 cooldown) - Select a target operative. You will learn who they visited, and their subclass. Do not go through frames or cover. Visit them.
 
 Advisor (N1 -> N3 cooldown) - Select a target operative, their hacking chance temporarily increases by one stage. Visit them.
-
-Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
 
 ### **Passives:**
 

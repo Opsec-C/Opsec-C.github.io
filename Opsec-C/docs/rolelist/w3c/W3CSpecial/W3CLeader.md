@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 “Time to command W3C to victory in this Opsec, W3C Leader.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 
@@ -26,7 +26,7 @@ Computer Forensics Background (Pick 1)
 
 Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
 
-Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail.
+Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
 
 0-Day Exploit (1 charge) - Select a white node and instantly hack it. Leaves a log.
 
@@ -52,7 +52,7 @@ Increase Hack Target skill to Very High.
 
 Murder with Goons (N1 -> N3 cooldown) - Select an operative and murder them. Do not occupy them. Visit them.
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 
 <br>
 

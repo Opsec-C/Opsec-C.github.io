@@ -6,7 +6,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 “You founded this organization to get these pathetic pissants yourself, Founder of Agent.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 
@@ -18,7 +18,7 @@ ISP Isolation (3 charges) - Select a target operative and disable all day action
 
 Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
-Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail.
+Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
 
 <br>
 
@@ -28,7 +28,7 @@ Computer Forensics Background (Pick 1)
 
 Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
 
-Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node. Decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
 
 Algorithmic Connections - Select a white or green node. If alter logs or rollback is used, double the amount of random connection logs. Do not leave a log.
 
@@ -38,7 +38,7 @@ Arrest - Select a target operative and arrest them. Visit them.
 
 Sting (1 charge) - Select a target operative and arrest them, along with anyone that visits them. Do not visit them.
 
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not reveal yourself to them.
+Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 
 Informant (N1 -> N3 cooldown, 2 charges) - Select a target operative. Choose to visit or not, and reveal their faction and subclass to you. Goes through cover or frames.
 
@@ -46,7 +46,7 @@ Plant Agent Documentation (3 charges) - Select a target operative. If the operat
 
 <br>
 
-Agent Training (Pick one)
+Agent Training (Pick 1)
 
 =======================================================================
 

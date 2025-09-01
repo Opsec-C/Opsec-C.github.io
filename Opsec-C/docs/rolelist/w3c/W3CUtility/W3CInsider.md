@@ -4,7 +4,7 @@
 
 “You’ve tricked the client into letting you inside, but how much of that will you use for W3C, W3C Insider.”
 
-Win Condition: Prevent the hack from completing on time.
+Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
 ### **Day:**
 

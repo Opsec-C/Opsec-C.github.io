@@ -4,15 +4,15 @@
 
 “Your ability to crack passwords and convince people to give you information has gotten you a position in Netsec, Spearphisher.”
 
-Win Condition: Eliminate ALL hostile units (Agents, W3C, and Neutral Killing), or hack the target node.
+Win Condition: Eliminate ALL hostile units.
 
 ### **Day:**
 
-Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves a log.
+Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
 Spearphisher Execution (0 charges) - Select a white node, increasing hacking chances of getting this node. Also finds out if there is intel on this node. Leaves a log. Gives back a charge of Spearphisher Preparation.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get class intel, target node, or faction intel. Leaves a log.
+Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Leaves a log.
 
 Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
