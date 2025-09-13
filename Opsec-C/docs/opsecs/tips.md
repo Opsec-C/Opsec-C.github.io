@@ -5,16 +5,16 @@
 - Almost every role has the ability to unskilled attack and/or hack, including field ops roles.
 - Hacking changes significantly, instead of winning on hack, Netsec or Agents can gain intel upon hacking specific nodes and/or layers. This will allow for both factions to dictate how they want to play, hack heavy or less hacking. Hacking target node grants intel instead of winning the game for Netsec
 - Download intel and other sources of intel can include:
-  - Subclass
-  - Faction
-  - 3 roles, 1 in play, 2 not in play
-  - Remaining number of a faction (e.g. number of Netsec remaining)
-  - An action that was done last day
-  - An action that was done last night
-  - The next layer that has intel
-  - A node that has intel
-  - Who hacked a node/layer
-  - Target node
+    - Subclass
+    - Faction
+    - 3 roles, 1 in play, 2 not in play
+    - Remaining number of a faction (e.g. number of Netsec remaining)
+    - An action that was done last day
+    - An action that was done last night
+    - The next layer that has intel
+    - A node that has intel
+    - Who hacked a node/layer
+    - Target node
 - Cameras on any role do NOT get seen by other roles with cameras.
 - Escort and Fake Escort can only select the same target every other day.
 - Cover Your Tracks leaves a notification that the target was unarrestable.
