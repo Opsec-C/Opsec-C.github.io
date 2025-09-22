@@ -22,7 +22,7 @@ Plan B (1 charge) - If there is no Agent Leader, turn into an Agent Leader.
 
 ### **Night:**
 
-Investigate Bottom - Arrest the operative below you in the list of operatives and give you the subclass of the operative below the operative. Goes through cover or frames. Visit them.
+Investigate Bottom - Arrest the operative below you in the list of operatives and give you the subclass of the operative below the operative. Goes through cover or frames. If this fails, skip the operative below you and arrest the next operative. Visit them.
 
 Investigate Hideout (N1 -> N3 cooldown) - Select a target operative. You will learn who they visited, and their subclass. Do not go through frames or cover. Visit them.
 
