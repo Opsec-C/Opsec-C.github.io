@@ -12,7 +12,7 @@ Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log. If
 
 Server Maintenance (3 charges) - Select a white node. Prevent this node from being hardened in any way using the Harden Node or similar difficulty increasing skills. Leaves a log.
 
-Hack ROOT Access - Select a white node. If there is no rooted operative or OL, you can hack into root access by trying to hack a node with the OL’s connection and become an Operation Leader. Leaves a log.
+Hack ROOT Access - Select a green node. If there is no rooted operative or OL, you can hack into root access by trying to hack a node with the OL’s connection and become an Operation Leader. Leaves a log.
 
 ### **Night:**
 

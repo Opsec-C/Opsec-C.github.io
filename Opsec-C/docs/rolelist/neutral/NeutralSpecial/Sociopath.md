@@ -16,7 +16,7 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Hold Opsec Hostage (2 charges) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
 
-Hack ROOT Access - Select a white node. If there is no rooted operative or OL, you can hack into root access by trying to hack a node with the OL’s connection and become the OL. Leaves a log.
+Hack ROOT Access - Select a green node. If there is no rooted operative or OL, you can hack into root access by trying to hack a node with the OL’s connection and become the OL. Leaves a log.
 
 ### **Night:**
 

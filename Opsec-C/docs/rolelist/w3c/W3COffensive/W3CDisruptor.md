@@ -10,7 +10,7 @@ Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/n
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
-Hack ROOT Access - Select a white node. If there is no rooted operative or OL, you can hack into root access by trying to hack a node with the OL’s connection and become a W3C Operation Leader. Leaves a log.
+Hack ROOT Access - Select a green node. If there is no rooted operative or OL, you can hack into root access by trying to hack a node with the OL’s connection and become a W3C Operation Leader. Leaves a log.
 
 Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
 
