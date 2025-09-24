@@ -20,7 +20,7 @@ Pull the Rug (1 charge) - Select a white or green node and upload intel that is 
 
 NFT Scam (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about an NFT. If you want to, you can use a charge of frame here. (Same as Midnight Meet).
 
-Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Visit them.
+Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Visit them.
 
 ### **Passives:**
 

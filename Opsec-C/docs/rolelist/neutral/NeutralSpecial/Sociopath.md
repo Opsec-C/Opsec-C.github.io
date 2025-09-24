@@ -22,7 +22,7 @@ Hack ROOT Access - Select a green node. If there is no rooted operative or OL, y
 
 Follow (2 charges) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you’d only know that they could not leave their hideout.
 
-Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Visit them.
+Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Visit them.
 
 Murder (1 charge) - Select an operative and murder them. Occupies and visits the target. Become the Neutral Leader or Sociopath Leader if the target murdered is the Operation Leader.
 

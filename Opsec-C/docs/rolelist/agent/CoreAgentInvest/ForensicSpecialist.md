@@ -26,7 +26,7 @@ All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Ag
 
 Install CCTV Surveillance (D1 -> D3 cooldown, 2 charges) - Selects a target operative and places a camera on their hideout. The camera is destroyed upon moving hideout or getting escorted. Visit the target.
 
-Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Visit them.
+Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Visit them.
 
 <br>
 

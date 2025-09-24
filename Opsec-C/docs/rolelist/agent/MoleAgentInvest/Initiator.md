@@ -24,7 +24,7 @@ Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a D
 
 Snitch to Cops (N1 -> N4 cooldown) - Select a target operative. Attempt to arrest the operative with local cops. Do not visit them.
 
-Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Visit them.
+Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Visit them.
 
 Informant (N1 -> N3 cooldown, 2 charges) - Select a target operative. Choose to visit or not, and reveal their faction and subclass to you. Goes through cover or frames.
 

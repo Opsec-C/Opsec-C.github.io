@@ -26,7 +26,7 @@ Objection! - Force someone to vote for someone of your choice.
 
 Paid Assassin - Anyone who is voted during this phase will die at the end of the phase. Can be blocked using defensive abilities.
 
-Elusive Frame (N1 -> N3 cooldown) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Visit them.
+Elusive Frame (N1 -> N3 cooldown) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Visit them.
 
 Spook - Select a target operative and visit them. Does not gain any intel.
 

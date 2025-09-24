@@ -34,6 +34,7 @@
 - Voting can be silent, shown, or forced.
 - There are abilities that can use Broadcast that aren’t Operation Leader.
 - There are abilities to manually upload intel for others to download.
+- Frame will control the investigative results AND whether the operative can be killed or arrested. E.g. an Agent frame will make the operative be immune to arrests, and a Sociopath frame will make the operative have the Rent free passive.
 - Agents can be arrested when framed. Yep.
 - Only Journalist will know who tried to arrest them.
 - Root does not instantly lose or win the game. All roles may choose to become the faction specific Operation Leader or stay the same role with broadcast.

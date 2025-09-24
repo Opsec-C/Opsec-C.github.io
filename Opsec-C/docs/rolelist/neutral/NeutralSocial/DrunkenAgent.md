@@ -22,7 +22,7 @@ Blackmail (3 charges) - Select a target operative. They cannot vote for two phas
 
 Duel - Select a target operative. The next day, you and your opponent choose between laptop, server, and PC. Laptop beats PC, PC beats server, and server beats laptop. If you win, the target is occupied and murdered the night after.
 
-Paid Frame (N1 -> N3 cooldown) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Visit them.
+Paid Frame (N1 -> N3 cooldown) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Visit them.
 
 ### **Passives:**
 

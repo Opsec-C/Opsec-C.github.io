@@ -26,7 +26,7 @@ Setup (2 charges) - Select two operatives. The first operative will visit and oc
 
 Bamboozle - Select two operatives. Visiting the first operative gives feedback text stating that the first operative used Throw Under the Bus on the second operative, but the first operative never used that ability and the first operative’s field operations or investigative results will show up if done. Visits the first operative.
 
-Death Doubt (2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Allows you to change their logs. Visit them.
+Death Doubt (2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Allows you to change their logs. Visit them.
 
 ### **Passives:**
 

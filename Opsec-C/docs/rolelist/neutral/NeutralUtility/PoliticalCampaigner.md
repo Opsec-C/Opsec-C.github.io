@@ -28,7 +28,7 @@ Upload Intel (1 charge) - Select a green node and upload intel that is downloada
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 
-Smear Campaign (N1 -> N4 cooldown) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them arrestable. Grants one fund, has no charges. Visit them.
+Smear Campaign (N1 -> N4 cooldown) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Grants one fund, has no charges. Visit them.
 
 <br>
 
